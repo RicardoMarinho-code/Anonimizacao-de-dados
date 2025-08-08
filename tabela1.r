@@ -1,6 +1,6 @@
 pacman::p_load(sdcMicro, readxl, dplyr, readr) 
 
-dados <- read_delim(file.choose(), delim = ";", locale = locale(encoding = "Latin1")
+dados <- read_delim(file.choose(), delim = ";", locale = locale(encoding = 'Latin1')
 )
 
 dados <- dados |> select(
