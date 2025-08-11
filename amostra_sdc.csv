@@ -1,0 +1,501 @@
+data_referencia,txt_municipio,txt_uf,txt_regiao,txt_af,txt_modalidade,dt_assinatura_contrato,txt_sexo,estado_civil,tipo_beneficiario,vr_garantia_inicial,vr_subsidio_concessao,vr_renda_familiar_comprovada,faixa_etaria
+2020-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-01,Masculino,viúvo,Outras Comunidades,"R$ 51.897,00","R$ 49.332,00","R$ 3.710,00",30-49
+2018-02,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-01,Feminino,solteiro,Pescadores artesanais,"R$ 51.109,00","R$ 40.699,00","R$ 3.273,00",30-49
+2017-02,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-08,Feminino,divorciado,Indigena,"R$ 53.226,00","R$ 46.067,00","R$ 1.962,00",30-49
+2024-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Feminino,viúvo,Outras Comunidades,"R$ 53.363,00","R$ 41.386,00","R$ 3.310,00",30-49
+2019-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-02,Feminino,casado,Pescadores artesanais,"R$ 53.458,00","R$ 42.607,00","R$ 4.220,00",50-64
+2017-07,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-06,Masculino,solteiro,Indigena,"R$ 56.238,00","R$ 44.068,00","R$ 4.459,00",30-49
+2019-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-01,Feminino,solteiro,Assentados do PNRA,"R$ 89.799,00","R$ 49.807,00","R$ 4.135,00",30-49
+2018-02,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Masculino,casado,Indigena,"R$ 66.968,00","R$ 41.010,00","R$ 4.476,00",30-49
+2019-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-01,Masculino,divorciado,Assentados do PNRA,"R$ 56.643,00","R$ 46.166,00","R$ 4.576,00",30-49
+2021-07,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-12,Masculino,solteiro,Assentados do PNRA,"R$ 97.662,00","R$ 45.632,00","R$ 4.330,00",30-49
+2023-06,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-03,Masculino,divorciado,Indigena,"R$ 78.987,00","R$ 41.070,00","R$ 1.723,00",50-64
+2017-12,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-05,Masculino,divorciado,Assentados do PNRA,"R$ 57.566,00","R$ 40.263,00","R$ 1.949,00",30-49
+2021-02,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-01,Feminino,divorciado,Outras Comunidades,"R$ 76.066,00","R$ 48.991,00","R$ 4.322,00",30-49
+2019-03,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-10,Feminino,casado,Extravista,"R$ 61.992,00","R$ 44.580,00","R$ 2.386,00",30-49
+2020-04,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-12,Masculino,separado,Não aplicável,"R$ 76.630,00","R$ 45.123,00","R$ 2.041,00",30-49
+2022-01,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-10,Masculino,solteiro,Quilombolas,"R$ 98.980,00","R$ 45.420,00","R$ 3.369,00",30-49
+2017-04,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-05,Feminino,solteiro,Pescadores artesanais,"R$ 58.801,00","R$ 45.972,00","R$ 3.032,00",30-49
+2018-11,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-07,Feminino,separado,Indigena,"R$ 57.556,00","R$ 46.871,00","R$ 3.169,00",30-49
+2017-04,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-03,Masculino,casado,Extravista,"R$ 88.290,00","R$ 42.876,00","R$ 2.503,00",30-49
+2020-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-08,Feminino,viúvo,Assentados do PNRA,"R$ 99.314,00","R$ 40.730,00","R$ 2.994,00",30-49
+2022-04,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-12,Masculino,divorciado,Assentados do PNRA,"R$ 59.260,00","R$ 45.277,00","R$ 2.636,00",30-49
+2023-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-12,Feminino,divorciado,Outras Comunidades,"R$ 67.060,00","R$ 49.540,00","R$ 1.601,00",30-49
+2020-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-07,Masculino,viúvo,Pescadores artesanais,"R$ 76.379,00","R$ 43.432,00","R$ 4.983,00",30-49
+2021-08,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-11,Feminino,divorciado,Indigena,"R$ 69.315,00","R$ 41.078,00","R$ 2.261,00",30-49
+2020-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-08,Feminino,casado,Assentados do PNRA,"R$ 74.206,00","R$ 46.703,00","R$ 4.052,00",30-49
+2021-01,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-11,Feminino,viúvo,Pescadores artesanais,"R$ 98.353,00","R$ 41.168,00","R$ 2.738,00",30-49
+2018-03,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-01,Masculino,casado,Extravista,"R$ 94.043,00","R$ 42.726,00","R$ 1.712,00",30-49
+2022-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-05,Masculino,divorciado,Pescadores artesanais,"R$ 67.957,00","R$ 45.611,00","R$ 2.116,00",50-64
+2018-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-04,Feminino,viúvo,Pescadores artesanais,"R$ 55.603,00","R$ 49.718,00","R$ 3.063,00",50-64
+2023-11,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-02,Feminino,casado,Quilombolas,"R$ 87.734,00","R$ 48.606,00","R$ 1.695,00",50-64
+2022-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-01,Masculino,solteiro,Quilombolas,"R$ 50.714,00","R$ 40.061,00","R$ 1.661,00",50-64
+2018-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-03,Feminino,solteiro,Pescadores artesanais,"R$ 64.637,00","R$ 43.081,00","R$ 3.917,00",30-49
+2022-07,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-07,Masculino,divorciado,Indigena,"R$ 97.553,00","R$ 44.640,00","R$ 3.399,00",50-64
+2017-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-09,Feminino,casado,Extravista,"R$ 76.441,00","R$ 43.233,00","R$ 1.492,00",30-49
+2018-09,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-11,Feminino,casado,Assentados do PNRA,"R$ 70.592,00","R$ 43.487,00","R$ 4.306,00",50-64
+2021-04,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-10,Feminino,solteiro,Outras Comunidades,"R$ 88.460,00","R$ 46.769,00","R$ 1.459,00",30-49
+2024-05,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-08,Masculino,casado,Extravista,"R$ 80.264,00","R$ 47.668,00","R$ 2.101,00",30-49
+2017-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-04,Masculino,separado,Quilombolas,"R$ 66.957,00","R$ 46.701,00","R$ 2.706,00",30-49
+2017-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-02,Feminino,viúvo,Outras Comunidades,"R$ 51.417,00","R$ 45.857,00","R$ 1.976,00",30-49
+2024-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-11,Feminino,casado,Pescadores artesanais,"R$ 87.630,00","R$ 48.158,00","R$ 2.751,00",30-49
+2021-09,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-07,Masculino,separado,Quilombolas,"R$ 98.167,00","R$ 49.333,00","R$ 3.105,00",30-49
+2023-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-06,Masculino,casado,Quilombolas,"R$ 75.761,00","R$ 44.893,00","R$ 3.114,00",30-49
+2017-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-07,Masculino,viúvo,Não aplicável,"R$ 93.962,00","R$ 45.911,00","R$ 4.299,00",30-49
+2022-12,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-03,Feminino,separado,Extravista,"R$ 80.065,00","R$ 42.197,00","R$ 2.460,00",30-49
+2021-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-04,Feminino,solteiro,Quilombolas,"R$ 63.585,00","R$ 45.452,00","R$ 2.259,00",50-64
+2023-07,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-04,Masculino,casado,Quilombolas,"R$ 54.851,00","R$ 49.680,00","R$ 3.669,00",30-49
+2020-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-07,Feminino,divorciado,Assentados do PNRA,"R$ 78.506,00","R$ 42.078,00","R$ 2.245,00",30-49
+2017-11,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-05,Feminino,divorciado,Outras Comunidades,"R$ 68.259,00","R$ 43.874,00","R$ 3.374,00",30-49
+2022-11,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-06,Feminino,solteiro,Extravista,"R$ 78.206,00","R$ 44.709,00","R$ 4.603,00",50-64
+2024-07,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-06,Masculino,separado,Assentados do PNRA,"R$ 77.473,00","R$ 49.294,00","R$ 1.936,00",30-49
+2022-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-09,Feminino,solteiro,Pescadores artesanais,"R$ 59.106,00","R$ 45.008,00","R$ 1.567,00",50-64
+2020-07,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-02,Masculino,casado,Outras Comunidades,"R$ 58.227,00","R$ 40.239,00","R$ 4.552,00",50-64
+2020-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-05,Masculino,viúvo,Extravista,"R$ 76.066,00","R$ 41.420,00","R$ 3.526,00",30-49
+2019-02,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-06,Feminino,separado,Indigena,"R$ 60.923,00","R$ 47.625,00","R$ 2.789,00",30-49
+2022-10,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-11,Feminino,divorciado,Não aplicável,"R$ 79.721,00","R$ 49.466,00","R$ 3.645,00",30-49
+2018-10,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-02,Masculino,viúvo,Extravista,"R$ 86.606,00","R$ 42.025,00","R$ 2.785,00",50-64
+2021-01,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-03,Feminino,divorciado,Indigena,"R$ 78.711,00","R$ 47.232,00","R$ 2.724,00",50-64
+2020-01,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-04,Masculino,separado,Não aplicável,"R$ 63.566,00","R$ 43.469,00","R$ 2.853,00",30-49
+2021-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-03,Feminino,viúvo,Quilombolas,"R$ 85.051,00","R$ 41.848,00","R$ 1.524,00",50-64
+2024-06,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-06,Masculino,separado,Não aplicável,"R$ 77.282,00","R$ 41.412,00","R$ 3.997,00",30-49
+2021-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-03,Masculino,divorciado,Outras Comunidades,"R$ 71.892,00","R$ 45.967,00","R$ 2.456,00",50-64
+2021-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-06,Masculino,separado,Indigena,"R$ 97.164,00","R$ 48.127,00","R$ 2.488,00",30-49
+2019-06,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-06,Masculino,casado,Não aplicável,"R$ 57.630,00","R$ 40.047,00","R$ 3.022,00",50-64
+2023-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-12,Masculino,solteiro,Pescadores artesanais,"R$ 94.178,00","R$ 43.134,00","R$ 1.536,00",50-64
+2019-06,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-10,Masculino,solteiro,Assentados do PNRA,"R$ 56.034,00","R$ 40.889,00","R$ 2.346,00",50-64
+2024-03,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-07,Masculino,casado,Outras Comunidades,"R$ 95.513,00","R$ 47.850,00","R$ 4.932,00",30-49
+2024-08,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-06,Feminino,solteiro,Pescadores artesanais,"R$ 83.551,00","R$ 49.763,00","R$ 3.242,00",30-49
+2021-01,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-03,Feminino,divorciado,Outras Comunidades,"R$ 59.690,00","R$ 40.028,00","R$ 3.705,00",30-49
+2021-09,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-06,Masculino,viúvo,Indigena,"R$ 85.436,00","R$ 44.663,00","R$ 2.979,00",30-49
+2024-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-10,Feminino,divorciado,Quilombolas,"R$ 72.546,00","R$ 43.731,00","R$ 4.819,00",50-64
+2024-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-12,Masculino,casado,Extravista,"R$ 75.434,00","R$ 42.736,00","R$ 4.169,00",30-49
+2019-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-02,Masculino,separado,Pescadores artesanais,"R$ 83.584,00","R$ 48.851,00","R$ 3.135,00",30-49
+2018-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-01,Feminino,viúvo,Indigena,"R$ 52.881,00","R$ 45.938,00","R$ 1.509,00",30-49
+2017-07,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-08,Feminino,separado,Quilombolas,"R$ 50.042,00","R$ 41.765,00","R$ 2.681,00",30-49
+2023-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-12,Feminino,divorciado,Assentados do PNRA,"R$ 61.361,00","R$ 42.093,00","R$ 4.177,00",30-49
+2021-08,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-07,Feminino,casado,Outras Comunidades,"R$ 77.045,00","R$ 48.086,00","R$ 3.856,00",50-64
+2022-03,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-06,Masculino,divorciado,Quilombolas,"R$ 83.656,00","R$ 44.775,00","R$ 4.152,00",30-49
+2023-04,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2025-03,Masculino,separado,Indigena,"R$ 68.624,00","R$ 44.079,00","R$ 3.481,00",30-49
+2017-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-01,Feminino,viúvo,Não aplicável,"R$ 91.497,00","R$ 48.571,00","R$ 1.760,00",30-49
+2019-05,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-03,Feminino,viúvo,Quilombolas,"R$ 54.916,00","R$ 46.604,00","R$ 2.727,00",30-49
+2020-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-10,Masculino,separado,Pescadores artesanais,"R$ 69.824,00","R$ 45.634,00","R$ 4.608,00",30-49
+2019-12,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-03,Feminino,divorciado,Pescadores artesanais,"R$ 69.847,00","R$ 41.088,00","R$ 1.660,00",30-49
+2018-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-08,Feminino,viúvo,Assentados do PNRA,"R$ 90.100,00","R$ 47.183,00","R$ 4.319,00",30-49
+2024-02,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-10,Masculino,separado,Outras Comunidades,"R$ 99.709,00","R$ 44.573,00","R$ 4.418,00",50-64
+2022-03,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-06,Feminino,casado,Não aplicável,"R$ 92.609,00","R$ 41.646,00","R$ 4.882,00",50-64
+2023-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-05,Feminino,casado,Outras Comunidades,"R$ 69.320,00","R$ 40.099,00","R$ 1.685,00",50-64
+2022-05,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Feminino,separado,Quilombolas,"R$ 70.955,00","R$ 46.463,00","R$ 1.648,00",30-49
+2019-06,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-10,Masculino,viúvo,Extravista,"R$ 61.390,00","R$ 43.935,00","R$ 1.796,00",50-64
+2024-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-03,Feminino,divorciado,Outras Comunidades,"R$ 71.648,00","R$ 44.059,00","R$ 2.167,00",50-64
+2017-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-01,Masculino,separado,Extravista,"R$ 56.719,00","R$ 40.950,00","R$ 1.332,00",50-64
+2019-06,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-02,Masculino,viúvo,Assentados do PNRA,"R$ 69.008,00","R$ 46.513,00","R$ 4.906,00",50-64
+2020-12,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-02,Masculino,casado,Quilombolas,"R$ 59.776,00","R$ 40.595,00","R$ 1.367,00",50-64
+2024-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-12,Masculino,casado,Indigena,"R$ 85.241,00","R$ 46.040,00","R$ 3.140,00",50-64
+2021-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-02,Feminino,casado,Não aplicável,"R$ 55.986,00","R$ 49.205,00","R$ 2.793,00",30-49
+2023-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-04,Masculino,casado,Outras Comunidades,"R$ 58.331,00","R$ 46.187,00","R$ 4.371,00",50-64
+2017-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-06,Masculino,casado,Assentados do PNRA,"R$ 71.452,00","R$ 41.078,00","R$ 3.341,00",30-49
+2024-01,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-07,Feminino,casado,Quilombolas,"R$ 59.591,00","R$ 48.692,00","R$ 4.893,00",30-49
+2017-06,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-10,Masculino,viúvo,Outras Comunidades,"R$ 71.084,00","R$ 47.291,00","R$ 1.379,00",50-64
+2019-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-05,Feminino,separado,Não aplicável,"R$ 58.310,00","R$ 40.251,00","R$ 2.067,00",50-64
+2017-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-02,Masculino,viúvo,Extravista,"R$ 89.506,00","R$ 46.077,00","R$ 4.589,00",30-49
+2020-06,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-12,Masculino,viúvo,Assentados do PNRA,"R$ 59.452,00","R$ 45.026,00","R$ 2.517,00",50-64
+2023-10,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-04,Masculino,viúvo,Outras Comunidades,"R$ 59.461,00","R$ 42.090,00","R$ 2.024,00",50-64
+2018-03,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-06,Feminino,divorciado,Outras Comunidades,"R$ 66.736,00","R$ 47.709,00","R$ 3.945,00",50-64
+2022-09,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-05,Feminino,viúvo,Outras Comunidades,"R$ 82.759,00","R$ 46.442,00","R$ 3.953,00",30-49
+2021-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-02,Feminino,casado,Indigena,"R$ 60.481,00","R$ 41.496,00","R$ 3.199,00",30-49
+2023-07,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-04,Feminino,casado,Assentados do PNRA,"R$ 66.601,00","R$ 47.885,00","R$ 1.608,00",30-49
+2021-04,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-10,Feminino,viúvo,Assentados do PNRA,"R$ 58.017,00","R$ 49.787,00","R$ 4.203,00",50-64
+2017-06,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-03,Masculino,solteiro,Indigena,"R$ 81.097,00","R$ 41.497,00","R$ 3.234,00",30-49
+2021-05,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-02,Feminino,divorciado,Não aplicável,"R$ 67.149,00","R$ 43.829,00","R$ 2.675,00",30-49
+2024-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-11,Masculino,viúvo,Assentados do PNRA,"R$ 81.497,00","R$ 42.214,00","R$ 3.729,00",50-64
+2024-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-10,Masculino,divorciado,Pescadores artesanais,"R$ 51.233,00","R$ 46.195,00","R$ 4.755,00",50-64
+2021-06,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-04,Masculino,separado,Extravista,"R$ 54.524,00","R$ 40.656,00","R$ 3.930,00",30-49
+2018-06,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-07,Masculino,separado,Assentados do PNRA,"R$ 98.911,00","R$ 41.879,00","R$ 4.007,00",50-64
+2018-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-10,Feminino,solteiro,Outras Comunidades,"R$ 75.201,00","R$ 46.060,00","R$ 3.852,00",30-49
+2017-01,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-04,Masculino,divorciado,Quilombolas,"R$ 97.646,00","R$ 47.730,00","R$ 1.862,00",30-49
+2022-02,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-02,Feminino,divorciado,Indigena,"R$ 74.697,00","R$ 47.837,00","R$ 2.162,00",30-49
+2017-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-04,Masculino,separado,Pescadores artesanais,"R$ 74.351,00","R$ 46.301,00","R$ 4.748,00",30-49
+2024-12,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-06,Masculino,divorciado,Indigena,"R$ 72.484,00","R$ 47.646,00","R$ 1.515,00",30-49
+2018-09,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-03,Feminino,casado,Extravista,"R$ 88.378,00","R$ 42.236,00","R$ 3.501,00",50-64
+2023-02,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-11,Masculino,solteiro,Outras Comunidades,"R$ 60.738,00","R$ 40.845,00","R$ 3.439,00",50-64
+2017-09,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-06,Feminino,divorciado,Assentados do PNRA,"R$ 90.346,00","R$ 48.949,00","R$ 4.525,00",30-49
+2024-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-09,Masculino,viúvo,Quilombolas,"R$ 94.717,00","R$ 42.656,00","R$ 3.053,00",50-64
+2024-03,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-10,Masculino,divorciado,Quilombolas,"R$ 91.020,00","R$ 40.855,00","R$ 4.365,00",30-49
+2020-02,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-03,Masculino,separado,Extravista,"R$ 69.076,00","R$ 41.100,00","R$ 4.463,00",30-49
+2022-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-07,Masculino,divorciado,Quilombolas,"R$ 96.574,00","R$ 41.933,00","R$ 3.704,00",30-49
+2022-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-03,Masculino,viúvo,Quilombolas,"R$ 63.480,00","R$ 47.638,00","R$ 4.650,00",30-49
+2018-08,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-07,Masculino,viúvo,Não aplicável,"R$ 57.516,00","R$ 44.427,00","R$ 2.958,00",50-64
+2022-07,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-04,Feminino,separado,Outras Comunidades,"R$ 83.873,00","R$ 41.678,00","R$ 4.692,00",50-64
+2022-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-05,Feminino,separado,Extravista,"R$ 84.311,00","R$ 40.648,00","R$ 3.206,00",30-49
+2019-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-01,Masculino,separado,Não aplicável,"R$ 60.655,00","R$ 42.510,00","R$ 3.125,00",30-49
+2024-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-05,Feminino,casado,Outras Comunidades,"R$ 57.101,00","R$ 42.207,00","R$ 4.579,00",50-64
+2017-03,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-10,Feminino,viúvo,Outras Comunidades,"R$ 72.631,00","R$ 48.801,00","R$ 2.644,00",30-49
+2019-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-01,Masculino,casado,Pescadores artesanais,"R$ 66.300,00","R$ 46.241,00","R$ 1.594,00",30-49
+2020-09,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-03,Masculino,casado,Extravista,"R$ 82.714,00","R$ 40.976,00","R$ 1.663,00",30-49
+2019-05,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-02,Masculino,viúvo,Indigena,"R$ 82.194,00","R$ 41.311,00","R$ 1.951,00",30-49
+2024-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-07,Feminino,separado,Extravista,"R$ 50.304,00","R$ 47.105,00","R$ 4.127,00",30-49
+2017-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-07,Masculino,casado,Não aplicável,"R$ 75.227,00","R$ 40.682,00","R$ 3.725,00",30-49
+2018-09,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-12,Feminino,divorciado,Indigena,"R$ 68.139,00","R$ 42.163,00","R$ 1.382,00",30-49
+2017-06,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-08,Feminino,divorciado,Assentados do PNRA,"R$ 73.910,00","R$ 43.257,00","R$ 4.804,00",30-49
+2021-07,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-12,Masculino,viúvo,Não aplicável,"R$ 80.290,00","R$ 43.882,00","R$ 3.448,00",50-64
+2023-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-12,Feminino,casado,Outras Comunidades,"R$ 88.869,00","R$ 49.131,00","R$ 1.770,00",30-49
+2023-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-01,Feminino,solteiro,Quilombolas,"R$ 77.860,00","R$ 41.676,00","R$ 4.525,00",30-49
+2024-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-09,Feminino,casado,Extravista,"R$ 70.801,00","R$ 43.548,00","R$ 3.128,00",50-64
+2022-11,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-03,Masculino,separado,Outras Comunidades,"R$ 84.415,00","R$ 49.826,00","R$ 2.411,00",30-49
+2024-08,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-12,Masculino,solteiro,Quilombolas,"R$ 71.881,00","R$ 43.652,00","R$ 3.153,00",50-64
+2022-11,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2025-04,Masculino,casado,Outras Comunidades,"R$ 83.407,00","R$ 48.624,00","R$ 2.920,00",30-49
+2023-04,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-04,Masculino,divorciado,Pescadores artesanais,"R$ 85.458,00","R$ 44.136,00","R$ 3.971,00",50-64
+2023-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-06,Feminino,divorciado,Assentados do PNRA,"R$ 60.761,00","R$ 47.113,00","R$ 3.549,00",30-49
+2017-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-01,Feminino,casado,Não aplicável,"R$ 91.011,00","R$ 44.057,00","R$ 3.217,00",50-64
+2017-04,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-02,Masculino,viúvo,Pescadores artesanais,"R$ 70.308,00","R$ 41.105,00","R$ 2.690,00",50-64
+2022-02,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-11,Feminino,solteiro,Outras Comunidades,"R$ 98.341,00","R$ 43.149,00","R$ 3.961,00",30-49
+2017-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-07,Masculino,divorciado,Extravista,"R$ 85.678,00","R$ 47.378,00","R$ 3.362,00",30-49
+2017-02,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-01,Feminino,viúvo,Indigena,"R$ 89.136,00","R$ 42.510,00","R$ 3.262,00",30-49
+2022-08,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-03,Masculino,divorciado,Não aplicável,"R$ 65.322,00","R$ 48.999,00","R$ 4.398,00",30-49
+2018-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Feminino,viúvo,Extravista,"R$ 78.315,00","R$ 48.828,00","R$ 3.503,00",50-64
+2024-01,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-01,Masculino,separado,Indigena,"R$ 80.834,00","R$ 45.614,00","R$ 4.079,00",30-49
+2017-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-03,Feminino,divorciado,Pescadores artesanais,"R$ 77.529,00","R$ 41.723,00","R$ 4.726,00",30-49
+2020-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-10,Feminino,solteiro,Quilombolas,"R$ 91.329,00","R$ 46.363,00","R$ 1.920,00",30-49
+2017-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-08,Masculino,solteiro,Quilombolas,"R$ 84.287,00","R$ 49.522,00","R$ 1.935,00",30-49
+2020-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-07,Masculino,solteiro,Pescadores artesanais,"R$ 51.823,00","R$ 45.652,00","R$ 2.236,00",30-49
+2020-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-06,Feminino,viúvo,Outras Comunidades,"R$ 82.207,00","R$ 42.863,00","R$ 2.979,00",50-64
+2017-01,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-08,Masculino,solteiro,Extravista,"R$ 74.962,00","R$ 41.031,00","R$ 4.262,00",30-49
+2018-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-01,Feminino,separado,Indigena,"R$ 77.650,00","R$ 46.151,00","R$ 1.751,00",50-64
+2020-06,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-01,Masculino,solteiro,Assentados do PNRA,"R$ 74.721,00","R$ 46.112,00","R$ 4.833,00",30-49
+2022-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-03,Masculino,divorciado,Outras Comunidades,"R$ 95.996,00","R$ 49.387,00","R$ 2.116,00",30-49
+2017-01,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-05,Feminino,casado,Indigena,"R$ 90.589,00","R$ 42.633,00","R$ 3.128,00",50-64
+2023-08,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-04,Feminino,divorciado,Assentados do PNRA,"R$ 72.185,00","R$ 46.207,00","R$ 2.401,00",30-49
+2017-02,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-05,Feminino,divorciado,Indigena,"R$ 70.570,00","R$ 44.188,00","R$ 1.530,00",30-49
+2023-02,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-10,Feminino,divorciado,Extravista,"R$ 76.184,00","R$ 45.546,00","R$ 3.658,00",50-64
+2017-11,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-06,Feminino,divorciado,Quilombolas,"R$ 70.133,00","R$ 42.605,00","R$ 1.961,00",30-49
+2018-04,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-05,Feminino,viúvo,Extravista,"R$ 97.548,00","R$ 42.356,00","R$ 4.181,00",30-49
+2018-08,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-10,Feminino,solteiro,Outras Comunidades,"R$ 89.599,00","R$ 48.878,00","R$ 1.874,00",30-49
+2023-02,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-02,Feminino,divorciado,Outras Comunidades,"R$ 66.375,00","R$ 40.967,00","R$ 4.316,00",50-64
+2019-07,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-05,Feminino,viúvo,Assentados do PNRA,"R$ 63.458,00","R$ 44.300,00","R$ 3.123,00",50-64
+2023-01,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-06,Feminino,divorciado,Indigena,"R$ 71.261,00","R$ 41.948,00","R$ 1.806,00",30-49
+2020-01,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-05,Masculino,solteiro,Assentados do PNRA,"R$ 96.625,00","R$ 42.232,00","R$ 2.880,00",30-49
+2022-07,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-07,Masculino,casado,Assentados do PNRA,"R$ 97.541,00","R$ 47.384,00","R$ 1.885,00",30-49
+2019-04,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-10,Masculino,viúvo,Outras Comunidades,"R$ 95.544,00","R$ 44.027,00","R$ 3.394,00",30-49
+2017-09,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-02,Feminino,divorciado,Outras Comunidades,"R$ 69.492,00","R$ 44.221,00","R$ 3.720,00",50-64
+2019-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-08,Masculino,separado,Indigena,"R$ 83.096,00","R$ 41.322,00","R$ 1.715,00",30-49
+2024-06,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-05,Feminino,solteiro,Assentados do PNRA,"R$ 60.070,00","R$ 41.227,00","R$ 4.672,00",30-49
+2023-11,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-08,Masculino,divorciado,Extravista,"R$ 90.705,00","R$ 47.798,00","R$ 1.970,00",30-49
+2019-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-04,Feminino,divorciado,Assentados do PNRA,"R$ 51.251,00","R$ 44.783,00","R$ 3.475,00",50-64
+2021-09,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-04,Masculino,viúvo,Indigena,"R$ 69.388,00","R$ 42.207,00","R$ 3.886,00",50-64
+2023-02,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-09,Masculino,viúvo,Assentados do PNRA,"R$ 66.255,00","R$ 47.121,00","R$ 4.458,00",30-49
+2018-06,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-01,Feminino,solteiro,Assentados do PNRA,"R$ 83.788,00","R$ 45.653,00","R$ 3.189,00",50-64
+2023-06,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-01,Masculino,separado,Pescadores artesanais,"R$ 91.304,00","R$ 48.056,00","R$ 2.047,00",50-64
+2022-01,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-04,Masculino,solteiro,Não aplicável,"R$ 56.864,00","R$ 46.694,00","R$ 2.452,00",30-49
+2022-05,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-06,Masculino,viúvo,Quilombolas,"R$ 82.573,00","R$ 44.574,00","R$ 4.901,00",30-49
+2019-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-05,Masculino,separado,Assentados do PNRA,"R$ 96.422,00","R$ 49.771,00","R$ 3.979,00",50-64
+2022-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Masculino,casado,Assentados do PNRA,"R$ 52.460,00","R$ 47.423,00","R$ 3.775,00",50-64
+2023-04,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-02,Masculino,solteiro,Pescadores artesanais,"R$ 75.718,00","R$ 41.880,00","R$ 4.681,00",30-49
+2023-11,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-04,Masculino,casado,Não aplicável,"R$ 62.470,00","R$ 41.091,00","R$ 2.740,00",30-49
+2022-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-02,Feminino,separado,Quilombolas,"R$ 64.077,00","R$ 46.410,00","R$ 3.959,00",30-49
+2023-06,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-03,Feminino,divorciado,Pescadores artesanais,"R$ 94.587,00","R$ 47.700,00","R$ 4.124,00",30-49
+2019-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-06,Feminino,separado,Assentados do PNRA,"R$ 78.368,00","R$ 45.216,00","R$ 2.834,00",30-49
+2018-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-09,Masculino,casado,Extravista,"R$ 78.478,00","R$ 47.585,00","R$ 2.725,00",50-64
+2024-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-09,Feminino,solteiro,Outras Comunidades,"R$ 60.841,00","R$ 42.296,00","R$ 2.488,00",30-49
+2024-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-04,Feminino,solteiro,Não aplicável,"R$ 87.077,00","R$ 41.760,00","R$ 4.310,00",50-64
+2024-11,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-12,Feminino,separado,Assentados do PNRA,"R$ 88.145,00","R$ 46.439,00","R$ 1.464,00",30-49
+2021-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-06,Feminino,separado,Pescadores artesanais,"R$ 69.667,00","R$ 44.457,00","R$ 4.372,00",50-64
+2024-09,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-07,Feminino,divorciado,Não aplicável,"R$ 69.698,00","R$ 46.991,00","R$ 2.794,00",50-64
+2021-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-02,Masculino,casado,Pescadores artesanais,"R$ 69.524,00","R$ 43.903,00","R$ 2.484,00",50-64
+2024-07,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-12,Masculino,separado,Outras Comunidades,"R$ 83.466,00","R$ 42.446,00","R$ 1.972,00",50-64
+2017-08,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-06,Feminino,viúvo,Extravista,"R$ 83.876,00","R$ 40.304,00","R$ 3.695,00",50-64
+2019-11,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-10,Masculino,divorciado,Pescadores artesanais,"R$ 94.711,00","R$ 46.509,00","R$ 4.042,00",30-49
+2020-05,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-04,Masculino,separado,Indigena,"R$ 98.103,00","R$ 44.966,00","R$ 3.001,00",30-49
+2019-04,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-05,Masculino,viúvo,Outras Comunidades,"R$ 57.685,00","R$ 49.012,00","R$ 4.693,00",30-49
+2024-01,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-04,Feminino,casado,Indigena,"R$ 77.865,00","R$ 48.466,00","R$ 3.746,00",30-49
+2021-11,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-01,Masculino,divorciado,Extravista,"R$ 53.581,00","R$ 42.501,00","R$ 4.545,00",30-49
+2022-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-05,Feminino,divorciado,Extravista,"R$ 54.725,00","R$ 42.091,00","R$ 2.737,00",30-49
+2020-02,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-12,Masculino,casado,Quilombolas,"R$ 85.977,00","R$ 43.362,00","R$ 1.327,00",30-49
+2018-12,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-07,Masculino,separado,Não aplicável,"R$ 69.842,00","R$ 43.620,00","R$ 3.802,00",30-49
+2023-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-05,Feminino,solteiro,Assentados do PNRA,"R$ 80.050,00","R$ 45.924,00","R$ 1.324,00",30-49
+2017-08,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-08,Feminino,solteiro,Extravista,"R$ 68.332,00","R$ 43.542,00","R$ 1.338,00",50-64
+2020-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-03,Masculino,viúvo,Não aplicável,"R$ 51.999,00","R$ 43.543,00","R$ 4.279,00",30-49
+2023-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-07,Feminino,separado,Extravista,"R$ 95.581,00","R$ 43.986,00","R$ 4.715,00",30-49
+2024-07,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-01,Masculino,divorciado,Extravista,"R$ 58.316,00","R$ 44.732,00","R$ 4.788,00",30-49
+2020-06,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-02,Feminino,solteiro,Pescadores artesanais,"R$ 53.113,00","R$ 48.246,00","R$ 4.591,00",30-49
+2024-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-09,Feminino,viúvo,Pescadores artesanais,"R$ 95.547,00","R$ 42.564,00","R$ 1.612,00",30-49
+2024-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-07,Masculino,divorciado,Outras Comunidades,"R$ 99.667,00","R$ 43.771,00","R$ 1.793,00",30-49
+2024-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-10,Masculino,separado,Extravista,"R$ 99.421,00","R$ 49.063,00","R$ 2.894,00",50-64
+2024-02,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-11,Feminino,separado,Não aplicável,"R$ 71.759,00","R$ 49.419,00","R$ 4.406,00",30-49
+2020-10,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Masculino,viúvo,Não aplicável,"R$ 98.247,00","R$ 41.309,00","R$ 4.997,00",30-49
+2017-05,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-03,Feminino,casado,Não aplicável,"R$ 86.688,00","R$ 40.410,00","R$ 4.864,00",30-49
+2024-11,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-04,Masculino,viúvo,Indigena,"R$ 92.717,00","R$ 40.361,00","R$ 2.725,00",50-64
+2017-05,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-10,Masculino,viúvo,Quilombolas,"R$ 81.716,00","R$ 42.564,00","R$ 1.718,00",30-49
+2024-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-02,Feminino,separado,Quilombolas,"R$ 50.776,00","R$ 41.213,00","R$ 2.217,00",50-64
+2020-10,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-12,Masculino,divorciado,Não aplicável,"R$ 98.446,00","R$ 43.269,00","R$ 4.658,00",50-64
+2024-12,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-05,Feminino,casado,Outras Comunidades,"R$ 91.686,00","R$ 44.204,00","R$ 4.940,00",30-49
+2024-08,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-09,Masculino,casado,Quilombolas,"R$ 71.494,00","R$ 49.289,00","R$ 4.168,00",50-64
+2022-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-01,Feminino,casado,Pescadores artesanais,"R$ 82.768,00","R$ 44.233,00","R$ 4.046,00",30-49
+2020-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-05,Feminino,casado,Pescadores artesanais,"R$ 94.155,00","R$ 48.618,00","R$ 3.188,00",30-49
+2021-05,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-11,Feminino,divorciado,Indigena,"R$ 50.950,00","R$ 49.352,00","R$ 3.655,00",30-49
+2023-06,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-06,Masculino,solteiro,Assentados do PNRA,"R$ 62.641,00","R$ 46.945,00","R$ 3.093,00",30-49
+2017-09,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-06,Masculino,casado,Extravista,"R$ 63.845,00","R$ 43.327,00","R$ 2.062,00",50-64
+2017-10,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-04,Masculino,divorciado,Outras Comunidades,"R$ 85.532,00","R$ 42.372,00","R$ 3.898,00",30-49
+2024-06,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-04,Masculino,solteiro,Extravista,"R$ 72.626,00","R$ 43.167,00","R$ 2.437,00",30-49
+2024-11,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-12,Feminino,casado,Outras Comunidades,"R$ 86.529,00","R$ 44.634,00","R$ 2.005,00",30-49
+2018-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-08,Masculino,viúvo,Extravista,"R$ 72.424,00","R$ 44.917,00","R$ 2.759,00",30-49
+2024-04,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-01,Feminino,viúvo,Outras Comunidades,"R$ 88.759,00","R$ 42.047,00","R$ 2.611,00",50-64
+2020-01,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-07,Feminino,divorciado,Quilombolas,"R$ 98.133,00","R$ 48.668,00","R$ 4.470,00",50-64
+2022-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-04,Feminino,separado,Extravista,"R$ 76.935,00","R$ 43.618,00","R$ 4.665,00",30-49
+2019-08,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-06,Feminino,viúvo,Não aplicável,"R$ 86.736,00","R$ 40.874,00","R$ 4.168,00",30-49
+2020-02,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-11,Masculino,viúvo,Quilombolas,"R$ 65.015,00","R$ 40.016,00","R$ 4.634,00",30-49
+2018-07,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-04,Masculino,divorciado,Assentados do PNRA,"R$ 86.642,00","R$ 40.923,00","R$ 2.761,00",30-49
+2020-12,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-01,Feminino,casado,Não aplicável,"R$ 93.825,00","R$ 47.608,00","R$ 4.541,00",50-64
+2023-08,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-03,Masculino,divorciado,Extravista,"R$ 74.675,00","R$ 42.108,00","R$ 4.885,00",30-49
+2024-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-11,Masculino,viúvo,Outras Comunidades,"R$ 60.973,00","R$ 42.997,00","R$ 2.494,00",30-49
+2019-05,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-11,Masculino,solteiro,Pescadores artesanais,"R$ 75.502,00","R$ 47.772,00","R$ 1.925,00",50-64
+2023-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-07,Masculino,solteiro,Extravista,"R$ 82.845,00","R$ 46.258,00","R$ 4.276,00",50-64
+2020-06,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-10,Masculino,divorciado,Quilombolas,"R$ 91.002,00","R$ 44.069,00","R$ 1.853,00",30-49
+2022-06,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-05,Feminino,divorciado,Indigena,"R$ 67.017,00","R$ 46.987,00","R$ 4.670,00",30-49
+2017-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-04,Masculino,viúvo,Não aplicável,"R$ 56.237,00","R$ 47.213,00","R$ 4.428,00",30-49
+2022-02,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-08,Feminino,separado,Quilombolas,"R$ 68.855,00","R$ 48.300,00","R$ 3.184,00",30-49
+2019-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-11,Feminino,separado,Outras Comunidades,"R$ 59.261,00","R$ 41.250,00","R$ 3.466,00",30-49
+2019-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-02,Feminino,casado,Extravista,"R$ 72.340,00","R$ 40.244,00","R$ 4.519,00",50-64
+2017-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-01,Feminino,divorciado,Assentados do PNRA,"R$ 59.448,00","R$ 45.704,00","R$ 4.307,00",30-49
+2020-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-03,Feminino,casado,Pescadores artesanais,"R$ 90.544,00","R$ 41.730,00","R$ 4.213,00",50-64
+2022-06,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-06,Feminino,viúvo,Extravista,"R$ 73.670,00","R$ 45.350,00","R$ 4.731,00",30-49
+2017-01,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-03,Feminino,divorciado,Extravista,"R$ 60.336,00","R$ 46.192,00","R$ 3.936,00",30-49
+2018-08,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-08,Feminino,separado,Quilombolas,"R$ 60.714,00","R$ 46.597,00","R$ 2.591,00",50-64
+2023-05,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-12,Masculino,viúvo,Assentados do PNRA,"R$ 89.662,00","R$ 49.169,00","R$ 3.622,00",30-49
+2020-03,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-02,Feminino,casado,Assentados do PNRA,"R$ 79.366,00","R$ 46.454,00","R$ 3.291,00",30-49
+2024-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-05,Feminino,solteiro,Não aplicável,"R$ 65.926,00","R$ 45.321,00","R$ 2.033,00",30-49
+2019-10,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-04,Feminino,solteiro,Assentados do PNRA,"R$ 61.733,00","R$ 47.479,00","R$ 2.357,00",30-49
+2019-01,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-05,Feminino,casado,Assentados do PNRA,"R$ 96.062,00","R$ 43.105,00","R$ 4.947,00",30-49
+2021-01,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-05,Feminino,casado,Não aplicável,"R$ 85.223,00","R$ 47.734,00","R$ 3.646,00",50-64
+2019-01,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-02,Feminino,divorciado,Indigena,"R$ 81.411,00","R$ 44.198,00","R$ 2.935,00",30-49
+2019-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-01,Masculino,viúvo,Não aplicável,"R$ 60.388,00","R$ 45.761,00","R$ 3.614,00",30-49
+2024-08,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-12,Masculino,divorciado,Assentados do PNRA,"R$ 78.032,00","R$ 42.767,00","R$ 4.726,00",50-64
+2022-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-11,Masculino,viúvo,Extravista,"R$ 97.893,00","R$ 42.118,00","R$ 3.925,00",30-49
+2019-10,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-01,Masculino,separado,Quilombolas,"R$ 82.841,00","R$ 48.684,00","R$ 1.721,00",50-64
+2021-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-04,Feminino,solteiro,Assentados do PNRA,"R$ 57.653,00","R$ 47.790,00","R$ 3.220,00",30-49
+2019-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-03,Masculino,viúvo,Indigena,"R$ 69.846,00","R$ 47.894,00","R$ 2.854,00",30-49
+2021-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-08,Masculino,viúvo,Não aplicável,"R$ 55.061,00","R$ 40.573,00","R$ 3.361,00",50-64
+2024-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-11,Feminino,divorciado,Pescadores artesanais,"R$ 81.744,00","R$ 40.290,00","R$ 4.884,00",30-49
+2021-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-08,Feminino,separado,Não aplicável,"R$ 88.205,00","R$ 47.046,00","R$ 3.060,00",50-64
+2018-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-02,Feminino,casado,Indigena,"R$ 56.005,00","R$ 40.569,00","R$ 3.970,00",30-49
+2021-03,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-10,Feminino,separado,Assentados do PNRA,"R$ 92.690,00","R$ 47.373,00","R$ 2.236,00",30-49
+2021-02,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-11,Feminino,separado,Outras Comunidades,"R$ 70.857,00","R$ 47.939,00","R$ 3.922,00",30-49
+2023-10,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Feminino,separado,Não aplicável,"R$ 56.797,00","R$ 42.339,00","R$ 2.010,00",50-64
+2022-07,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-11,Masculino,solteiro,Assentados do PNRA,"R$ 55.946,00","R$ 47.140,00","R$ 3.174,00",30-49
+2017-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-04,Masculino,solteiro,Assentados do PNRA,"R$ 56.451,00","R$ 41.173,00","R$ 2.079,00",30-49
+2023-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-07,Feminino,separado,Outras Comunidades,"R$ 53.106,00","R$ 46.873,00","R$ 4.163,00",30-49
+2023-11,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-04,Feminino,casado,Extravista,"R$ 50.596,00","R$ 48.361,00","R$ 4.837,00",50-64
+2022-01,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-06,Masculino,viúvo,Assentados do PNRA,"R$ 61.784,00","R$ 49.188,00","R$ 2.886,00",30-49
+2018-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-06,Feminino,divorciado,Pescadores artesanais,"R$ 50.455,00","R$ 40.920,00","R$ 2.973,00",30-49
+2023-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-02,Feminino,divorciado,Pescadores artesanais,"R$ 77.284,00","R$ 44.058,00","R$ 1.608,00",30-49
+2020-10,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-09,Masculino,viúvo,Pescadores artesanais,"R$ 96.086,00","R$ 47.458,00","R$ 2.434,00",30-49
+2020-05,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-05,Masculino,viúvo,Pescadores artesanais,"R$ 83.768,00","R$ 49.267,00","R$ 1.576,00",30-49
+2017-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-07,Masculino,solteiro,Indigena,"R$ 88.627,00","R$ 44.219,00","R$ 1.939,00",30-49
+2019-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-10,Masculino,viúvo,Quilombolas,"R$ 68.924,00","R$ 45.471,00","R$ 3.098,00",30-49
+2018-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-12,Feminino,separado,Quilombolas,"R$ 73.667,00","R$ 44.196,00","R$ 1.743,00",30-49
+2019-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-01,Masculino,divorciado,Assentados do PNRA,"R$ 51.145,00","R$ 48.305,00","R$ 2.266,00",30-49
+2018-11,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-04,Masculino,viúvo,Quilombolas,"R$ 93.954,00","R$ 45.127,00","R$ 4.170,00",30-49
+2024-07,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Masculino,viúvo,Extravista,"R$ 91.519,00","R$ 49.689,00","R$ 3.840,00",30-49
+2023-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-07,Feminino,divorciado,Pescadores artesanais,"R$ 82.317,00","R$ 40.745,00","R$ 1.411,00",30-49
+2023-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-03,Masculino,divorciado,Quilombolas,"R$ 97.799,00","R$ 49.671,00","R$ 2.592,00",30-49
+2017-09,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-07,Masculino,solteiro,Não aplicável,"R$ 56.126,00","R$ 48.610,00","R$ 1.811,00",50-64
+2021-01,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-09,Feminino,divorciado,Assentados do PNRA,"R$ 87.410,00","R$ 46.902,00","R$ 1.834,00",50-64
+2017-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-06,Feminino,separado,Extravista,"R$ 76.137,00","R$ 45.280,00","R$ 4.213,00",30-49
+2019-04,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-01,Masculino,viúvo,Não aplicável,"R$ 98.690,00","R$ 47.018,00","R$ 1.358,00",30-49
+2021-08,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-04,Feminino,solteiro,Não aplicável,"R$ 64.523,00","R$ 46.213,00","R$ 1.950,00",50-64
+2018-07,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-08,Feminino,separado,Outras Comunidades,"R$ 67.326,00","R$ 49.081,00","R$ 3.817,00",30-49
+2019-09,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-07,Feminino,divorciado,Extravista,"R$ 58.597,00","R$ 43.126,00","R$ 4.669,00",30-49
+2021-01,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-09,Masculino,solteiro,Indigena,"R$ 74.000,00","R$ 41.872,00","R$ 2.520,00",50-64
+2023-07,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-04,Masculino,casado,Pescadores artesanais,"R$ 53.488,00","R$ 47.815,00","R$ 4.391,00",50-64
+2020-12,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-02,Feminino,separado,Pescadores artesanais,"R$ 56.825,00","R$ 40.796,00","R$ 1.664,00",30-49
+2024-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-09,Feminino,divorciado,Indigena,"R$ 78.033,00","R$ 49.614,00","R$ 4.530,00",30-49
+2022-11,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-01,Masculino,solteiro,Pescadores artesanais,"R$ 75.320,00","R$ 42.400,00","R$ 1.775,00",30-49
+2018-11,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-06,Masculino,divorciado,Não aplicável,"R$ 92.464,00","R$ 43.703,00","R$ 2.094,00",50-64
+2023-04,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-12,Masculino,solteiro,Pescadores artesanais,"R$ 74.198,00","R$ 46.888,00","R$ 1.659,00",30-49
+2019-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-05,Feminino,casado,Outras Comunidades,"R$ 71.662,00","R$ 45.605,00","R$ 4.254,00",50-64
+2020-01,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-08,Feminino,divorciado,Outras Comunidades,"R$ 66.486,00","R$ 48.653,00","R$ 1.846,00",50-64
+2023-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-09,Masculino,divorciado,Pescadores artesanais,"R$ 97.649,00","R$ 44.178,00","R$ 3.211,00",30-49
+2018-04,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-09,Feminino,casado,Quilombolas,"R$ 94.133,00","R$ 40.955,00","R$ 1.568,00",50-64
+2021-09,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-01,Masculino,divorciado,Extravista,"R$ 90.756,00","R$ 41.161,00","R$ 1.735,00",30-49
+2023-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-04,Feminino,solteiro,Assentados do PNRA,"R$ 70.451,00","R$ 40.643,00","R$ 4.084,00",30-49
+2019-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-05,Masculino,casado,Indigena,"R$ 70.713,00","R$ 40.361,00","R$ 4.322,00",30-49
+2018-03,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-04,Masculino,casado,Outras Comunidades,"R$ 73.292,00","R$ 46.585,00","R$ 4.150,00",30-49
+2019-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-02,Feminino,separado,Quilombolas,"R$ 63.755,00","R$ 48.236,00","R$ 3.855,00",30-49
+2018-11,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-12,Feminino,divorciado,Assentados do PNRA,"R$ 60.608,00","R$ 44.790,00","R$ 3.999,00",30-49
+2024-08,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-09,Masculino,divorciado,Pescadores artesanais,"R$ 91.359,00","R$ 45.633,00","R$ 3.737,00",50-64
+2017-11,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-04,Masculino,viúvo,Não aplicável,"R$ 63.735,00","R$ 42.889,00","R$ 4.330,00",30-49
+2017-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-01,Feminino,separado,Assentados do PNRA,"R$ 97.790,00","R$ 48.269,00","R$ 3.821,00",30-49
+2024-06,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2025-02,Feminino,casado,Outras Comunidades,"R$ 62.793,00","R$ 45.720,00","R$ 4.475,00",30-49
+2017-01,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-02,Masculino,casado,Assentados do PNRA,"R$ 54.054,00","R$ 49.829,00","R$ 2.309,00",50-64
+2021-10,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-12,Masculino,viúvo,Extravista,"R$ 59.422,00","R$ 44.736,00","R$ 3.213,00",50-64
+2022-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-03,Feminino,casado,Assentados do PNRA,"R$ 87.391,00","R$ 43.723,00","R$ 4.396,00",30-49
+2022-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-08,Masculino,divorciado,Quilombolas,"R$ 50.826,00","R$ 49.018,00","R$ 2.266,00",50-64
+2021-02,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-01,Masculino,solteiro,Extravista,"R$ 95.848,00","R$ 45.155,00","R$ 1.989,00",50-64
+2018-06,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-04,Masculino,casado,Outras Comunidades,"R$ 76.255,00","R$ 41.677,00","R$ 4.892,00",30-49
+2024-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-06,Masculino,viúvo,Pescadores artesanais,"R$ 53.683,00","R$ 44.229,00","R$ 3.711,00",30-49
+2021-10,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-05,Masculino,solteiro,Extravista,"R$ 74.676,00","R$ 48.043,00","R$ 1.774,00",30-49
+2018-04,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-02,Feminino,viúvo,Assentados do PNRA,"R$ 94.588,00","R$ 43.448,00","R$ 1.702,00",30-49
+2022-02,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-10,Masculino,casado,Extravista,"R$ 88.909,00","R$ 48.554,00","R$ 4.248,00",30-49
+2023-02,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-02,Masculino,solteiro,Não aplicável,"R$ 87.298,00","R$ 49.821,00","R$ 3.404,00",30-49
+2023-04,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-09,Masculino,viúvo,Assentados do PNRA,"R$ 63.755,00","R$ 47.359,00","R$ 1.753,00",50-64
+2023-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-07,Masculino,divorciado,Outras Comunidades,"R$ 65.075,00","R$ 40.470,00","R$ 2.364,00",30-49
+2022-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-01,Masculino,separado,Assentados do PNRA,"R$ 64.406,00","R$ 40.018,00","R$ 4.588,00",30-49
+2023-07,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-01,Feminino,divorciado,Pescadores artesanais,"R$ 97.144,00","R$ 45.577,00","R$ 1.953,00",30-49
+2023-02,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-10,Feminino,solteiro,Pescadores artesanais,"R$ 98.033,00","R$ 49.136,00","R$ 3.120,00",30-49
+2018-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-03,Feminino,casado,Assentados do PNRA,"R$ 95.207,00","R$ 41.942,00","R$ 3.903,00",30-49
+2021-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-08,Masculino,viúvo,Não aplicável,"R$ 97.758,00","R$ 40.407,00","R$ 2.126,00",50-64
+2023-10,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-06,Feminino,viúvo,Indigena,"R$ 98.222,00","R$ 45.576,00","R$ 3.742,00",30-49
+2019-11,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-05,Masculino,solteiro,Não aplicável,"R$ 80.678,00","R$ 46.886,00","R$ 1.574,00",50-64
+2021-05,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-06,Masculino,casado,Assentados do PNRA,"R$ 71.895,00","R$ 47.082,00","R$ 4.860,00",50-64
+2020-10,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-06,Masculino,viúvo,Outras Comunidades,"R$ 92.519,00","R$ 41.486,00","R$ 2.809,00",30-49
+2021-10,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-05,Masculino,casado,Pescadores artesanais,"R$ 97.667,00","R$ 43.026,00","R$ 3.194,00",30-49
+2022-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-03,Masculino,viúvo,Não aplicável,"R$ 78.901,00","R$ 41.267,00","R$ 3.886,00",50-64
+2022-02,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-09,Feminino,separado,Assentados do PNRA,"R$ 80.624,00","R$ 40.293,00","R$ 3.954,00",50-64
+2022-03,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-04,Feminino,divorciado,Outras Comunidades,"R$ 91.622,00","R$ 41.264,00","R$ 3.106,00",30-49
+2019-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-04,Masculino,separado,Indigena,"R$ 98.484,00","R$ 48.268,00","R$ 1.711,00",30-49
+2017-08,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-09,Feminino,casado,Não aplicável,"R$ 95.418,00","R$ 47.622,00","R$ 1.741,00",30-49
+2021-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-06,Feminino,separado,Pescadores artesanais,"R$ 93.702,00","R$ 40.051,00","R$ 3.403,00",50-64
+2021-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-11,Masculino,divorciado,Outras Comunidades,"R$ 64.181,00","R$ 43.175,00","R$ 4.889,00",30-49
+2020-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-05,Feminino,divorciado,Não aplicável,"R$ 81.434,00","R$ 43.222,00","R$ 3.426,00",50-64
+2022-08,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-04,Feminino,casado,Assentados do PNRA,"R$ 86.627,00","R$ 44.606,00","R$ 3.251,00",30-49
+2019-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-09,Feminino,separado,Indigena,"R$ 63.828,00","R$ 49.838,00","R$ 1.783,00",30-49
+2023-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-05,Feminino,viúvo,Assentados do PNRA,"R$ 93.391,00","R$ 42.034,00","R$ 4.700,00",30-49
+2020-01,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-06,Feminino,casado,Assentados do PNRA,"R$ 51.371,00","R$ 40.292,00","R$ 1.706,00",30-49
+2017-01,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-02,Feminino,casado,Assentados do PNRA,"R$ 85.719,00","R$ 48.760,00","R$ 3.166,00",50-64
+2021-11,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-03,Masculino,viúvo,Extravista,"R$ 84.379,00","R$ 41.572,00","R$ 3.513,00",30-49
+2020-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-04,Feminino,casado,Extravista,"R$ 72.414,00","R$ 41.034,00","R$ 3.712,00",50-64
+2017-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-07,Feminino,solteiro,Indigena,"R$ 81.554,00","R$ 43.811,00","R$ 1.767,00",50-64
+2023-06,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-04,Masculino,separado,Pescadores artesanais,"R$ 75.474,00","R$ 48.514,00","R$ 4.414,00",50-64
+2021-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-04,Masculino,separado,Outras Comunidades,"R$ 69.622,00","R$ 49.957,00","R$ 3.041,00",50-64
+2023-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-04,Feminino,casado,Pescadores artesanais,"R$ 90.626,00","R$ 44.825,00","R$ 2.203,00",50-64
+2020-09,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2025-06,Feminino,divorciado,Não aplicável,"R$ 63.345,00","R$ 48.118,00","R$ 4.491,00",30-49
+2018-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-08,Masculino,viúvo,Não aplicável,"R$ 86.300,00","R$ 42.508,00","R$ 1.985,00",30-49
+2020-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-08,Feminino,casado,Não aplicável,"R$ 63.309,00","R$ 40.517,00","R$ 3.344,00",30-49
+2017-03,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-05,Masculino,solteiro,Pescadores artesanais,"R$ 64.911,00","R$ 47.578,00","R$ 2.884,00",50-64
+2021-04,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-09,Masculino,separado,Outras Comunidades,"R$ 50.227,00","R$ 48.077,00","R$ 3.667,00",50-64
+2024-09,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-08,Feminino,separado,Quilombolas,"R$ 64.179,00","R$ 49.635,00","R$ 3.322,00",30-49
+2018-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-08,Masculino,solteiro,Assentados do PNRA,"R$ 60.830,00","R$ 45.655,00","R$ 1.925,00",30-49
+2022-03,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-09,Masculino,separado,Extravista,"R$ 63.025,00","R$ 47.742,00","R$ 4.511,00",30-49
+2019-02,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-01,Feminino,viúvo,Quilombolas,"R$ 78.341,00","R$ 41.380,00","R$ 1.885,00",30-49
+2021-03,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-03,Feminino,casado,Não aplicável,"R$ 50.222,00","R$ 41.675,00","R$ 3.948,00",50-64
+2024-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-02,Masculino,casado,Pescadores artesanais,"R$ 86.232,00","R$ 45.730,00","R$ 2.117,00",30-49
+2017-06,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-01,Masculino,separado,Indigena,"R$ 90.756,00","R$ 43.542,00","R$ 2.907,00",30-49
+2020-07,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-07,Masculino,divorciado,Indigena,"R$ 51.938,00","R$ 43.768,00","R$ 4.139,00",50-64
+2021-07,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-10,Masculino,casado,Quilombolas,"R$ 69.402,00","R$ 45.547,00","R$ 1.435,00",50-64
+2023-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-07,Masculino,solteiro,Assentados do PNRA,"R$ 58.792,00","R$ 48.508,00","R$ 3.406,00",30-49
+2018-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-05,Masculino,separado,Quilombolas,"R$ 67.586,00","R$ 46.503,00","R$ 2.083,00",30-49
+2023-03,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-01,Masculino,viúvo,Extravista,"R$ 83.255,00","R$ 44.811,00","R$ 1.335,00",30-49
+2020-09,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-08,Masculino,divorciado,Outras Comunidades,"R$ 78.233,00","R$ 49.085,00","R$ 2.828,00",50-64
+2023-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-06,Masculino,viúvo,Não aplicável,"R$ 64.426,00","R$ 44.949,00","R$ 4.785,00",50-64
+2023-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-08,Feminino,divorciado,Outras Comunidades,"R$ 75.938,00","R$ 40.877,00","R$ 4.231,00",30-49
+2023-07,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-02,Feminino,casado,Assentados do PNRA,"R$ 55.773,00","R$ 48.809,00","R$ 1.771,00",30-49
+2018-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-10,Masculino,divorciado,Outras Comunidades,"R$ 84.889,00","R$ 46.171,00","R$ 2.734,00",50-64
+2021-01,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2025-05,Feminino,casado,Extravista,"R$ 89.846,00","R$ 40.230,00","R$ 3.945,00",30-49
+2020-08,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-04,Masculino,viúvo,Assentados do PNRA,"R$ 62.577,00","R$ 45.623,00","R$ 4.590,00",50-64
+2019-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-06,Masculino,separado,Assentados do PNRA,"R$ 89.818,00","R$ 48.338,00","R$ 3.273,00",50-64
+2017-07,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-03,Masculino,separado,Extravista,"R$ 92.981,00","R$ 41.182,00","R$ 2.523,00",30-49
+2021-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-12,Masculino,casado,Assentados do PNRA,"R$ 59.293,00","R$ 41.036,00","R$ 2.216,00",30-49
+2022-01,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-01,Masculino,casado,Não aplicável,"R$ 91.889,00","R$ 43.411,00","R$ 1.975,00",30-49
+2020-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-01,Masculino,separado,Pescadores artesanais,"R$ 69.611,00","R$ 47.403,00","R$ 2.342,00",30-49
+2018-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-11,Feminino,casado,Outras Comunidades,"R$ 80.559,00","R$ 41.335,00","R$ 4.536,00",30-49
+2024-06,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-06,Masculino,viúvo,Pescadores artesanais,"R$ 97.632,00","R$ 40.147,00","R$ 4.044,00",30-49
+2017-01,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-06,Feminino,casado,Extravista,"R$ 69.701,00","R$ 40.358,00","R$ 4.306,00",30-49
+2023-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-03,Feminino,divorciado,Outras Comunidades,"R$ 80.159,00","R$ 47.046,00","R$ 4.428,00",50-64
+2021-11,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-03,Masculino,solteiro,Quilombolas,"R$ 93.680,00","R$ 41.840,00","R$ 2.843,00",50-64
+2023-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-02,Masculino,solteiro,Indigena,"R$ 75.979,00","R$ 43.808,00","R$ 4.570,00",50-64
+2023-04,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-05,Feminino,divorciado,Não aplicável,"R$ 76.303,00","R$ 40.281,00","R$ 3.002,00",30-49
+2020-11,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-07,Masculino,separado,Pescadores artesanais,"R$ 97.271,00","R$ 44.220,00","R$ 2.097,00",50-64
+2019-05,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-09,Masculino,viúvo,Extravista,"R$ 80.984,00","R$ 40.505,00","R$ 4.747,00",30-49
+2021-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-06,Feminino,solteiro,Extravista,"R$ 76.426,00","R$ 44.797,00","R$ 3.297,00",50-64
+2020-10,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-11,Masculino,solteiro,Quilombolas,"R$ 76.049,00","R$ 40.699,00","R$ 2.111,00",30-49
+2017-08,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-01,Feminino,solteiro,Indigena,"R$ 52.154,00","R$ 48.735,00","R$ 1.695,00",30-49
+2020-11,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Masculino,separado,Indigena,"R$ 54.407,00","R$ 49.676,00","R$ 3.465,00",30-49
+2018-05,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-02,Masculino,separado,Pescadores artesanais,"R$ 58.479,00","R$ 49.127,00","R$ 3.389,00",30-49
+2021-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-02,Masculino,divorciado,Assentados do PNRA,"R$ 71.477,00","R$ 46.878,00","R$ 3.518,00",30-49
+2022-04,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-05,Feminino,solteiro,Quilombolas,"R$ 89.961,00","R$ 44.131,00","R$ 2.151,00",50-64
+2020-01,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-06,Feminino,solteiro,Outras Comunidades,"R$ 56.978,00","R$ 49.692,00","R$ 1.790,00",30-49
+2019-12,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-06,Masculino,solteiro,Outras Comunidades,"R$ 77.682,00","R$ 45.016,00","R$ 1.556,00",30-49
+2020-01,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-11,Feminino,casado,Outras Comunidades,"R$ 67.426,00","R$ 45.319,00","R$ 3.589,00",30-49
+2021-12,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-10,Masculino,divorciado,Indigena,"R$ 86.371,00","R$ 49.662,00","R$ 2.382,00",30-49
+2022-05,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-12,Masculino,divorciado,Pescadores artesanais,"R$ 82.374,00","R$ 48.985,00","R$ 2.396,00",30-49
+2017-02,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-03,Feminino,separado,Outras Comunidades,"R$ 92.376,00","R$ 49.450,00","R$ 4.506,00",30-49
+2023-03,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-10,Masculino,casado,Extravista,"R$ 85.132,00","R$ 41.505,00","R$ 2.269,00",30-49
+2022-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-03,Feminino,separado,Indigena,"R$ 51.318,00","R$ 46.144,00","R$ 1.463,00",50-64
+2018-03,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-05,Masculino,solteiro,Quilombolas,"R$ 61.349,00","R$ 40.860,00","R$ 3.683,00",30-49
+2017-06,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-01,Feminino,casado,Assentados do PNRA,"R$ 81.931,00","R$ 41.577,00","R$ 3.222,00",30-49
+2020-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-01,Masculino,divorciado,Indigena,"R$ 60.363,00","R$ 49.054,00","R$ 1.463,00",30-49
+2017-10,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-05,Feminino,viúvo,Outras Comunidades,"R$ 51.487,00","R$ 46.747,00","R$ 2.067,00",50-64
+2022-11,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-11,Masculino,viúvo,Outras Comunidades,"R$ 90.548,00","R$ 45.103,00","R$ 3.674,00",50-64
+2021-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-07,Feminino,solteiro,Não aplicável,"R$ 99.849,00","R$ 49.997,00","R$ 3.026,00",50-64
+2021-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-07,Feminino,solteiro,Outras Comunidades,"R$ 60.088,00","R$ 44.551,00","R$ 4.117,00",50-64
+2017-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-12,Masculino,divorciado,Pescadores artesanais,"R$ 71.933,00","R$ 42.520,00","R$ 4.376,00",50-64
+2021-07,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-05,Masculino,separado,Não aplicável,"R$ 73.653,00","R$ 48.909,00","R$ 4.739,00",30-49
+2017-02,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-08,Masculino,viúvo,Extravista,"R$ 96.206,00","R$ 43.032,00","R$ 2.367,00",30-49
+2023-09,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Masculino,casado,Não aplicável,"R$ 64.150,00","R$ 46.828,00","R$ 3.155,00",30-49
+2018-04,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-02,Feminino,casado,Extravista,"R$ 77.913,00","R$ 48.715,00","R$ 3.795,00",50-64
+2021-01,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-05,Feminino,divorciado,Indigena,"R$ 50.700,00","R$ 42.430,00","R$ 3.484,00",30-49
+2020-07,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Feminino,viúvo,Assentados do PNRA,"R$ 57.039,00","R$ 48.554,00","R$ 2.331,00",50-64
+2022-04,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-08,Feminino,separado,Outras Comunidades,"R$ 80.002,00","R$ 44.524,00","R$ 3.398,00",50-64
+2024-01,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-02,Masculino,viúvo,Pescadores artesanais,"R$ 75.649,00","R$ 43.578,00","R$ 3.629,00",30-49
+2023-11,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-05,Masculino,casado,Outras Comunidades,"R$ 53.224,00","R$ 45.693,00","R$ 1.435,00",50-64
+2023-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-06,Feminino,solteiro,Indigena,"R$ 73.083,00","R$ 41.974,00","R$ 3.293,00",30-49
+2019-05,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-11,Feminino,separado,Indigena,"R$ 91.548,00","R$ 40.965,00","R$ 4.998,00",30-49
+2020-09,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-08,Masculino,divorciado,Outras Comunidades,"R$ 62.897,00","R$ 46.002,00","R$ 1.861,00",50-64
+2017-01,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-04,Masculino,casado,Não aplicável,"R$ 79.916,00","R$ 43.792,00","R$ 3.864,00",50-64
+2024-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-01,Feminino,solteiro,Quilombolas,"R$ 59.392,00","R$ 49.058,00","R$ 2.456,00",50-64
+2018-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-01,Masculino,solteiro,Extravista,"R$ 60.079,00","R$ 44.080,00","R$ 1.859,00",30-49
+2021-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-04,Masculino,divorciado,Outras Comunidades,"R$ 59.625,00","R$ 40.549,00","R$ 2.812,00",30-49
+2023-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-06,Masculino,viúvo,Assentados do PNRA,"R$ 68.912,00","R$ 42.873,00","R$ 3.701,00",30-49
+2017-08,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-12,Feminino,casado,Não aplicável,"R$ 75.177,00","R$ 45.543,00","R$ 1.962,00",50-64
+2020-06,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-10,Feminino,divorciado,Outras Comunidades,"R$ 83.313,00","R$ 49.978,00","R$ 2.665,00",30-49
+2017-01,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-08,Masculino,viúvo,Quilombolas,"R$ 62.265,00","R$ 40.897,00","R$ 3.747,00",30-49
+2023-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-06,Feminino,separado,Assentados do PNRA,"R$ 57.743,00","R$ 44.206,00","R$ 1.330,00",50-64
+2021-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-07,Feminino,casado,Quilombolas,"R$ 98.070,00","R$ 45.661,00","R$ 2.581,00",50-64
+2024-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-06,Feminino,solteiro,Não aplicável,"R$ 82.819,00","R$ 48.506,00","R$ 3.037,00",30-49
+2020-02,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-05,Masculino,casado,Assentados do PNRA,"R$ 61.535,00","R$ 43.904,00","R$ 2.374,00",50-64
+2024-12,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-09,Feminino,solteiro,Pescadores artesanais,"R$ 95.090,00","R$ 45.732,00","R$ 3.682,00",50-64
+2020-04,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-01,Feminino,viúvo,Extravista,"R$ 88.077,00","R$ 49.604,00","R$ 2.177,00",30-49
+2024-11,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-10,Masculino,viúvo,Pescadores artesanais,"R$ 96.419,00","R$ 43.399,00","R$ 4.144,00",30-49
+2020-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-12,Feminino,casado,Não aplicável,"R$ 53.290,00","R$ 40.387,00","R$ 4.859,00",30-49
+2024-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-09,Feminino,solteiro,Indigena,"R$ 79.037,00","R$ 47.364,00","R$ 2.266,00",30-49
+2019-11,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-06,Feminino,divorciado,Quilombolas,"R$ 82.576,00","R$ 47.411,00","R$ 4.157,00",30-49
+2021-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-04,Feminino,divorciado,Indigena,"R$ 66.672,00","R$ 49.424,00","R$ 3.529,00",30-49
+2018-01,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-05,Masculino,casado,Outras Comunidades,"R$ 68.253,00","R$ 41.776,00","R$ 2.876,00",30-49
+2023-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-04,Masculino,viúvo,Outras Comunidades,"R$ 78.896,00","R$ 47.654,00","R$ 2.600,00",30-49
+2024-03,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-01,Feminino,casado,Pescadores artesanais,"R$ 93.475,00","R$ 47.186,00","R$ 4.399,00",30-49
+2017-01,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-06,Feminino,viúvo,Quilombolas,"R$ 51.956,00","R$ 49.436,00","R$ 4.084,00",50-64
+2017-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-02,Masculino,casado,Quilombolas,"R$ 82.791,00","R$ 49.357,00","R$ 4.397,00",30-49
+2024-10,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-03,Feminino,separado,Indigena,"R$ 96.754,00","R$ 43.268,00","R$ 2.073,00",30-49
+2018-04,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-01,Masculino,casado,Assentados do PNRA,"R$ 81.796,00","R$ 43.127,00","R$ 3.421,00",30-49
+2023-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-07,Masculino,casado,Assentados do PNRA,"R$ 90.192,00","R$ 46.422,00","R$ 3.528,00",50-64
+2019-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-04,Feminino,viúvo,Extravista,"R$ 64.861,00","R$ 47.536,00","R$ 2.664,00",50-64
+2020-11,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-01,Feminino,divorciado,Quilombolas,"R$ 58.135,00","R$ 40.226,00","R$ 1.800,00",30-49
+2018-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-07,Masculino,divorciado,Não aplicável,"R$ 81.310,00","R$ 40.649,00","R$ 4.331,00",30-49
+2023-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-02,Masculino,divorciado,Não aplicável,"R$ 77.378,00","R$ 48.758,00","R$ 4.134,00",50-64
+2022-08,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-02,Feminino,separado,Assentados do PNRA,"R$ 71.602,00","R$ 47.848,00","R$ 4.907,00",30-49
+2024-07,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-09,Feminino,divorciado,Indigena,"R$ 80.743,00","R$ 41.576,00","R$ 2.306,00",30-49
+2017-12,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-02,Masculino,solteiro,Assentados do PNRA,"R$ 64.706,00","R$ 41.695,00","R$ 1.820,00",50-64
+2021-04,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-06,Feminino,separado,Não aplicável,"R$ 71.839,00","R$ 41.451,00","R$ 2.414,00",30-49
+2020-08,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-05,Masculino,casado,Não aplicável,"R$ 78.709,00","R$ 49.449,00","R$ 2.490,00",50-64
+2022-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-06,Masculino,viúvo,Indigena,"R$ 96.182,00","R$ 42.764,00","R$ 4.334,00",30-49
+2024-09,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-09,Masculino,solteiro,Indigena,"R$ 52.459,00","R$ 48.802,00","R$ 1.730,00",30-49
+2019-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-05,Feminino,separado,Extravista,"R$ 54.168,00","R$ 40.409,00","R$ 3.494,00",30-49
+2022-08,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-11,Masculino,viúvo,Assentados do PNRA,"R$ 93.550,00","R$ 44.351,00","R$ 3.440,00",30-49
+2024-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-11,Feminino,divorciado,Quilombolas,"R$ 69.896,00","R$ 47.047,00","R$ 3.940,00",30-49
+2021-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-04,Feminino,casado,Outras Comunidades,"R$ 74.958,00","R$ 48.511,00","R$ 1.929,00",30-49
+2022-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-05,Feminino,solteiro,Não aplicável,"R$ 79.879,00","R$ 46.540,00","R$ 2.632,00",30-49
+2021-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-03,Masculino,separado,Outras Comunidades,"R$ 77.694,00","R$ 41.796,00","R$ 2.301,00",30-49
+2019-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-04,Masculino,solteiro,Não aplicável,"R$ 82.276,00","R$ 48.386,00","R$ 2.675,00",30-49
+2022-07,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-11,Feminino,separado,Quilombolas,"R$ 90.827,00","R$ 48.014,00","R$ 4.279,00",30-49
+2018-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-12,Masculino,viúvo,Não aplicável,"R$ 79.477,00","R$ 40.618,00","R$ 3.334,00",30-49
+2017-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-02,Masculino,solteiro,Indigena,"R$ 57.431,00","R$ 49.953,00","R$ 1.412,00",30-49
+2022-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-06,Masculino,viúvo,Pescadores artesanais,"R$ 95.955,00","R$ 43.875,00","R$ 1.597,00",50-64
+2018-06,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-01,Masculino,casado,Quilombolas,"R$ 88.777,00","R$ 42.959,00","R$ 2.087,00",30-49
+2022-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-03,Masculino,casado,Não aplicável,"R$ 95.857,00","R$ 46.445,00","R$ 3.165,00",50-64
+2024-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-06,Feminino,separado,Assentados do PNRA,"R$ 72.811,00","R$ 43.602,00","R$ 3.172,00",50-64
+2019-07,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-08,Feminino,solteiro,Quilombolas,"R$ 95.633,00","R$ 43.330,00","R$ 2.274,00",50-64
+2020-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-07,Masculino,separado,Extravista,"R$ 90.127,00","R$ 47.297,00","R$ 3.477,00",30-49
+2017-09,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-10,Feminino,divorciado,Quilombolas,"R$ 91.603,00","R$ 44.453,00","R$ 4.774,00",30-49
+2017-03,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-11,Masculino,casado,Extravista,"R$ 92.414,00","R$ 43.194,00","R$ 4.777,00",30-49
+2020-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-06,Feminino,divorciado,Assentados do PNRA,"R$ 74.437,00","R$ 48.618,00","R$ 3.601,00",30-49
+2020-01,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-07,Feminino,viúvo,Não aplicável,"R$ 63.463,00","R$ 42.921,00","R$ 1.994,00",30-49
