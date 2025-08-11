@@ -1,614 +1,614 @@
-﻿data_referencia,txt_municipio,txt_uf,txt_regiao,txt_af,txt_modalidade,dt_assinatura_contrato,txt_sexo,estado_civil,tipo_beneficiario,vr_garantia_inicial,vr_subsidio_concessao,vr_renda_familiar_comprovada,faixa_etaria
-2019-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-04,Feminino,solteiro,Outras Comunidades,77886.0,40498.0,2078.0,30-49
-2023-03,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-04,Feminino,divorciado,Outras Comunidades,95414.0,49458.0,4098.0,30-49
-2021-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-10,Feminino,solteiro,Quilombolas,58451.0,45721.0,3079.0,50-64
-2022-03,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-08,Feminino,solteiro,Outras Comunidades,76131.0,41005.0,1574.0,50-64
-2024-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-02,Masculino,casado,Não aplicável,54003.0,49099.0,2621.0,30-49
-2017-03,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-02,Masculino,divorciado,Extravista,78663.0,44303.0,3464.0,30-49
-2018-06,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-01,Feminino,solteiro,Outras Comunidades,78208.0,47521.0,1640.0,50-64
-2024-03,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-02,Feminino,casado,Não aplicável,79418.0,40756.0,3331.0,30-49
-2023-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-05,Masculino,divorciado,Pescadores artesanais,73310.0,49883.0,3399.0,30-49
-2024-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-06,Feminino,casado,Não aplicável,58818.0,43206.0,4211.0,50-64
-2021-11,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-07,Feminino,solteiro,Não aplicável,61315.0,43002.0,2642.0,30-49
-2017-03,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-08,Feminino,viúvo,Pescadores artesanais,73015.0,47138.0,2500.0,50-64
-2018-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-04,Masculino,viúvo,Quilombolas,83640.0,43748.0,3191.0,30-49
-2020-10,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-09,Feminino,casado,Outras Comunidades,55245.0,40735.0,2172.0,50-64
-2019-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-06,Masculino,solteiro,Pescadores artesanais,69056.0,40592.0,1568.0,50-64
-2024-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-12,Masculino,separado,Quilombolas,95967.0,47981.0,1639.0,30-49
-2022-05,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-02,Feminino,viúvo,Assentados do PNRA,56672.0,43431.0,2473.0,30-49
-2021-02,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-11,Feminino,casado,Quilombolas,93326.0,44801.0,3708.0,30-49
-2017-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-01,Masculino,divorciado,Extravista,70526.0,43088.0,1637.0,30-49
-2020-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-07,Feminino,divorciado,Assentados do PNRA,78506.0,42078.0,2245.0,30-49
-2024-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-04,Feminino,viúvo,Extravista,65086.0,47325.0,2369.0,50-64
-2017-06,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-03,Feminino,casado,Extravista,76414.0,41125.0,4887.0,30-49
-2022-05,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-01,Feminino,solteiro,Indigena,64485.0,46096.0,1749.0,50-64
-2021-02,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-02,Masculino,casado,Assentados do PNRA,63758.0,42612.0,1596.0,30-49
-2017-04,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-04,Feminino,solteiro,Extravista,69082.0,40689.0,4707.0,30-49
-2017-02,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-02,Masculino,viúvo,Pescadores artesanais,90031.0,41824.0,2963.0,30-49
-2023-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-01,Masculino,solteiro,Não aplicável,57577.0,46220.0,4252.0,30-49
-2019-09,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-09,Masculino,casado,Extravista,99814.0,40863.0,2337.0,30-49
-2017-04,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-12,Feminino,casado,Assentados do PNRA,65219.0,49113.0,4166.0,30-49
-2022-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-10,Masculino,casado,Quilombolas,59245.0,42625.0,4374.0,30-49
-2022-04,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-01,Feminino,casado,Assentados do PNRA,63668.0,49947.0,4305.0,30-49
-2021-07,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-06,Masculino,separado,Quilombolas,93857.0,47883.0,2975.0,50-64
-2017-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-04,Feminino,divorciado,Outras Comunidades,66644.0,42636.0,1912.0,30-49
-2022-06,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-09,Feminino,divorciado,Assentados do PNRA,86838.0,42610.0,1332.0,50-64
-2021-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-05,Masculino,solteiro,Quilombolas,72296.0,49747.0,3748.0,30-49
-2020-05,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-02,Masculino,separado,Quilombolas,99986.0,40745.0,3070.0,30-49
-2024-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-07,Masculino,divorciado,Outras Comunidades,99667.0,43771.0,1793.0,30-49
-2023-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-09,Feminino,casado,Indigena,54798.0,49692.0,1723.0,50-64
-2024-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-05,Masculino,separado,Indigena,82855.0,47372.0,4052.0,30-49
-2022-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-04,Masculino,viúvo,Outras Comunidades,96601.0,40546.0,2473.0,50-64
-2022-06,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-06,Feminino,solteiro,Pescadores artesanais,73835.0,42947.0,2885.0,30-49
-2017-06,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2025-02,Feminino,solteiro,Extravista,60611.0,44152.0,4681.0,50-64
-2023-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-01,Masculino,viúvo,Pescadores artesanais,52001.0,45608.0,3982.0,30-49
-2019-06,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-11,Masculino,casado,Assentados do PNRA,81375.0,46642.0,3831.0,30-49
-2020-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-06,Masculino,viúvo,Indigena,94386.0,48764.0,4832.0,50-64
-2018-05,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-08,Feminino,divorciado,Quilombolas,54538.0,42296.0,1326.0,30-49
-2017-02,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-06,Masculino,separado,Assentados do PNRA,87667.0,41097.0,1913.0,30-49
-2023-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-06,Masculino,divorciado,Indigena,81752.0,40586.0,2592.0,30-49
-2020-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2025-01,Masculino,viúvo,Quilombolas,68948.0,46255.0,4244.0,50-64
-2020-04,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-01,Masculino,separado,Assentados do PNRA,66830.0,42560.0,1363.0,30-49
-2021-11,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-07,Feminino,viúvo,Assentados do PNRA,83417.0,49550.0,1405.0,30-49
-2020-07,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-08,Masculino,separado,Quilombolas,63126.0,42379.0,2338.0,50-64
-2021-03,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-01,Masculino,divorciado,Não aplicável,79722.0,42907.0,2665.0,50-64
-2022-06,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-06,Feminino,solteiro,Outras Comunidades,57613.0,46225.0,4690.0,30-49
-2022-09,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-05,Masculino,divorciado,Indigena,89916.0,42784.0,4340.0,30-49
-2023-03,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-02,Feminino,divorciado,Outras Comunidades,72762.0,40384.0,4587.0,30-49
-2022-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-08,Masculino,viúvo,Extravista,76266.0,40492.0,2110.0,50-64
-2021-09,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-05,Masculino,casado,Indigena,54352.0,43608.0,4299.0,30-49
-2017-07,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-09,Feminino,divorciado,Pescadores artesanais,75644.0,44692.0,3207.0,50-64
-2017-04,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-02,Feminino,viúvo,Assentados do PNRA,96171.0,43021.0,2699.0,30-49
-2024-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-07,Feminino,separado,Quilombolas,67811.0,46753.0,3188.0,30-49
-2019-03,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2025-02,Feminino,separado,Não aplicável,76329.0,41159.0,3623.0,30-49
-2017-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-07,Masculino,casado,Extravista,57603.0,48929.0,3439.0,50-64
-2020-10,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-10,Feminino,solteiro,Não aplicável,91578.0,46393.0,3665.0,50-64
-2020-06,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-08,Feminino,viúvo,Assentados do PNRA,62027.0,44217.0,2857.0,50-64
-2020-03,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-09,Masculino,viúvo,Pescadores artesanais,53157.0,46937.0,4454.0,30-49
-2017-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-12,Masculino,divorciado,Quilombolas,99180.0,40319.0,2007.0,30-49
-2022-12,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-05,Feminino,divorciado,Extravista,54725.0,42091.0,2737.0,30-49
-2019-01,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-04,Masculino,separado,Outras Comunidades,98711.0,40679.0,2671.0,30-49
-2019-06,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-08,Masculino,separado,Quilombolas,90289.0,41205.0,4472.0,30-49
-2023-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-07,Masculino,solteiro,Assentados do PNRA,61140.0,42678.0,3359.0,30-49
-2018-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-04,Masculino,casado,Pescadores artesanais,90951.0,45361.0,4247.0,30-49
-2020-07,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-07,Masculino,casado,Outras Comunidades,87008.0,42055.0,2804.0,50-64
-2018-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-01,Feminino,viúvo,Indigena,58894.0,44329.0,1758.0,50-64
-2017-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-03,Masculino,casado,Indigena,58901.0,45717.0,4790.0,30-49
-2019-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-03,Masculino,viúvo,Assentados do PNRA,68985.0,50000.0,3318.0,50-64
-2021-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-05,Feminino,divorciado,Não aplicável,96591.0,40942.0,3457.0,30-49
-2017-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-01,Masculino,solteiro,Pescadores artesanais,88191.0,49136.0,1603.0,30-49
-2017-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-03,Masculino,separado,Extravista,61418.0,48493.0,4846.0,30-49
-2020-12,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-07,Feminino,divorciado,Pescadores artesanais,95027.0,45813.0,2647.0,30-49
-2022-06,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-03,Masculino,solteiro,Não aplicável,71550.0,45070.0,4569.0,30-49
-2021-11,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-01,Masculino,divorciado,Extravista,53581.0,42501.0,4545.0,30-49
-2017-05,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-12,Feminino,casado,Indigena,62272.0,49751.0,2168.0,30-49
-2023-12,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-02,Feminino,divorciado,Não aplicável,64194.0,43800.0,1565.0,30-49
-2021-01,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-11,Feminino,divorciado,Pescadores artesanais,70231.0,49132.0,4257.0,30-49
-2023-04,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-05,Masculino,divorciado,Pescadores artesanais,79950.0,49875.0,1335.0,30-49
-2021-06,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-12,Masculino,solteiro,Quilombolas,50663.0,40904.0,3859.0,30-49
-2021-06,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-01,Masculino,solteiro,Pescadores artesanais,98109.0,42122.0,3346.0,30-49
-2022-02,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-12,Feminino,divorciado,Outras Comunidades,72995.0,40328.0,2926.0,30-49
-2020-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-01,Feminino,casado,Não aplicável,64072.0,41780.0,3581.0,50-64
-2021-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-12,Masculino,divorciado,Não aplicável,74882.0,45752.0,3442.0,50-64
-2021-01,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-02,Feminino,viúvo,Extravista,68330.0,40448.0,1953.0,30-49
-2021-05,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-11,Masculino,divorciado,Outras Comunidades,64181.0,43175.0,4889.0,30-49
-2020-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-08,Feminino,separado,Quilombolas,86567.0,46612.0,3606.0,30-49
-2024-09,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-07,Feminino,divorciado,Pescadores artesanais,50125.0,48388.0,2959.0,30-49
-2019-11,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-05,Masculino,solteiro,Não aplicável,80678.0,46886.0,1574.0,50-64
-2018-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-02,Masculino,solteiro,Assentados do PNRA,99532.0,49152.0,2244.0,30-49
-2019-01,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-02,Feminino,viúvo,Quilombolas,54853.0,44202.0,4334.0,30-49
-2022-06,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-04,Feminino,separado,Assentados do PNRA,83696.0,47798.0,3261.0,30-49
-2023-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-09,Masculino,divorciado,Quilombolas,53148.0,45268.0,3832.0,30-49
-2022-07,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-01,Feminino,separado,Não aplicável,81146.0,45921.0,4472.0,50-64
-2024-08,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-09,Masculino,casado,Outras Comunidades,93837.0,42504.0,1964.0,50-64
-2023-03,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-09,Masculino,casado,Assentados do PNRA,89463.0,47748.0,4838.0,30-49
-2017-08,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-03,Feminino,separado,Assentados do PNRA,69982.0,45936.0,2152.0,50-64
-2021-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-09,Feminino,separado,Extravista,92345.0,40002.0,4770.0,30-49
-2021-04,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-05,Feminino,solteiro,Outras Comunidades,79676.0,44707.0,3730.0,30-49
-2019-12,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-11,Masculino,casado,Não aplicável,83921.0,48015.0,4353.0,30-49
-2020-09,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-06,Masculino,viúvo,Quilombolas,55007.0,47473.0,3586.0,50-64
-2023-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-02,Feminino,solteiro,Pescadores artesanais,66275.0,40196.0,4065.0,30-49
-2019-04,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-11,Feminino,casado,Outras Comunidades,82477.0,47495.0,3781.0,30-49
-2017-06,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-06,Feminino,viúvo,Quilombolas,51955.0,41238.0,4948.0,30-49
-2019-11,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-04,Masculino,solteiro,Quilombolas,72565.0,41129.0,3977.0,30-49
-2023-05,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-12,Masculino,viúvo,Não aplicável,74108.0,40523.0,2276.0,30-49
-2019-07,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-10,Masculino,separado,Não aplicável,58241.0,40021.0,4187.0,30-49
-2023-08,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-10,Feminino,viúvo,Assentados do PNRA,95172.0,49415.0,3030.0,50-64
-2020-12,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-09,Feminino,divorciado,Pescadores artesanais,95177.0,41182.0,1924.0,30-49
-2022-12,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-09,Feminino,divorciado,Assentados do PNRA,55324.0,46356.0,4013.0,30-49
-2018-02,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2023-01,Masculino,casado,Não aplicável,75521.0,48609.0,2191.0,50-64
-2022-07,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-07,Masculino,solteiro,Quilombolas,90057.0,41601.0,4766.0,30-49
-2019-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-02,Feminino,divorciado,Quilombolas,57340.0,40582.0,1659.0,30-49
-2020-06,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-12,Masculino,viúvo,Pescadores artesanais,52461.0,48680.0,2766.0,30-49
-2018-01,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-09,Feminino,viúvo,Pescadores artesanais,98782.0,41176.0,3037.0,30-49
-2022-08,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-11,Feminino,solteiro,Quilombolas,89534.0,40772.0,3406.0,50-64
-2019-09,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-06,Masculino,divorciado,Assentados do PNRA,59405.0,41545.0,4780.0,50-64
-2018-12,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2025-03,Masculino,viúvo,Assentados do PNRA,84765.0,45497.0,4398.0,50-64
-2019-12,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-07,Feminino,viúvo,Pescadores artesanais,91273.0,48801.0,4610.0,30-49
-2017-09,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-05,Masculino,separado,Outras Comunidades,72276.0,49227.0,3247.0,30-49
-2018-08,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-06,Feminino,separado,Quilombolas,78426.0,40139.0,2818.0,30-49
-2020-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-04,Masculino,viúvo,Quilombolas,73222.0,41610.0,2350.0,30-49
-2023-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-01,Masculino,viúvo,Quilombolas,86863.0,44232.0,2171.0,30-49
-2020-08,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-11,Masculino,casado,Indigena,60152.0,41224.0,4867.0,30-49
-2019-05,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2025-02,Masculino,viúvo,Indigena,82194.0,41311.0,1951.0,30-49
-2022-07,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-10,Masculino,separado,Extravista,92581.0,49095.0,3927.0,30-49
-2023-01,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-05,Feminino,viúvo,Quilombolas,96940.0,42598.0,2504.0,30-49
-2019-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-04,Feminino,solteiro,Outras Comunidades,62785.0,45843.0,2691.0,30-49
-2024-11,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-09,Feminino,viúvo,Indigena,90879.0,44894.0,3696.0,30-49
-2021-08,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-10,Feminino,separado,Outras Comunidades,85290.0,46223.0,4149.0,30-49
-2018-04,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2024-12,Masculino,casado,Indigena,61686.0,40575.0,2589.0,30-49
-2018-07,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-08,Feminino,separado,Outras Comunidades,67326.0,49081.0,3817.0,30-49
-2023-02,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-03,Feminino,solteiro,Extravista,78963.0,43437.0,3325.0,30-49
-2017-08,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-07,Feminino,solteiro,Outras Comunidades,82516.0,49142.0,1908.0,50-64
-2023-11,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-02,Masculino,viúvo,Assentados do PNRA,86769.0,44002.0,4215.0,50-64
-2023-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-08,Masculino,viúvo,Assentados do PNRA,92236.0,46517.0,3630.0,30-49
-2021-07,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2023-11,Feminino,separado,Não aplicável,90812.0,41673.0,2705.0,30-49
-2020-07,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-09,Masculino,solteiro,Não aplicável,66223.0,41727.0,3349.0,30-49
-2024-10,Rio de Janeiro,RJ,Sudeste,Banco do Brasil,MCMV-Entidades,2024-03,Feminino,viúvo,Quilombolas,75862.0,43900.0,3157.0,30-49
-2019-10,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-11,Feminino,divorciado,Quilombolas,92967.0,45067.0,1874.0,30-49
-2018-09,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-12,Feminino,solteiro,Não aplicável,72716.0,41167.0,2981.0,50-64
-2019-04,Rio de Janeiro,RJ,Sudeste,Banco do Nordeste,MCMV-Entidades,2023-11,Masculino,divorciado,Outras Comunidades,69904.0,41418.0,2867.0,30-49
-2020-01,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2024-08,Feminino,divorciado,Indigena,95215.0,43067.0,4559.0,30-49
-2020-04,Rio de Janeiro,RJ,Sudeste,Caixa Econômica Federal,MCMV-Entidades,2025-05,Masculino,casado,Assentados do PNRA,51070.0,47390.0,4029.0,50-64
-2018-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-02,Masculino,separado,Assentados do PNRA,68671.0,43998.0,2811.0,50-64
-2024-11,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-05,Masculino,casado,Não aplicável,53458.0,43926.0,2497.0,30-49
-2018-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-02,Feminino,casado,Extravista,80541.0,42363.0,3660.0,50-64
-2023-03,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-11,Masculino,solteiro,Não aplicável,80887.0,41179.0,3651.0,30-49
-2020-07,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-11,Feminino,divorciado,Pescadores artesanais,63917.0,43548.0,4954.0,50-64
-2017-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-07,Masculino,separado,Não aplicável,61663.0,48628.0,1604.0,30-49
-2020-08,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-06,Masculino,casado,Pescadores artesanais,95149.0,40135.0,1576.0,50-64
-2019-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-12,Masculino,viúvo,Quilombolas,75462.0,46170.0,4826.0,30-49
-2020-10,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-04,Masculino,divorciado,Indigena,73627.0,46130.0,1799.0,30-49
-2018-08,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-09,Masculino,viúvo,Extravista,99546.0,49279.0,3935.0,30-49
-2017-05,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-08,Feminino,divorciado,Quilombolas,57019.0,48672.0,4127.0,30-49
-2020-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-05,Feminino,solteiro,Extravista,59546.0,44584.0,2077.0,50-64
-2020-01,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-10,Masculino,viúvo,Extravista,92296.0,46602.0,2606.0,50-64
-2024-12,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-01,Feminino,casado,Assentados do PNRA,51165.0,48462.0,3786.0,30-49
-2019-11,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-08,Masculino,casado,Indigena,74818.0,42583.0,1536.0,30-49
-2022-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-06,Feminino,viúvo,Assentados do PNRA,56260.0,43316.0,4267.0,50-64
-2023-12,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-06,Masculino,separado,Assentados do PNRA,67785.0,47191.0,2096.0,30-49
-2018-12,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-05,Masculino,solteiro,Pescadores artesanais,68843.0,40301.0,4913.0,30-49
-2019-01,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-08,Masculino,solteiro,Extravista,75340.0,44263.0,3334.0,50-64
-2023-01,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-02,Masculino,casado,Extravista,84651.0,40868.0,2132.0,30-49
-2020-01,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-09,Feminino,casado,Assentados do PNRA,96668.0,42487.0,2752.0,50-64
-2021-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-01,Feminino,casado,Indigena,95573.0,46892.0,3590.0,50-64
-2017-11,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-02,Masculino,casado,Indigena,57976.0,46106.0,2949.0,30-49
-2020-01,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-03,Feminino,separado,Assentados do PNRA,93830.0,42478.0,4426.0,50-64
-2022-05,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-01,Feminino,casado,Outras Comunidades,76161.0,40968.0,3119.0,50-64
-2017-05,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-05,Feminino,solteiro,Outras Comunidades,83217.0,48556.0,3767.0,30-49
-2019-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-06,Masculino,solteiro,Extravista,84745.0,40466.0,2181.0,30-49
-2020-07,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-11,Masculino,solteiro,Pescadores artesanais,61268.0,47071.0,3516.0,30-49
-2023-03,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-12,Feminino,divorciado,Assentados do PNRA,51413.0,40317.0,2195.0,30-49
-2020-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-10,Feminino,casado,Outras Comunidades,82446.0,44463.0,4057.0,30-49
-2020-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-02,Masculino,solteiro,Não aplicável,94211.0,41148.0,3414.0,30-49
-2024-12,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-01,Masculino,separado,Assentados do PNRA,81975.0,41613.0,2701.0,30-49
-2017-08,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-12,Feminino,solteiro,Assentados do PNRA,83292.0,49208.0,4246.0,30-49
-2022-12,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-04,Feminino,casado,Quilombolas,77623.0,45001.0,1929.0,30-49
-2021-12,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-05,Feminino,divorciado,Pescadores artesanais,50657.0,47613.0,3756.0,30-49
-2020-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-04,Masculino,separado,Outras Comunidades,86165.0,49257.0,3395.0,30-49
-2023-06,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-03,Feminino,divorciado,Pescadores artesanais,94587.0,47700.0,4124.0,30-49
-2022-02,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-07,Masculino,solteiro,Quilombolas,69161.0,47878.0,3879.0,30-49
-2017-12,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-03,Masculino,casado,Indigena,75911.0,42840.0,2903.0,50-64
-2018-07,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-03,Masculino,casado,Pescadores artesanais,92149.0,42815.0,1405.0,50-64
-2017-03,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-08,Feminino,divorciado,Não aplicável,98706.0,47671.0,2692.0,30-49
-2017-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-04,Feminino,divorciado,Pescadores artesanais,96240.0,45751.0,3990.0,50-64
-2020-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-08,Masculino,divorciado,Indigena,55410.0,49161.0,2332.0,50-64
-2021-04,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-06,Masculino,viúvo,Extravista,83470.0,41745.0,3631.0,50-64
-2022-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-01,Feminino,casado,Pescadores artesanais,82768.0,44233.0,4046.0,30-49
-2019-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-01,Feminino,viúvo,Outras Comunidades,90522.0,44566.0,2045.0,30-49
-2024-10,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-05,Masculino,solteiro,Pescadores artesanais,79934.0,42948.0,2592.0,30-49
-2023-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-11,Masculino,casado,Quilombolas,87954.0,42693.0,2133.0,50-64
-2019-09,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-08,Feminino,casado,Extravista,62512.0,40817.0,2626.0,50-64
-2018-01,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-04,Feminino,solteiro,Pescadores artesanais,96991.0,41556.0,3956.0,30-49
-2020-07,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-01,Masculino,viúvo,Pescadores artesanais,66556.0,44586.0,3740.0,30-49
-2024-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-03,Masculino,casado,Outras Comunidades,95115.0,45176.0,3629.0,50-64
-2019-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-06,Feminino,viúvo,Extravista,86448.0,48942.0,1559.0,50-64
-2018-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-08,Feminino,casado,Pescadores artesanais,72988.0,44482.0,1383.0,30-49
-2023-01,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-12,Feminino,divorciado,Não aplicável,77836.0,46238.0,1975.0,50-64
-2018-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Feminino,viúvo,Extravista,78315.0,48828.0,3503.0,50-64
-2017-12,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-11,Feminino,solteiro,Quilombolas,57240.0,49693.0,2209.0,30-49
-2024-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-08,Masculino,divorciado,Extravista,55163.0,41993.0,3751.0,30-49
-2021-06,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-07,Feminino,solteiro,Não aplicável,93103.0,47383.0,3444.0,30-49
-2021-01,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-07,Masculino,divorciado,Não aplicável,73540.0,49598.0,4629.0,30-49
-2017-11,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-06,Feminino,divorciado,Quilombolas,70133.0,42605.0,1961.0,30-49
-2022-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-06,Masculino,viúvo,Não aplicável,55106.0,48850.0,4034.0,50-64
-2018-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-02,Masculino,solteiro,Pescadores artesanais,82934.0,41593.0,2006.0,30-49
-2021-06,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-06,Feminino,separado,Pescadores artesanais,65182.0,46821.0,3042.0,30-49
-2023-06,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-01,Feminino,casado,Outras Comunidades,84734.0,44040.0,1549.0,50-64
-2017-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-04,Feminino,divorciado,Pescadores artesanais,63307.0,40885.0,4698.0,30-49
-2021-04,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-04,Masculino,separado,Pescadores artesanais,87390.0,45005.0,4279.0,30-49
-2020-06,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-05,Feminino,divorciado,Extravista,63748.0,42898.0,3442.0,30-49
-2022-05,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-03,Masculino,viúvo,Não aplicável,99752.0,45187.0,1949.0,30-49
-2021-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-09,Feminino,viúvo,Não aplicável,97679.0,49597.0,4610.0,30-49
-2021-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-08,Feminino,solteiro,Pescadores artesanais,67056.0,49227.0,3138.0,30-49
-2018-07,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-01,Feminino,casado,Outras Comunidades,62960.0,47750.0,4091.0,30-49
-2018-01,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-08,Masculino,solteiro,Indigena,73015.0,41332.0,2141.0,30-49
-2017-08,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-06,Masculino,casado,Extravista,97697.0,48467.0,3192.0,30-49
-2019-05,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-05,Masculino,solteiro,Não aplicável,89639.0,46630.0,2322.0,30-49
-2018-02,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-02,Feminino,divorciado,Pescadores artesanais,54109.0,42438.0,3994.0,30-49
-2020-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-03,Masculino,viúvo,Não aplicável,51999.0,43543.0,4279.0,30-49
-2024-06,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-03,Masculino,solteiro,Pescadores artesanais,84827.0,42098.0,3301.0,50-64
-2017-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-03,Feminino,casado,Indigena,58143.0,42547.0,4571.0,30-49
-2017-10,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-02,Masculino,casado,Não aplicável,53119.0,42318.0,4472.0,30-49
-2023-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-09,Feminino,viúvo,Pescadores artesanais,77462.0,46714.0,4720.0,30-49
-2021-04,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-03,Masculino,separado,Assentados do PNRA,63101.0,43232.0,1466.0,30-49
-2018-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-01,Masculino,divorciado,Pescadores artesanais,65738.0,45003.0,4163.0,30-49
-2022-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-10,Feminino,solteiro,Pescadores artesanais,66283.0,44171.0,3616.0,50-64
-2018-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-01,Masculino,separado,Extravista,50665.0,47498.0,2349.0,30-49
-2023-08,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-01,Feminino,separado,Não aplicável,85520.0,40170.0,4377.0,50-64
-2018-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-09,Feminino,divorciado,Quilombolas,97250.0,48141.0,2738.0,50-64
-2020-01,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-03,Masculino,divorciado,Quilombolas,68718.0,49113.0,1403.0,30-49
-2017-08,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Feminino,divorciado,Indigena,61798.0,45022.0,4344.0,30-49
-2024-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-01,Feminino,viúvo,Assentados do PNRA,96874.0,48122.0,3181.0,30-49
-2022-03,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-10,Feminino,solteiro,Indigena,93292.0,44513.0,2523.0,30-49
-2024-11,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-06,Masculino,separado,Extravista,73624.0,49266.0,3095.0,30-49
-2017-12,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-05,Masculino,viúvo,Indigena,63737.0,48560.0,3469.0,50-64
-2018-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-01,Masculino,viúvo,Pescadores artesanais,66657.0,41216.0,2573.0,50-64
-2019-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-05,Masculino,separado,Extravista,98341.0,44236.0,1778.0,30-49
-2021-04,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-06,Feminino,casado,Outras Comunidades,70079.0,40904.0,4413.0,50-64
-2024-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-06,Feminino,separado,Pescadores artesanais,67033.0,44730.0,4925.0,50-64
-2018-06,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-07,Masculino,viúvo,Indigena,83031.0,47222.0,2078.0,50-64
-2019-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-05,Feminino,divorciado,Indigena,71552.0,41950.0,4881.0,30-49
-2019-05,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-04,Masculino,separado,Não aplicável,66433.0,45951.0,1457.0,30-49
-2023-01,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-04,Masculino,divorciado,Não aplicável,99089.0,43075.0,1445.0,30-49
-2021-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-08,Feminino,divorciado,Indigena,74171.0,47400.0,1510.0,30-49
-2023-04,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-06,Feminino,casado,Outras Comunidades,83970.0,41416.0,3385.0,30-49
-2017-01,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-04,Masculino,separado,Pescadores artesanais,60793.0,43542.0,4772.0,50-64
-2024-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-06,Feminino,casado,Quilombolas,95821.0,44570.0,4957.0,30-49
-2024-05,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-01,Masculino,casado,Assentados do PNRA,92922.0,46471.0,3633.0,30-49
-2022-01,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-05,Masculino,solteiro,Outras Comunidades,76826.0,41312.0,3893.0,30-49
-2022-04,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-01,Feminino,separado,Outras Comunidades,81366.0,46633.0,1529.0,30-49
-2022-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-12,Masculino,solteiro,Quilombolas,55445.0,40056.0,4155.0,50-64
-2020-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-11,Masculino,solteiro,Indigena,80117.0,46658.0,1821.0,30-49
-2017-10,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-02,Feminino,separado,Pescadores artesanais,77507.0,46437.0,3518.0,30-49
-2022-12,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-08,Masculino,separado,Indigena,71547.0,47600.0,1715.0,30-49
-2018-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-06,Masculino,divorciado,Outras Comunidades,64424.0,45625.0,4685.0,30-49
-2018-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-11,Masculino,casado,Indigena,53667.0,49330.0,2639.0,30-49
-2022-12,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-05,Feminino,separado,Outras Comunidades,58832.0,45127.0,2178.0,50-64
-2017-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-06,Feminino,divorciado,Extravista,76138.0,42863.0,1765.0,30-49
-2022-09,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-05,Feminino,casado,Não aplicável,94210.0,48584.0,2701.0,30-49
-2019-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Masculino,divorciado,Não aplicável,56183.0,49355.0,2672.0,30-49
-2023-08,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-04,Masculino,divorciado,Assentados do PNRA,75800.0,45062.0,4332.0,30-49
-2018-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-02,Feminino,separado,Quilombolas,76332.0,44243.0,2550.0,50-64
-2018-01,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-02,Masculino,divorciado,Outras Comunidades,99575.0,40048.0,4955.0,30-49
-2019-12,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-07,Feminino,viúvo,Quilombolas,53216.0,43404.0,1892.0,30-49
-2024-03,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-01,Masculino,solteiro,Pescadores artesanais,61753.0,41459.0,3580.0,30-49
-2017-01,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-02,Masculino,divorciado,Quilombolas,50641.0,44850.0,4769.0,50-64
-2019-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-03,Masculino,divorciado,Quilombolas,74531.0,46531.0,2731.0,30-49
-2024-11,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-02,Feminino,viúvo,Extravista,66760.0,45541.0,2991.0,30-49
-2017-12,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-04,Masculino,solteiro,Indigena,50978.0,40537.0,4092.0,30-49
-2024-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-09,Feminino,divorciado,Outras Comunidades,86153.0,45862.0,4170.0,50-64
-2022-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-06,Masculino,casado,Extravista,98704.0,40645.0,1646.0,30-49
-2022-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-12,Feminino,solteiro,Extravista,56233.0,49066.0,3377.0,30-49
-2018-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-04,Feminino,divorciado,Quilombolas,65582.0,45769.0,3590.0,50-64
-2018-08,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-11,Masculino,solteiro,Assentados do PNRA,66452.0,40259.0,4073.0,30-49
-2017-09,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-01,Feminino,casado,Pescadores artesanais,80583.0,44906.0,2796.0,50-64
-2020-05,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-02,Feminino,divorciado,Indigena,97464.0,45789.0,2850.0,50-64
-2023-08,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-01,Masculino,separado,Não aplicável,69999.0,49539.0,2525.0,50-64
-2022-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-11,Masculino,solteiro,Não aplicável,91517.0,44571.0,2986.0,30-49
-2019-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-11,Feminino,viúvo,Assentados do PNRA,63946.0,48908.0,4799.0,30-49
-2019-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-04,Feminino,separado,Extravista,55051.0,42775.0,2982.0,30-49
-2022-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-05,Masculino,viúvo,Pescadores artesanais,70623.0,42002.0,2087.0,30-49
-2019-05,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-12,Masculino,casado,Extravista,55659.0,45209.0,4817.0,30-49
-2021-06,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-03,Feminino,separado,Assentados do PNRA,72791.0,42448.0,4412.0,30-49
-2022-11,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-03,Feminino,viúvo,Outras Comunidades,63191.0,44176.0,4524.0,50-64
-2018-07,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-06,Feminino,divorciado,Pescadores artesanais,87283.0,49370.0,2613.0,30-49
-2024-06,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-02,Feminino,separado,Não aplicável,74424.0,48275.0,4104.0,30-49
-2022-02,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-01,Feminino,separado,Assentados do PNRA,67638.0,49589.0,2253.0,50-64
-2024-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-03,Feminino,casado,Quilombolas,82316.0,40758.0,1680.0,30-49
-2019-12,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-02,Feminino,solteiro,Não aplicável,94458.0,44337.0,3543.0,30-49
-2024-02,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-12,Masculino,viúvo,Pescadores artesanais,64822.0,41400.0,3786.0,30-49
-2019-12,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-07,Feminino,divorciado,Assentados do PNRA,73530.0,49989.0,3004.0,30-49
-2023-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-06,Masculino,viúvo,Quilombolas,78743.0,49295.0,1460.0,50-64
-2019-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-12,Feminino,separado,Pescadores artesanais,91448.0,46909.0,4514.0,30-49
-2017-09,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-02,Feminino,separado,Outras Comunidades,76144.0,43204.0,3283.0,30-49
-2022-11,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-11,Feminino,divorciado,Não aplicável,89341.0,45886.0,2995.0,50-64
-2019-06,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-08,Masculino,viúvo,Indigena,64507.0,44136.0,2718.0,50-64
-2018-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-11,Masculino,divorciado,Indigena,51273.0,46427.0,2619.0,30-49
-2021-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-01,Feminino,casado,Outras Comunidades,70288.0,45536.0,4059.0,30-49
-2024-02,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-05,Masculino,solteiro,Assentados do PNRA,57836.0,48951.0,2579.0,30-49
-2021-02,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-07,Masculino,casado,Não aplicável,90814.0,45421.0,2439.0,50-64
-2020-01,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-05,Masculino,divorciado,Assentados do PNRA,68930.0,46941.0,3955.0,30-49
-2017-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-09,Masculino,divorciado,Extravista,72195.0,41192.0,3754.0,50-64
-2022-06,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-04,Masculino,viúvo,Indigena,65792.0,48725.0,1722.0,30-49
-2018-02,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-08,Masculino,solteiro,Outras Comunidades,77376.0,46092.0,1968.0,30-49
-2021-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-02,Feminino,solteiro,Não aplicável,54113.0,46246.0,3709.0,50-64
-2021-09,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-05,Masculino,viúvo,Não aplicável,94305.0,49136.0,4641.0,30-49
-2017-09,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-05,Feminino,separado,Assentados do PNRA,51842.0,49784.0,1637.0,30-49
-2017-08,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-09,Feminino,casado,Não aplicável,95418.0,47622.0,1741.0,30-49
-2017-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-01,Masculino,viúvo,Pescadores artesanais,52817.0,47798.0,1521.0,50-64
-2021-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-06,Feminino,solteiro,Indigena,77197.0,46055.0,4758.0,30-49
-2023-03,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-08,Feminino,casado,Outras Comunidades,63167.0,45028.0,2469.0,30-49
-2023-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-08,Feminino,casado,Indigena,68966.0,49280.0,4705.0,50-64
-2021-11,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-07,Feminino,separado,Extravista,99347.0,45140.0,1529.0,50-64
-2023-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-01,Masculino,viúvo,Pescadores artesanais,74414.0,43223.0,4126.0,30-49
-2019-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Feminino,solteiro,Outras Comunidades,97098.0,49886.0,2204.0,50-64
-2017-07,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-04,Masculino,divorciado,Não aplicável,92289.0,40284.0,4025.0,50-64
-2021-05,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-08,Masculino,solteiro,Não aplicável,94137.0,40458.0,1591.0,30-49
-2022-02,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-05,Feminino,solteiro,Outras Comunidades,88278.0,45630.0,2720.0,30-49
-2023-01,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-01,Masculino,separado,Não aplicável,58141.0,42263.0,4566.0,30-49
-2017-10,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-10,Feminino,viúvo,Pescadores artesanais,69769.0,40199.0,4274.0,50-64
-2023-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-11,Feminino,separado,Assentados do PNRA,84121.0,46320.0,1909.0,30-49
-2020-11,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-03,Masculino,divorciado,Extravista,92396.0,48634.0,3529.0,30-49
-2023-05,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-11,Masculino,solteiro,Não aplicável,80706.0,44772.0,2737.0,50-64
-2021-12,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-04,Masculino,divorciado,Quilombolas,91491.0,41854.0,4962.0,50-64
-2019-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-10,Masculino,casado,Assentados do PNRA,87581.0,48177.0,4039.0,50-64
-2018-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-03,Feminino,casado,Extravista,62252.0,48166.0,3816.0,30-49
-2024-01,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-03,Feminino,separado,Pescadores artesanais,88951.0,46256.0,2877.0,50-64
-2021-08,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-12,Masculino,solteiro,Assentados do PNRA,93510.0,48553.0,3489.0,50-64
-2023-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-03,Masculino,separado,Não aplicável,75497.0,43398.0,3979.0,30-49
-2021-06,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Feminino,divorciado,Extravista,96748.0,45654.0,4806.0,30-49
-2024-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-11,Feminino,separado,Extravista,60444.0,47334.0,1837.0,30-49
-2020-11,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-02,Masculino,divorciado,Não aplicável,51767.0,48611.0,4890.0,30-49
-2018-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Masculino,viúvo,Outras Comunidades,53524.0,43088.0,2261.0,30-49
-2018-05,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-07,Feminino,divorciado,Indigena,54419.0,49164.0,4715.0,50-64
-2019-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-07,Feminino,divorciado,Outras Comunidades,62914.0,46548.0,4440.0,30-49
-2023-04,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-07,Feminino,solteiro,Indigena,61861.0,47672.0,1786.0,50-64
-2020-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-02,Feminino,casado,Outras Comunidades,66646.0,45082.0,2274.0,30-49
-2023-02,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-03,Feminino,divorciado,Quilombolas,95459.0,42762.0,4677.0,30-49
-2023-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-10,Feminino,separado,Não aplicável,69305.0,46270.0,2082.0,50-64
-2023-04,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-06,Masculino,casado,Assentados do PNRA,68879.0,46254.0,2957.0,50-64
-2020-09,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-01,Masculino,separado,Indigena,52966.0,45148.0,3305.0,30-49
-2017-06,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2024-09,Masculino,separado,Extravista,79495.0,48571.0,1621.0,30-49
-2023-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-10,Masculino,viúvo,Extravista,52662.0,48409.0,2287.0,30-49
-2017-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-12,Masculino,casado,Extravista,99188.0,44709.0,1942.0,30-49
-2022-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-05,Feminino,casado,Quilombolas,83751.0,41893.0,2030.0,30-49
-2023-05,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-06,Masculino,casado,Pescadores artesanais,87345.0,42298.0,2601.0,30-49
-2017-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-10,Feminino,divorciado,Não aplicável,85399.0,46506.0,4471.0,30-49
-2021-12,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-03,Masculino,separado,Pescadores artesanais,82298.0,47927.0,2671.0,30-49
-2023-07,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-09,Masculino,separado,Outras Comunidades,94501.0,44406.0,2586.0,30-49
-2017-11,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-06,Feminino,solteiro,Pescadores artesanais,58010.0,46276.0,3447.0,50-64
-2022-06,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-11,Feminino,separado,Indigena,70042.0,41197.0,2827.0,50-64
-2021-03,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Feminino,divorciado,Outras Comunidades,68526.0,43126.0,2207.0,30-49
-2019-06,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-05,Feminino,divorciado,Não aplicável,77995.0,45871.0,4995.0,30-49
-2018-08,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-02,Masculino,solteiro,Extravista,63604.0,43029.0,1438.0,30-49
-2023-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-04,Feminino,divorciado,Pescadores artesanais,99138.0,49342.0,1635.0,30-49
-2023-07,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-12,Masculino,divorciado,Pescadores artesanais,63868.0,47773.0,3366.0,30-49
-2019-12,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-01,Feminino,casado,Pescadores artesanais,91961.0,48540.0,3703.0,30-49
-2019-03,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-04,Masculino,divorciado,Extravista,50085.0,41412.0,2247.0,30-49
-2023-04,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-09,Masculino,divorciado,Assentados do PNRA,75996.0,45941.0,2419.0,30-49
-2018-09,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-06,Masculino,solteiro,Pescadores artesanais,63913.0,40194.0,4538.0,50-64
-2018-10,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-11,Masculino,solteiro,Assentados do PNRA,60866.0,41304.0,3687.0,30-49
-2020-08,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-04,Masculino,divorciado,Assentados do PNRA,95954.0,42636.0,3414.0,30-49
-2024-12,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-07,Feminino,separado,Indigena,66571.0,47952.0,4290.0,30-49
-2018-09,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-03,Feminino,casado,Extravista,88378.0,42236.0,3501.0,50-64
-2024-12,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-10,Feminino,divorciado,Assentados do PNRA,70162.0,46935.0,1722.0,50-64
-2018-01,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-01,Masculino,divorciado,Indigena,75883.0,41375.0,3653.0,30-49
-2020-05,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-02,Feminino,separado,Outras Comunidades,77222.0,42042.0,3952.0,50-64
-2019-03,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-03,Masculino,divorciado,Outras Comunidades,81028.0,43723.0,4125.0,30-49
-2019-10,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-10,Masculino,separado,Não aplicável,53629.0,41618.0,2957.0,50-64
-2018-10,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-03,Feminino,casado,Pescadores artesanais,66922.0,47373.0,3309.0,30-49
-2024-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-06,Masculino,solteiro,Extravista,55182.0,44778.0,4144.0,30-49
-2017-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Feminino,divorciado,Extravista,54580.0,41383.0,4339.0,50-64
-2020-12,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-11,Feminino,casado,Outras Comunidades,51641.0,45865.0,4751.0,30-49
-2020-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-07,Masculino,viúvo,Assentados do PNRA,65245.0,47582.0,4272.0,30-49
-2018-12,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-04,Feminino,solteiro,Outras Comunidades,62949.0,44581.0,2755.0,50-64
-2019-09,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-12,Feminino,divorciado,Indigena,58538.0,46241.0,1755.0,30-49
-2018-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-03,Masculino,divorciado,Assentados do PNRA,65525.0,49654.0,1528.0,30-49
-2024-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-08,Feminino,casado,Pescadores artesanais,65753.0,43926.0,3972.0,30-49
-2020-04,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-01,Feminino,solteiro,Pescadores artesanais,76714.0,46797.0,4620.0,30-49
-2023-07,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-07,Masculino,casado,Outras Comunidades,67910.0,43835.0,3314.0,30-49
-2021-08,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-09,Masculino,separado,Quilombolas,97721.0,42910.0,2678.0,30-49
-2020-11,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-02,Masculino,viúvo,Não aplicável,94726.0,47784.0,2710.0,30-49
-2020-11,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-01,Masculino,viúvo,Quilombolas,70052.0,45846.0,4877.0,30-49
-2020-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-05,Masculino,casado,Indigena,92102.0,42498.0,3539.0,30-49
-2017-09,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-05,Feminino,divorciado,Não aplicável,87202.0,47976.0,1911.0,50-64
-2017-04,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-07,Feminino,divorciado,Assentados do PNRA,60918.0,41610.0,3655.0,30-49
-2022-03,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-12,Masculino,divorciado,Não aplicável,69657.0,41803.0,3810.0,30-49
-2022-03,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-03,Feminino,casado,Assentados do PNRA,91581.0,43300.0,2223.0,30-49
-2017-09,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-04,Feminino,solteiro,Extravista,70125.0,47580.0,4944.0,50-64
-2017-10,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-10,Feminino,solteiro,Outras Comunidades,94028.0,48857.0,4245.0,30-49
-2024-07,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-01,Feminino,solteiro,Outras Comunidades,75883.0,44774.0,4357.0,50-64
-2021-07,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-08,Feminino,viúvo,Pescadores artesanais,91832.0,46010.0,2061.0,30-49
-2022-08,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-11,Masculino,viúvo,Quilombolas,98783.0,40278.0,2157.0,30-49
-2019-02,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-06,Feminino,viúvo,Extravista,66320.0,46203.0,3903.0,30-49
-2017-03,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2025-01,Feminino,casado,Outras Comunidades,65712.0,47461.0,2592.0,50-64
-2018-06,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-05,Masculino,casado,Não aplicável,57246.0,43794.0,1661.0,30-49
-2017-05,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-02,Masculino,divorciado,Quilombolas,66125.0,44490.0,3475.0,30-49
-2022-07,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-05,Masculino,separado,Não aplicável,60624.0,40522.0,2072.0,50-64
-2018-10,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-04,Masculino,viúvo,Não aplicável,80242.0,45990.0,2298.0,50-64
-2024-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-02,Masculino,casado,Não aplicável,51999.0,40850.0,1862.0,30-49
-2017-04,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-10,Masculino,separado,Outras Comunidades,78593.0,45597.0,4540.0,30-49
-2019-04,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-06,Feminino,viúvo,Quilombolas,50575.0,40684.0,2793.0,30-49
-2018-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2025-05,Feminino,divorciado,Extravista,60308.0,47203.0,4041.0,30-49
-2017-12,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-11,Feminino,casado,Pescadores artesanais,87064.0,40003.0,2499.0,30-49
-2022-08,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-06,Feminino,viúvo,Extravista,60694.0,48964.0,3795.0,30-49
-2018-03,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-10,Feminino,separado,Assentados do PNRA,60989.0,47465.0,1611.0,30-49
-2019-08,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2024-02,Masculino,divorciado,Pescadores artesanais,99151.0,46303.0,4541.0,30-49
-2017-02,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-06,Feminino,divorciado,Indigena,69932.0,47750.0,3945.0,50-64
-2019-01,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-09,Masculino,divorciado,Quilombolas,87569.0,44983.0,3130.0,30-49
-2018-04,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-02,Masculino,casado,Indigena,84311.0,45333.0,3487.0,30-49
-2020-10,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-02,Feminino,solteiro,Indigena,95936.0,44905.0,1372.0,30-49
-2022-05,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-09,Masculino,viúvo,Pescadores artesanais,54727.0,43669.0,3918.0,50-64
-2019-11,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-06,Feminino,solteiro,Extravista,85850.0,42712.0,4675.0,30-49
-2023-05,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-03,Masculino,separado,Assentados do PNRA,66432.0,46295.0,2352.0,50-64
-2022-09,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2023-04,Masculino,divorciado,Não aplicável,60426.0,48269.0,3188.0,30-49
-2022-06,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-03,Feminino,divorciado,Extravista,97859.0,48148.0,3004.0,30-49
-2020-07,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-10,Feminino,solteiro,Assentados do PNRA,69696.0,44280.0,4424.0,30-49
-2018-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-03,Feminino,casado,Pescadores artesanais,63710.0,47344.0,3250.0,30-49
-2019-02,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-12,Feminino,divorciado,Quilombolas,71303.0,49958.0,1668.0,50-64
-2019-11,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2023-07,Masculino,casado,Outras Comunidades,99841.0,43084.0,3166.0,30-49
-2024-07,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-04,Feminino,viúvo,Outras Comunidades,58859.0,43270.0,1320.0,30-49
-2024-11,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-09,Feminino,divorciado,Outras Comunidades,77752.0,43377.0,1942.0,50-64
-2019-02,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-01,Masculino,viúvo,Não aplicável,60388.0,45761.0,3614.0,30-49
-2021-04,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-04,Masculino,solteiro,Quilombolas,75268.0,45311.0,4752.0,30-49
-2017-05,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2025-03,Masculino,separado,Não aplicável,92724.0,44422.0,3657.0,50-64
-2020-12,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-07,Feminino,viúvo,Pescadores artesanais,58300.0,40006.0,3430.0,50-64
-2019-02,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-06,Feminino,casado,Pescadores artesanais,66263.0,42525.0,3554.0,30-49
-2024-03,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-11,Feminino,divorciado,Outras Comunidades,89525.0,47929.0,3270.0,30-49
-2019-07,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-07,Feminino,casado,Outras Comunidades,96283.0,43077.0,4136.0,30-49
-2022-07,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-10,Feminino,divorciado,Quilombolas,83230.0,44199.0,2227.0,30-49
-2024-06,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-10,Masculino,separado,Assentados do PNRA,53953.0,48377.0,4772.0,30-49
-2023-03,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-07,Feminino,separado,Indigena,57006.0,40395.0,4331.0,50-64
-2022-09,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-02,Feminino,viúvo,Quilombolas,63839.0,45070.0,2057.0,30-49
-2024-01,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2025-04,Feminino,casado,Pescadores artesanais,80779.0,47463.0,3226.0,30-49
-2018-08,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-08,Feminino,divorciado,Outras Comunidades,97209.0,46865.0,4296.0,30-49
-2024-04,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-02,Feminino,separado,Indigena,75703.0,45217.0,2968.0,30-49
-2018-01,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2024-09,Feminino,solteiro,Assentados do PNRA,58778.0,48693.0,3859.0,30-49
-2023-06,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2024-10,Masculino,casado,Não aplicável,61254.0,40131.0,2851.0,30-49
-2024-10,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2024-10,Masculino,divorciado,Pescadores artesanais,50295.0,40993.0,2952.0,30-49
-2019-12,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-05,Masculino,divorciado,Indigena,52765.0,49608.0,1395.0,50-64
-2019-07,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-08,Masculino,casado,Não aplicável,70472.0,47588.0,4035.0,50-64
-2019-05,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2025-01,Masculino,solteiro,Outras Comunidades,53814.0,43937.0,1791.0,50-64
-2023-10,Salvador,BA,Nordeste,Banco do Brasil,MCMV-FAR,2024-07,Masculino,solteiro,Pescadores artesanais,74150.0,41217.0,4264.0,50-64
-2024-05,Salvador,BA,Nordeste,Caixa Econômica Federal,MCMV-FAR,2023-08,Masculino,casado,Outras Comunidades,76032.0,47427.0,4488.0,30-49
-2019-09,São Paulo,SP,Sudeste,Caixa Econômica Federal,MCMV-FAR,2023-03,Masculino,divorciado,Extravista,68306.0,49551.0,2048.0,30-49
-2023-03,São Paulo,SP,Sudeste,Banco do Brasil,MCMV-FAR,2023-05,Feminino,solteiro,Pescadores artesanais,66333.0,44070.0,3972.0,30-49
-2024-02,São Paulo,SP,Sudeste,Banco do Nordeste,MCMV-FAR,2025-04,Feminino,casado,Indigena,68890.0,42119.0,2973.0,50-64
-2023-04,Salvador,BA,Nordeste,Banco do Nordeste,MCMV-FAR,2023-06,Masculino,viúvo,Pescadores artesanais,54607.0,41207.0,2247.0,30-49
-2018-06,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-06,Masculino,separado,Indigena,73722.0,48428.0,2037.0,30-49
-2022-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-12,Masculino,viúvo,Assentados do PNRA,52911.0,48649.0,4958.0,50-64
-2017-07,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-10,Masculino,viúvo,Outras Comunidades,72759.0,46186.0,2076.0,30-49
-2019-01,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-08,Masculino,viúvo,Extravista,73313.0,47040.0,4011.0,50-64
-2024-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-01,Masculino,viúvo,Pescadores artesanais,66490.0,46810.0,1395.0,50-64
-2023-03,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-09,Masculino,separado,Assentados do PNRA,77307.0,44374.0,4514.0,30-49
-2022-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-02,Masculino,divorciado,Pescadores artesanais,75669.0,47832.0,2820.0,30-49
-2021-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-06,Masculino,casado,Não aplicável,52243.0,41166.0,3314.0,30-49
-2020-07,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-12,Masculino,solteiro,Indigena,80687.0,43257.0,2942.0,50-64
-2018-05,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-11,Masculino,solteiro,Assentados do PNRA,83307.0,49848.0,4551.0,50-64
-2018-09,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-06,Masculino,viúvo,Pescadores artesanais,55299.0,44571.0,4529.0,50-64
-2021-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-05,Feminino,viúvo,Extravista,93622.0,45680.0,3821.0,30-49
-2022-07,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-03,Feminino,casado,Outras Comunidades,68238.0,42287.0,3769.0,30-49
-2020-05,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-02,Feminino,casado,Não aplicável,75265.0,46726.0,3929.0,30-49
-2021-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-07,Feminino,casado,Quilombolas,98070.0,45661.0,2581.0,50-64
-2019-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-05,Feminino,solteiro,Quilombolas,53532.0,41176.0,1317.0,50-64
-2020-06,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-01,Feminino,solteiro,Quilombolas,59388.0,48893.0,1378.0,30-49
-2021-03,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-01,Feminino,divorciado,Outras Comunidades,50394.0,44771.0,3463.0,30-49
-2017-10,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-09,Masculino,solteiro,Extravista,80286.0,46764.0,4836.0,30-49
-2024-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-08,Masculino,casado,Extravista,87201.0,49572.0,3169.0,30-49
-2019-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-07,Masculino,separado,Indigena,51229.0,44245.0,3438.0,30-49
-2020-09,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-01,Feminino,solteiro,Quilombolas,84279.0,48471.0,4551.0,50-64
-2022-04,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-07,Masculino,separado,Assentados do PNRA,60619.0,44219.0,1449.0,50-64
-2018-03,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-09,Masculino,solteiro,Pescadores artesanais,84934.0,46629.0,3553.0,50-64
-2018-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-08,Feminino,divorciado,Assentados do PNRA,88759.0,40562.0,1723.0,50-64
-2019-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-02,Feminino,casado,Pescadores artesanais,53458.0,42607.0,4220.0,50-64
-2022-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-10,Feminino,divorciado,Assentados do PNRA,85997.0,44304.0,3707.0,30-49
-2019-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-02,Feminino,casado,Indigena,57757.0,40805.0,2102.0,30-49
-2019-01,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-04,Feminino,separado,Outras Comunidades,61676.0,41820.0,3737.0,30-49
-2024-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-04,Feminino,separado,Não aplicável,96715.0,43549.0,2207.0,30-49
-2018-10,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-10,Feminino,separado,Quilombolas,72696.0,49535.0,2511.0,30-49
-2023-06,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-10,Masculino,casado,Indigena,67366.0,41795.0,2958.0,50-64
-2022-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-03,Feminino,casado,Não aplicável,52713.0,46447.0,3452.0,30-49
-2017-07,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-10,Masculino,separado,Outras Comunidades,85756.0,49530.0,2327.0,30-49
-2019-03,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-04,Masculino,solteiro,Assentados do PNRA,71935.0,49781.0,3150.0,50-64
-2023-02,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-12,Masculino,divorciado,Assentados do PNRA,61356.0,47034.0,2623.0,50-64
-2017-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-10,Masculino,viúvo,Indigena,75325.0,47073.0,4227.0,50-64
-2022-01,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-01,Feminino,viúvo,Assentados do PNRA,92916.0,46734.0,2044.0,30-49
-2022-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-02,Masculino,viúvo,Outras Comunidades,96295.0,47845.0,3571.0,30-49
-2018-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-09,Feminino,viúvo,Assentados do PNRA,98866.0,45741.0,2793.0,30-49
-2024-05,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-12,Masculino,viúvo,Pescadores artesanais,75995.0,40163.0,4756.0,30-49
-2019-08,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-11,Feminino,viúvo,Assentados do PNRA,68653.0,49868.0,3575.0,30-49
-2022-01,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-07,Masculino,solteiro,Assentados do PNRA,87548.0,43780.0,4619.0,50-64
-2023-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-03,Masculino,divorciado,Extravista,81427.0,45766.0,3866.0,30-49
-2021-09,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-12,Masculino,casado,Assentados do PNRA,66790.0,45054.0,3632.0,30-49
-2017-01,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-10,Masculino,divorciado,Assentados do PNRA,50235.0,41286.0,2417.0,30-49
-2019-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-03,Feminino,separado,Não aplicável,81371.0,41705.0,4490.0,50-64
-2018-10,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-06,Masculino,solteiro,Não aplicável,59160.0,42014.0,2684.0,30-49
-2021-08,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-11,Feminino,divorciado,Quilombolas,60795.0,46849.0,3277.0,30-49
-2019-03,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-05,Masculino,casado,Assentados do PNRA,66810.0,48452.0,4993.0,50-64
-2021-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-12,Masculino,viúvo,Indigena,74357.0,42430.0,3640.0,50-64
-2017-02,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-08,Masculino,viúvo,Indigena,94073.0,43984.0,3155.0,50-64
-2022-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-11,Feminino,solteiro,Não aplicável,53754.0,42716.0,3079.0,30-49
-2023-04,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-12,Masculino,separado,Pescadores artesanais,63858.0,40550.0,4094.0,30-49
-2018-11,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-12,Feminino,divorciado,Assentados do PNRA,60608.0,44790.0,3999.0,30-49
-2024-02,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-12,Masculino,casado,Extravista,66871.0,49879.0,1754.0,30-49
-2021-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-02,Feminino,divorciado,Indigena,67289.0,43379.0,2188.0,30-49
-2018-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-02,Masculino,separado,Outras Comunidades,91910.0,47813.0,2106.0,30-49
-2022-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-02,Masculino,solteiro,Quilombolas,88724.0,42933.0,3296.0,30-49
-2019-04,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-05,Feminino,solteiro,Outras Comunidades,83784.0,42075.0,4834.0,30-49
-2021-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-02,Feminino,solteiro,Indigena,71130.0,40346.0,4905.0,50-64
-2017-03,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-03,Feminino,casado,Extravista,79871.0,41071.0,3236.0,50-64
-2023-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-09,Masculino,casado,Outras Comunidades,78819.0,43285.0,4915.0,30-49
-2024-11,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-02,Feminino,viúvo,Outras Comunidades,56829.0,41016.0,4682.0,30-49
-2022-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-05,Masculino,divorciado,Pescadores artesanais,87060.0,40322.0,2872.0,50-64
-2023-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-04,Masculino,viúvo,Pescadores artesanais,58576.0,42044.0,4300.0,30-49
-2022-08,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-07,Masculino,viúvo,Não aplicável,90532.0,44976.0,1798.0,30-49
-2023-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-10,Masculino,separado,Indigena,97881.0,44542.0,2096.0,50-64
-2018-12,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-04,Masculino,separado,Não aplicável,72466.0,49135.0,4926.0,30-49
-2017-08,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-08,Feminino,casado,Assentados do PNRA,68374.0,49004.0,3655.0,30-49
-2022-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-02,Masculino,separado,Pescadores artesanais,81260.0,40979.0,1429.0,30-49
-2022-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-09,Masculino,casado,Não aplicável,61035.0,48967.0,2031.0,30-49
-2024-07,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-07,Masculino,divorciado,Pescadores artesanais,63279.0,44655.0,1577.0,30-49
-2021-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-02,Masculino,separado,Extravista,64074.0,40390.0,1874.0,30-49
-2022-05,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-05,Masculino,divorciado,Pescadores artesanais,52348.0,46379.0,2988.0,30-49
-2020-01,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-05,Feminino,separado,Quilombolas,96968.0,42526.0,2161.0,30-49
-2023-08,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-04,Masculino,casado,Indigena,67337.0,46662.0,1320.0,30-49
-2021-03,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-03,Feminino,solteiro,Outras Comunidades,93128.0,48356.0,3753.0,30-49
-2023-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-03,Masculino,divorciado,Indigena,97466.0,48954.0,1744.0,30-49
-2023-07,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-08,Feminino,separado,Extravista,86922.0,42609.0,3756.0,30-49
-2017-12,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-06,Masculino,viúvo,Extravista,52396.0,46834.0,2043.0,30-49
-2022-07,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-06,Feminino,solteiro,Outras Comunidades,56594.0,47929.0,4361.0,50-64
-2023-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-06,Feminino,separado,Extravista,71082.0,48407.0,3594.0,30-49
-2020-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-02,Feminino,viúvo,Indigena,63246.0,48346.0,2050.0,30-49
-2019-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-11,Masculino,solteiro,Assentados do PNRA,92303.0,40556.0,2975.0,30-49
-2017-01,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-02,Feminino,divorciado,Pescadores artesanais,99149.0,43054.0,1930.0,30-49
-2017-11,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-04,Masculino,solteiro,Extravista,64252.0,42617.0,3253.0,50-64
-2023-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-02,Masculino,solteiro,Assentados do PNRA,67356.0,43242.0,3519.0,30-49
-2018-04,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-09,Feminino,solteiro,Extravista,74902.0,46157.0,2526.0,30-49
-2021-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-02,Masculino,separado,Indigena,58575.0,42478.0,3383.0,50-64
-2019-08,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-02,Masculino,viúvo,Outras Comunidades,52901.0,45359.0,3445.0,30-49
-2024-07,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-02,Feminino,casado,Quilombolas,67668.0,45389.0,2162.0,30-49
-2022-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-10,Feminino,divorciado,Não aplicável,69621.0,45979.0,4784.0,50-64
-2017-09,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-01,Masculino,solteiro,Assentados do PNRA,79367.0,44395.0,4907.0,30-49
-2022-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-03,Feminino,separado,Quilombolas,98876.0,44131.0,3925.0,30-49
-2024-07,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-01,Masculino,divorciado,Outras Comunidades,60399.0,46235.0,4897.0,30-49
-2020-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-05,Feminino,solteiro,Assentados do PNRA,93027.0,42366.0,3854.0,30-49
-2018-06,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-04,Feminino,solteiro,Assentados do PNRA,65397.0,49118.0,3380.0,50-64
-2018-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-01,Masculino,viúvo,Quilombolas,84649.0,41046.0,4904.0,30-49
-2024-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-02,Feminino,separado,Assentados do PNRA,95384.0,42995.0,1919.0,30-49
-2018-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-09,Feminino,viúvo,Assentados do PNRA,71445.0,49652.0,5000.0,50-64
-2020-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-07,Feminino,divorciado,Outras Comunidades,88660.0,49476.0,2140.0,30-49
-2022-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-04,Feminino,divorciado,Não aplicável,87080.0,44542.0,1992.0,50-64
-2018-09,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-02,Masculino,divorciado,Outras Comunidades,59158.0,40828.0,4791.0,50-64
-2019-01,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-06,Masculino,divorciado,Pescadores artesanais,70050.0,41588.0,2152.0,30-49
-2021-02,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-05,Masculino,divorciado,Quilombolas,58598.0,45560.0,3338.0,50-64
-2021-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-06,Feminino,separado,Pescadores artesanais,93702.0,40051.0,3403.0,50-64
-2024-12,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-05,Feminino,viúvo,Outras Comunidades,80975.0,44951.0,1579.0,30-49
-2019-07,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-06,Feminino,casado,Extravista,86592.0,49939.0,1774.0,30-49
-2017-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-02,Feminino,solteiro,Pescadores artesanais,53728.0,42030.0,4993.0,30-49
-2023-11,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-12,Masculino,solteiro,Quilombolas,70664.0,40212.0,2519.0,30-49
-2020-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-05,Feminino,viúvo,Outras Comunidades,84186.0,41563.0,3502.0,30-49
-2020-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-07,Feminino,solteiro,Não aplicável,50866.0,46566.0,3696.0,30-49
-2020-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-10,Feminino,separado,Extravista,82507.0,41592.0,3475.0,30-49
-2019-03,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-03,Feminino,casado,Assentados do PNRA,92080.0,46785.0,3775.0,30-49
-2020-02,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-11,Masculino,separado,Outras Comunidades,67449.0,49903.0,3393.0,30-49
-2022-02,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-04,Masculino,divorciado,Quilombolas,67320.0,49610.0,1701.0,30-49
-2024-03,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-06,Masculino,solteiro,Não aplicável,74146.0,40098.0,1970.0,30-49
-2017-06,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-08,Feminino,solteiro,Extravista,60698.0,42684.0,3751.0,50-64
-2017-02,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-06,Masculino,divorciado,Indigena,71259.0,45116.0,1856.0,30-49
-2023-01,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-05,Feminino,divorciado,Assentados do PNRA,64908.0,43539.0,4398.0,30-49
-2023-07,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-06,Feminino,divorciado,Não aplicável,87050.0,44579.0,1380.0,30-49
-2021-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-07,Masculino,separado,Quilombolas,71712.0,48613.0,4749.0,30-49
-2022-03,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-01,Masculino,casado,Pescadores artesanais,58408.0,49914.0,2629.0,30-49
-2020-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-08,Feminino,solteiro,Outras Comunidades,67426.0,49181.0,2058.0,30-49
-2023-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-02,Masculino,viúvo,Quilombolas,68099.0,45742.0,2392.0,30-49
-2017-03,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-02,Masculino,viúvo,Assentados do PNRA,69846.0,48446.0,2943.0,50-64
-2019-11,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-02,Feminino,casado,Indigena,53606.0,48492.0,4376.0,30-49
-2021-02,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-12,Feminino,casado,Não aplicável,96936.0,48974.0,3634.0,30-49
-2023-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-03,Feminino,viúvo,Outras Comunidades,71363.0,42428.0,2262.0,30-49
-2023-09,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-03,Masculino,divorciado,Não aplicável,99378.0,43986.0,1676.0,30-49
-2018-04,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-09,Feminino,separado,Extravista,94614.0,48796.0,3847.0,30-49
-2021-07,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-10,Masculino,separado,Quilombolas,55634.0,40507.0,1813.0,30-49
-2020-10,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-10,Feminino,viúvo,Não aplicável,84864.0,40316.0,1700.0,30-49
-2023-05,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-07,Masculino,viúvo,Indigena,72401.0,42046.0,1593.0,30-49
-2020-01,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-03,Feminino,separado,Não aplicável,57222.0,42274.0,1315.0,50-64
-2019-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-06,Masculino,casado,Quilombolas,76669.0,42467.0,4975.0,30-49
-2018-08,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-06,Feminino,solteiro,Assentados do PNRA,86133.0,48847.0,1623.0,30-49
-2019-10,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-03,Feminino,casado,Indigena,91564.0,45250.0,4139.0,50-64
-2022-05,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-11,Masculino,casado,Indigena,86228.0,48805.0,3186.0,30-49
-2020-10,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-07,Masculino,solteiro,Quilombolas,52275.0,41362.0,1917.0,30-49
-2022-03,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2024-09,Masculino,solteiro,Não aplicável,67444.0,48318.0,3799.0,30-49
-2021-03,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-08,Feminino,solteiro,Pescadores artesanais,85122.0,45757.0,1888.0,30-49
-2019-07,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2025-06,Masculino,viúvo,Outras Comunidades,72159.0,41911.0,4117.0,50-64
-2023-11,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-05,Feminino,casado,Outras Comunidades,69320.0,40099.0,1685.0,50-64
-2020-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-06,Feminino,divorciado,Assentados do PNRA,74437.0,48618.0,3601.0,30-49
-2018-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2025-06,Feminino,casado,Pescadores artesanais,52235.0,41584.0,3917.0,50-64
-2017-12,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-02,Masculino,viúvo,Pescadores artesanais,74090.0,42610.0,2506.0,30-49
-2019-12,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-08,Masculino,separado,Indigena,95732.0,43319.0,4907.0,30-49
-2020-10,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2025-04,Masculino,viúvo,Indigena,94159.0,49423.0,3743.0,50-64
-2017-06,Curitiba,PR,Sul,Caixa Econômica Federal,MCMV-Oferta Pública,2023-09,Feminino,solteiro,Extravista,87473.0,47670.0,2426.0,50-64
-2017-07,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2024-09,Masculino,casado,Não aplicável,66113.0,45521.0,2042.0,30-49
-2020-07,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-03,Masculino,viúvo,Assentados do PNRA,95699.0,47577.0,1841.0,30-49
-2019-06,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2024-09,Feminino,casado,Pescadores artesanais,89877.0,44569.0,3906.0,30-49
-2020-12,Curitiba,PR,Sul,Banco do Brasil,MCMV-Oferta Pública,2023-12,Masculino,viúvo,Pescadores artesanais,61699.0,44888.0,4719.0,30-49
-2022-03,Curitiba,PR,Sul,Banco do Nordeste,MCMV-Oferta Pública,2023-11,Masculino,separado,Quilombolas,90264.0,49671.0,4286.0,30-49
+﻿data_referencia;txt_municipio;txt_uf;txt_regiao;txt_af;txt_modalidade;dt_assinatura_contrato;txt_sexo;estado_civil;tipo_beneficiario;vr_garantia_inicial;vr_subsidio_concessao;vr_renda_familiar_comprovada;faixa_etaria
+2019-05;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-04;Feminino;solteiro;Outras Comunidades;77886.0;40498.0;2078.0;30-49
+2023-03;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-04;Feminino;divorciado;Outras Comunidades;95414.0;49458.0;4098.0;30-49
+2021-12;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-10;Feminino;solteiro;Quilombolas;58451.0;45721.0;3079.0;50-64
+2022-03;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-08;Feminino;solteiro;Outras Comunidades;76131.0;41005.0;1574.0;50-64
+2024-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-02;Masculino;casado;Não aplicável;54003.0;49099.0;2621.0;30-49
+2017-03;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-02;Masculino;divorciado;Extravista;78663.0;44303.0;3464.0;30-49
+2018-06;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-01;Feminino;solteiro;Outras Comunidades;78208.0;47521.0;1640.0;50-64
+2024-03;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-02;Feminino;casado;Não aplicável;79418.0;40756.0;3331.0;30-49
+2023-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-05;Masculino;divorciado;Pescadores artesanais;73310.0;49883.0;3399.0;30-49
+2024-12;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-06;Feminino;casado;Não aplicável;58818.0;43206.0;4211.0;50-64
+2021-11;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-07;Feminino;solteiro;Não aplicável;61315.0;43002.0;2642.0;30-49
+2017-03;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-08;Feminino;viúvo;Pescadores artesanais;73015.0;47138.0;2500.0;50-64
+2018-02;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-04;Masculino;viúvo;Quilombolas;83640.0;43748.0;3191.0;30-49
+2020-10;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-09;Feminino;casado;Outras Comunidades;55245.0;40735.0;2172.0;50-64
+2019-09;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-06;Masculino;solteiro;Pescadores artesanais;69056.0;40592.0;1568.0;50-64
+2024-09;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-12;Masculino;separado;Quilombolas;95967.0;47981.0;1639.0;30-49
+2022-05;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-02;Feminino;viúvo;Assentados do PNRA;56672.0;43431.0;2473.0;30-49
+2021-02;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-11;Feminino;casado;Quilombolas;93326.0;44801.0;3708.0;30-49
+2017-12;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-01;Masculino;divorciado;Extravista;70526.0;43088.0;1637.0;30-49
+2020-05;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-07;Feminino;divorciado;Assentados do PNRA;78506.0;42078.0;2245.0;30-49
+2024-11;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-04;Feminino;viúvo;Extravista;65086.0;47325.0;2369.0;50-64
+2017-06;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-03;Feminino;casado;Extravista;76414.0;41125.0;4887.0;30-49
+2022-05;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-01;Feminino;solteiro;Indigena;64485.0;46096.0;1749.0;50-64
+2021-02;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-02;Masculino;casado;Assentados do PNRA;63758.0;42612.0;1596.0;30-49
+2017-04;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-04;Feminino;solteiro;Extravista;69082.0;40689.0;4707.0;30-49
+2017-02;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-02;Masculino;viúvo;Pescadores artesanais;90031.0;41824.0;2963.0;30-49
+2023-05;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-01;Masculino;solteiro;Não aplicável;57577.0;46220.0;4252.0;30-49
+2019-09;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-09;Masculino;casado;Extravista;99814.0;40863.0;2337.0;30-49
+2017-04;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-12;Feminino;casado;Assentados do PNRA;65219.0;49113.0;4166.0;30-49
+2022-12;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-10;Masculino;casado;Quilombolas;59245.0;42625.0;4374.0;30-49
+2022-04;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-01;Feminino;casado;Assentados do PNRA;63668.0;49947.0;4305.0;30-49
+2021-07;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-06;Masculino;separado;Quilombolas;93857.0;47883.0;2975.0;50-64
+2017-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-04;Feminino;divorciado;Outras Comunidades;66644.0;42636.0;1912.0;30-49
+2022-06;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-09;Feminino;divorciado;Assentados do PNRA;86838.0;42610.0;1332.0;50-64
+2021-12;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-05;Masculino;solteiro;Quilombolas;72296.0;49747.0;3748.0;30-49
+2020-05;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-02;Masculino;separado;Quilombolas;99986.0;40745.0;3070.0;30-49
+2024-02;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-07;Masculino;divorciado;Outras Comunidades;99667.0;43771.0;1793.0;30-49
+2023-02;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-09;Feminino;casado;Indigena;54798.0;49692.0;1723.0;50-64
+2024-05;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-05;Masculino;separado;Indigena;82855.0;47372.0;4052.0;30-49
+2022-12;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-04;Masculino;viúvo;Outras Comunidades;96601.0;40546.0;2473.0;50-64
+2022-06;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-06;Feminino;solteiro;Pescadores artesanais;73835.0;42947.0;2885.0;30-49
+2017-06;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2025-02;Feminino;solteiro;Extravista;60611.0;44152.0;4681.0;50-64
+2023-11;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-01;Masculino;viúvo;Pescadores artesanais;52001.0;45608.0;3982.0;30-49
+2019-06;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-11;Masculino;casado;Assentados do PNRA;81375.0;46642.0;3831.0;30-49
+2020-12;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-06;Masculino;viúvo;Indigena;94386.0;48764.0;4832.0;50-64
+2018-05;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-08;Feminino;divorciado;Quilombolas;54538.0;42296.0;1326.0;30-49
+2017-02;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-06;Masculino;separado;Assentados do PNRA;87667.0;41097.0;1913.0;30-49
+2023-02;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-06;Masculino;divorciado;Indigena;81752.0;40586.0;2592.0;30-49
+2020-05;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2025-01;Masculino;viúvo;Quilombolas;68948.0;46255.0;4244.0;50-64
+2020-04;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-01;Masculino;separado;Assentados do PNRA;66830.0;42560.0;1363.0;30-49
+2021-11;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-07;Feminino;viúvo;Assentados do PNRA;83417.0;49550.0;1405.0;30-49
+2020-07;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-08;Masculino;separado;Quilombolas;63126.0;42379.0;2338.0;50-64
+2021-03;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-01;Masculino;divorciado;Não aplicável;79722.0;42907.0;2665.0;50-64
+2022-06;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-06;Feminino;solteiro;Outras Comunidades;57613.0;46225.0;4690.0;30-49
+2022-09;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-05;Masculino;divorciado;Indigena;89916.0;42784.0;4340.0;30-49
+2023-03;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-02;Feminino;divorciado;Outras Comunidades;72762.0;40384.0;4587.0;30-49
+2022-11;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-08;Masculino;viúvo;Extravista;76266.0;40492.0;2110.0;50-64
+2021-09;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-05;Masculino;casado;Indigena;54352.0;43608.0;4299.0;30-49
+2017-07;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-09;Feminino;divorciado;Pescadores artesanais;75644.0;44692.0;3207.0;50-64
+2017-04;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-02;Feminino;viúvo;Assentados do PNRA;96171.0;43021.0;2699.0;30-49
+2024-11;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-07;Feminino;separado;Quilombolas;67811.0;46753.0;3188.0;30-49
+2019-03;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2025-02;Feminino;separado;Não aplicável;76329.0;41159.0;3623.0;30-49
+2017-12;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-07;Masculino;casado;Extravista;57603.0;48929.0;3439.0;50-64
+2020-10;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-10;Feminino;solteiro;Não aplicável;91578.0;46393.0;3665.0;50-64
+2020-06;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-08;Feminino;viúvo;Assentados do PNRA;62027.0;44217.0;2857.0;50-64
+2020-03;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-09;Masculino;viúvo;Pescadores artesanais;53157.0;46937.0;4454.0;30-49
+2017-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-12;Masculino;divorciado;Quilombolas;99180.0;40319.0;2007.0;30-49
+2022-12;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-05;Feminino;divorciado;Extravista;54725.0;42091.0;2737.0;30-49
+2019-01;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-04;Masculino;separado;Outras Comunidades;98711.0;40679.0;2671.0;30-49
+2019-06;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-08;Masculino;separado;Quilombolas;90289.0;41205.0;4472.0;30-49
+2023-05;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-07;Masculino;solteiro;Assentados do PNRA;61140.0;42678.0;3359.0;30-49
+2018-11;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-04;Masculino;casado;Pescadores artesanais;90951.0;45361.0;4247.0;30-49
+2020-07;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-07;Masculino;casado;Outras Comunidades;87008.0;42055.0;2804.0;50-64
+2018-05;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-01;Feminino;viúvo;Indigena;58894.0;44329.0;1758.0;50-64
+2017-02;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-03;Masculino;casado;Indigena;58901.0;45717.0;4790.0;30-49
+2019-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-03;Masculino;viúvo;Assentados do PNRA;68985.0;50000.0;3318.0;50-64
+2021-09;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-05;Feminino;divorciado;Não aplicável;96591.0;40942.0;3457.0;30-49
+2017-02;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-01;Masculino;solteiro;Pescadores artesanais;88191.0;49136.0;1603.0;30-49
+2017-12;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-03;Masculino;separado;Extravista;61418.0;48493.0;4846.0;30-49
+2020-12;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-07;Feminino;divorciado;Pescadores artesanais;95027.0;45813.0;2647.0;30-49
+2022-06;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-03;Masculino;solteiro;Não aplicável;71550.0;45070.0;4569.0;30-49
+2021-11;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-01;Masculino;divorciado;Extravista;53581.0;42501.0;4545.0;30-49
+2017-05;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-12;Feminino;casado;Indigena;62272.0;49751.0;2168.0;30-49
+2023-12;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-02;Feminino;divorciado;Não aplicável;64194.0;43800.0;1565.0;30-49
+2021-01;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-11;Feminino;divorciado;Pescadores artesanais;70231.0;49132.0;4257.0;30-49
+2023-04;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-05;Masculino;divorciado;Pescadores artesanais;79950.0;49875.0;1335.0;30-49
+2021-06;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-12;Masculino;solteiro;Quilombolas;50663.0;40904.0;3859.0;30-49
+2021-06;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-01;Masculino;solteiro;Pescadores artesanais;98109.0;42122.0;3346.0;30-49
+2022-02;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-12;Feminino;divorciado;Outras Comunidades;72995.0;40328.0;2926.0;30-49
+2020-09;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-01;Feminino;casado;Não aplicável;64072.0;41780.0;3581.0;50-64
+2021-11;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-12;Masculino;divorciado;Não aplicável;74882.0;45752.0;3442.0;50-64
+2021-01;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-02;Feminino;viúvo;Extravista;68330.0;40448.0;1953.0;30-49
+2021-05;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-11;Masculino;divorciado;Outras Comunidades;64181.0;43175.0;4889.0;30-49
+2020-12;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-08;Feminino;separado;Quilombolas;86567.0;46612.0;3606.0;30-49
+2024-09;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-07;Feminino;divorciado;Pescadores artesanais;50125.0;48388.0;2959.0;30-49
+2019-11;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-05;Masculino;solteiro;Não aplicável;80678.0;46886.0;1574.0;50-64
+2018-02;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-02;Masculino;solteiro;Assentados do PNRA;99532.0;49152.0;2244.0;30-49
+2019-01;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-02;Feminino;viúvo;Quilombolas;54853.0;44202.0;4334.0;30-49
+2022-06;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-04;Feminino;separado;Assentados do PNRA;83696.0;47798.0;3261.0;30-49
+2023-09;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-09;Masculino;divorciado;Quilombolas;53148.0;45268.0;3832.0;30-49
+2022-07;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-01;Feminino;separado;Não aplicável;81146.0;45921.0;4472.0;50-64
+2024-08;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-09;Masculino;casado;Outras Comunidades;93837.0;42504.0;1964.0;50-64
+2023-03;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-09;Masculino;casado;Assentados do PNRA;89463.0;47748.0;4838.0;30-49
+2017-08;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-03;Feminino;separado;Assentados do PNRA;69982.0;45936.0;2152.0;50-64
+2021-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-09;Feminino;separado;Extravista;92345.0;40002.0;4770.0;30-49
+2021-04;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-05;Feminino;solteiro;Outras Comunidades;79676.0;44707.0;3730.0;30-49
+2019-12;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-11;Masculino;casado;Não aplicável;83921.0;48015.0;4353.0;30-49
+2020-09;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-06;Masculino;viúvo;Quilombolas;55007.0;47473.0;3586.0;50-64
+2023-12;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-02;Feminino;solteiro;Pescadores artesanais;66275.0;40196.0;4065.0;30-49
+2019-04;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-11;Feminino;casado;Outras Comunidades;82477.0;47495.0;3781.0;30-49
+2017-06;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-06;Feminino;viúvo;Quilombolas;51955.0;41238.0;4948.0;30-49
+2019-11;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-04;Masculino;solteiro;Quilombolas;72565.0;41129.0;3977.0;30-49
+2023-05;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-12;Masculino;viúvo;Não aplicável;74108.0;40523.0;2276.0;30-49
+2019-07;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-10;Masculino;separado;Não aplicável;58241.0;40021.0;4187.0;30-49
+2023-08;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-10;Feminino;viúvo;Assentados do PNRA;95172.0;49415.0;3030.0;50-64
+2020-12;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-09;Feminino;divorciado;Pescadores artesanais;95177.0;41182.0;1924.0;30-49
+2022-12;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-09;Feminino;divorciado;Assentados do PNRA;55324.0;46356.0;4013.0;30-49
+2018-02;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2023-01;Masculino;casado;Não aplicável;75521.0;48609.0;2191.0;50-64
+2022-07;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-07;Masculino;solteiro;Quilombolas;90057.0;41601.0;4766.0;30-49
+2019-12;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-02;Feminino;divorciado;Quilombolas;57340.0;40582.0;1659.0;30-49
+2020-06;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-12;Masculino;viúvo;Pescadores artesanais;52461.0;48680.0;2766.0;30-49
+2018-01;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-09;Feminino;viúvo;Pescadores artesanais;98782.0;41176.0;3037.0;30-49
+2022-08;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-11;Feminino;solteiro;Quilombolas;89534.0;40772.0;3406.0;50-64
+2019-09;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-06;Masculino;divorciado;Assentados do PNRA;59405.0;41545.0;4780.0;50-64
+2018-12;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2025-03;Masculino;viúvo;Assentados do PNRA;84765.0;45497.0;4398.0;50-64
+2019-12;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-07;Feminino;viúvo;Pescadores artesanais;91273.0;48801.0;4610.0;30-49
+2017-09;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-05;Masculino;separado;Outras Comunidades;72276.0;49227.0;3247.0;30-49
+2018-08;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-06;Feminino;separado;Quilombolas;78426.0;40139.0;2818.0;30-49
+2020-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-04;Masculino;viúvo;Quilombolas;73222.0;41610.0;2350.0;30-49
+2023-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-01;Masculino;viúvo;Quilombolas;86863.0;44232.0;2171.0;30-49
+2020-08;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-11;Masculino;casado;Indigena;60152.0;41224.0;4867.0;30-49
+2019-05;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2025-02;Masculino;viúvo;Indigena;82194.0;41311.0;1951.0;30-49
+2022-07;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-10;Masculino;separado;Extravista;92581.0;49095.0;3927.0;30-49
+2023-01;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-05;Feminino;viúvo;Quilombolas;96940.0;42598.0;2504.0;30-49
+2019-02;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-04;Feminino;solteiro;Outras Comunidades;62785.0;45843.0;2691.0;30-49
+2024-11;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-09;Feminino;viúvo;Indigena;90879.0;44894.0;3696.0;30-49
+2021-08;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-10;Feminino;separado;Outras Comunidades;85290.0;46223.0;4149.0;30-49
+2018-04;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2024-12;Masculino;casado;Indigena;61686.0;40575.0;2589.0;30-49
+2018-07;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-08;Feminino;separado;Outras Comunidades;67326.0;49081.0;3817.0;30-49
+2023-02;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-03;Feminino;solteiro;Extravista;78963.0;43437.0;3325.0;30-49
+2017-08;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-07;Feminino;solteiro;Outras Comunidades;82516.0;49142.0;1908.0;50-64
+2023-11;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-02;Masculino;viúvo;Assentados do PNRA;86769.0;44002.0;4215.0;50-64
+2023-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-08;Masculino;viúvo;Assentados do PNRA;92236.0;46517.0;3630.0;30-49
+2021-07;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2023-11;Feminino;separado;Não aplicável;90812.0;41673.0;2705.0;30-49
+2020-07;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-09;Masculino;solteiro;Não aplicável;66223.0;41727.0;3349.0;30-49
+2024-10;Rio de Janeiro;RJ;Sudeste;Banco do Brasil;MCMV-Entidades;2024-03;Feminino;viúvo;Quilombolas;75862.0;43900.0;3157.0;30-49
+2019-10;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-11;Feminino;divorciado;Quilombolas;92967.0;45067.0;1874.0;30-49
+2018-09;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-12;Feminino;solteiro;Não aplicável;72716.0;41167.0;2981.0;50-64
+2019-04;Rio de Janeiro;RJ;Sudeste;Banco do Nordeste;MCMV-Entidades;2023-11;Masculino;divorciado;Outras Comunidades;69904.0;41418.0;2867.0;30-49
+2020-01;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2024-08;Feminino;divorciado;Indigena;95215.0;43067.0;4559.0;30-49
+2020-04;Rio de Janeiro;RJ;Sudeste;Caixa Econômica Federal;MCMV-Entidades;2025-05;Masculino;casado;Assentados do PNRA;51070.0;47390.0;4029.0;50-64
+2018-09;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-02;Masculino;separado;Assentados do PNRA;68671.0;43998.0;2811.0;50-64
+2024-11;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-05;Masculino;casado;Não aplicável;53458.0;43926.0;2497.0;30-49
+2018-02;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-02;Feminino;casado;Extravista;80541.0;42363.0;3660.0;50-64
+2023-03;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-11;Masculino;solteiro;Não aplicável;80887.0;41179.0;3651.0;30-49
+2020-07;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-11;Feminino;divorciado;Pescadores artesanais;63917.0;43548.0;4954.0;50-64
+2017-03;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-07;Masculino;separado;Não aplicável;61663.0;48628.0;1604.0;30-49
+2020-08;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-06;Masculino;casado;Pescadores artesanais;95149.0;40135.0;1576.0;50-64
+2019-02;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-12;Masculino;viúvo;Quilombolas;75462.0;46170.0;4826.0;30-49
+2020-10;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-04;Masculino;divorciado;Indigena;73627.0;46130.0;1799.0;30-49
+2018-08;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-09;Masculino;viúvo;Extravista;99546.0;49279.0;3935.0;30-49
+2017-05;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-08;Feminino;divorciado;Quilombolas;57019.0;48672.0;4127.0;30-49
+2020-10;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-05;Feminino;solteiro;Extravista;59546.0;44584.0;2077.0;50-64
+2020-01;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-10;Masculino;viúvo;Extravista;92296.0;46602.0;2606.0;50-64
+2024-12;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-01;Feminino;casado;Assentados do PNRA;51165.0;48462.0;3786.0;30-49
+2019-11;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-08;Masculino;casado;Indigena;74818.0;42583.0;1536.0;30-49
+2022-02;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-06;Feminino;viúvo;Assentados do PNRA;56260.0;43316.0;4267.0;50-64
+2023-12;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-06;Masculino;separado;Assentados do PNRA;67785.0;47191.0;2096.0;30-49
+2018-12;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-05;Masculino;solteiro;Pescadores artesanais;68843.0;40301.0;4913.0;30-49
+2019-01;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-08;Masculino;solteiro;Extravista;75340.0;44263.0;3334.0;50-64
+2023-01;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-02;Masculino;casado;Extravista;84651.0;40868.0;2132.0;30-49
+2020-01;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-09;Feminino;casado;Assentados do PNRA;96668.0;42487.0;2752.0;50-64
+2021-02;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-01;Feminino;casado;Indigena;95573.0;46892.0;3590.0;50-64
+2017-11;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-02;Masculino;casado;Indigena;57976.0;46106.0;2949.0;30-49
+2020-01;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-03;Feminino;separado;Assentados do PNRA;93830.0;42478.0;4426.0;50-64
+2022-05;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-01;Feminino;casado;Outras Comunidades;76161.0;40968.0;3119.0;50-64
+2017-05;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-05;Feminino;solteiro;Outras Comunidades;83217.0;48556.0;3767.0;30-49
+2019-11;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-06;Masculino;solteiro;Extravista;84745.0;40466.0;2181.0;30-49
+2020-07;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-11;Masculino;solteiro;Pescadores artesanais;61268.0;47071.0;3516.0;30-49
+2023-03;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-12;Feminino;divorciado;Assentados do PNRA;51413.0;40317.0;2195.0;30-49
+2020-03;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-10;Feminino;casado;Outras Comunidades;82446.0;44463.0;4057.0;30-49
+2020-10;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-02;Masculino;solteiro;Não aplicável;94211.0;41148.0;3414.0;30-49
+2024-12;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-01;Masculino;separado;Assentados do PNRA;81975.0;41613.0;2701.0;30-49
+2017-08;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-12;Feminino;solteiro;Assentados do PNRA;83292.0;49208.0;4246.0;30-49
+2022-12;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-04;Feminino;casado;Quilombolas;77623.0;45001.0;1929.0;30-49
+2021-12;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-05;Feminino;divorciado;Pescadores artesanais;50657.0;47613.0;3756.0;30-49
+2020-05;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-04;Masculino;separado;Outras Comunidades;86165.0;49257.0;3395.0;30-49
+2023-06;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-03;Feminino;divorciado;Pescadores artesanais;94587.0;47700.0;4124.0;30-49
+2022-02;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-07;Masculino;solteiro;Quilombolas;69161.0;47878.0;3879.0;30-49
+2017-12;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-03;Masculino;casado;Indigena;75911.0;42840.0;2903.0;50-64
+2018-07;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-03;Masculino;casado;Pescadores artesanais;92149.0;42815.0;1405.0;50-64
+2017-03;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-08;Feminino;divorciado;Não aplicável;98706.0;47671.0;2692.0;30-49
+2017-03;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-04;Feminino;divorciado;Pescadores artesanais;96240.0;45751.0;3990.0;50-64
+2020-07;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-08;Masculino;divorciado;Indigena;55410.0;49161.0;2332.0;50-64
+2021-04;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-06;Masculino;viúvo;Extravista;83470.0;41745.0;3631.0;50-64
+2022-06;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-01;Feminino;casado;Pescadores artesanais;82768.0;44233.0;4046.0;30-49
+2019-10;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-01;Feminino;viúvo;Outras Comunidades;90522.0;44566.0;2045.0;30-49
+2024-10;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-05;Masculino;solteiro;Pescadores artesanais;79934.0;42948.0;2592.0;30-49
+2023-10;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-11;Masculino;casado;Quilombolas;87954.0;42693.0;2133.0;50-64
+2019-09;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-08;Feminino;casado;Extravista;62512.0;40817.0;2626.0;50-64
+2018-01;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-04;Feminino;solteiro;Pescadores artesanais;96991.0;41556.0;3956.0;30-49
+2020-07;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-01;Masculino;viúvo;Pescadores artesanais;66556.0;44586.0;3740.0;30-49
+2024-03;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-03;Masculino;casado;Outras Comunidades;95115.0;45176.0;3629.0;50-64
+2019-03;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-06;Feminino;viúvo;Extravista;86448.0;48942.0;1559.0;50-64
+2018-10;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-08;Feminino;casado;Pescadores artesanais;72988.0;44482.0;1383.0;30-49
+2023-01;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-12;Feminino;divorciado;Não aplicável;77836.0;46238.0;1975.0;50-64
+2018-09;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-08;Feminino;viúvo;Extravista;78315.0;48828.0;3503.0;50-64
+2017-12;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-11;Feminino;solteiro;Quilombolas;57240.0;49693.0;2209.0;30-49
+2024-07;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-08;Masculino;divorciado;Extravista;55163.0;41993.0;3751.0;30-49
+2021-06;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-07;Feminino;solteiro;Não aplicável;93103.0;47383.0;3444.0;30-49
+2021-01;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-07;Masculino;divorciado;Não aplicável;73540.0;49598.0;4629.0;30-49
+2017-11;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-06;Feminino;divorciado;Quilombolas;70133.0;42605.0;1961.0;30-49
+2022-11;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-06;Masculino;viúvo;Não aplicável;55106.0;48850.0;4034.0;50-64
+2018-02;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-02;Masculino;solteiro;Pescadores artesanais;82934.0;41593.0;2006.0;30-49
+2021-06;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-06;Feminino;separado;Pescadores artesanais;65182.0;46821.0;3042.0;30-49
+2023-06;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-01;Feminino;casado;Outras Comunidades;84734.0;44040.0;1549.0;50-64
+2017-10;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-04;Feminino;divorciado;Pescadores artesanais;63307.0;40885.0;4698.0;30-49
+2021-04;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-04;Masculino;separado;Pescadores artesanais;87390.0;45005.0;4279.0;30-49
+2020-06;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-05;Feminino;divorciado;Extravista;63748.0;42898.0;3442.0;30-49
+2022-05;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-03;Masculino;viúvo;Não aplicável;99752.0;45187.0;1949.0;30-49
+2021-11;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-09;Feminino;viúvo;Não aplicável;97679.0;49597.0;4610.0;30-49
+2021-10;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-08;Feminino;solteiro;Pescadores artesanais;67056.0;49227.0;3138.0;30-49
+2018-07;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-01;Feminino;casado;Outras Comunidades;62960.0;47750.0;4091.0;30-49
+2018-01;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-08;Masculino;solteiro;Indigena;73015.0;41332.0;2141.0;30-49
+2017-08;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-06;Masculino;casado;Extravista;97697.0;48467.0;3192.0;30-49
+2019-05;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-05;Masculino;solteiro;Não aplicável;89639.0;46630.0;2322.0;30-49
+2018-02;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-02;Feminino;divorciado;Pescadores artesanais;54109.0;42438.0;3994.0;30-49
+2020-09;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-03;Masculino;viúvo;Não aplicável;51999.0;43543.0;4279.0;30-49
+2024-06;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-03;Masculino;solteiro;Pescadores artesanais;84827.0;42098.0;3301.0;50-64
+2017-10;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-03;Feminino;casado;Indigena;58143.0;42547.0;4571.0;30-49
+2017-10;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2025-02;Masculino;casado;Não aplicável;53119.0;42318.0;4472.0;30-49
+2023-12;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-09;Feminino;viúvo;Pescadores artesanais;77462.0;46714.0;4720.0;30-49
+2021-04;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-03;Masculino;separado;Assentados do PNRA;63101.0;43232.0;1466.0;30-49
+2018-10;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-01;Masculino;divorciado;Pescadores artesanais;65738.0;45003.0;4163.0;30-49
+2022-03;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-10;Feminino;solteiro;Pescadores artesanais;66283.0;44171.0;3616.0;50-64
+2018-11;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-01;Masculino;separado;Extravista;50665.0;47498.0;2349.0;30-49
+2023-08;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-01;Feminino;separado;Não aplicável;85520.0;40170.0;4377.0;50-64
+2018-02;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-09;Feminino;divorciado;Quilombolas;97250.0;48141.0;2738.0;50-64
+2020-01;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-03;Masculino;divorciado;Quilombolas;68718.0;49113.0;1403.0;30-49
+2017-08;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-12;Feminino;divorciado;Indigena;61798.0;45022.0;4344.0;30-49
+2024-07;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-01;Feminino;viúvo;Assentados do PNRA;96874.0;48122.0;3181.0;30-49
+2022-03;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-10;Feminino;solteiro;Indigena;93292.0;44513.0;2523.0;30-49
+2024-11;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2025-06;Masculino;separado;Extravista;73624.0;49266.0;3095.0;30-49
+2017-12;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-05;Masculino;viúvo;Indigena;63737.0;48560.0;3469.0;50-64
+2018-03;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-01;Masculino;viúvo;Pescadores artesanais;66657.0;41216.0;2573.0;50-64
+2019-03;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-05;Masculino;separado;Extravista;98341.0;44236.0;1778.0;30-49
+2021-04;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-06;Feminino;casado;Outras Comunidades;70079.0;40904.0;4413.0;50-64
+2024-07;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-06;Feminino;separado;Pescadores artesanais;67033.0;44730.0;4925.0;50-64
+2018-06;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-07;Masculino;viúvo;Indigena;83031.0;47222.0;2078.0;50-64
+2019-08;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-05;Feminino;divorciado;Indigena;71552.0;41950.0;4881.0;30-49
+2019-05;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-04;Masculino;separado;Não aplicável;66433.0;45951.0;1457.0;30-49
+2023-01;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-04;Masculino;divorciado;Não aplicável;99089.0;43075.0;1445.0;30-49
+2021-05;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-08;Feminino;divorciado;Indigena;74171.0;47400.0;1510.0;30-49
+2023-04;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-06;Feminino;casado;Outras Comunidades;83970.0;41416.0;3385.0;30-49
+2017-01;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-04;Masculino;separado;Pescadores artesanais;60793.0;43542.0;4772.0;50-64
+2024-05;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-06;Feminino;casado;Quilombolas;95821.0;44570.0;4957.0;30-49
+2024-05;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-01;Masculino;casado;Assentados do PNRA;92922.0;46471.0;3633.0;30-49
+2022-01;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-05;Masculino;solteiro;Outras Comunidades;76826.0;41312.0;3893.0;30-49
+2022-04;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-01;Feminino;separado;Outras Comunidades;81366.0;46633.0;1529.0;30-49
+2022-02;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-12;Masculino;solteiro;Quilombolas;55445.0;40056.0;4155.0;50-64
+2020-10;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-11;Masculino;solteiro;Indigena;80117.0;46658.0;1821.0;30-49
+2017-10;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-02;Feminino;separado;Pescadores artesanais;77507.0;46437.0;3518.0;30-49
+2022-12;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-08;Masculino;separado;Indigena;71547.0;47600.0;1715.0;30-49
+2018-07;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-06;Masculino;divorciado;Outras Comunidades;64424.0;45625.0;4685.0;30-49
+2018-03;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-11;Masculino;casado;Indigena;53667.0;49330.0;2639.0;30-49
+2022-12;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-05;Feminino;separado;Outras Comunidades;58832.0;45127.0;2178.0;50-64
+2017-06;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-06;Feminino;divorciado;Extravista;76138.0;42863.0;1765.0;30-49
+2022-09;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-05;Feminino;casado;Não aplicável;94210.0;48584.0;2701.0;30-49
+2019-03;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-08;Masculino;divorciado;Não aplicável;56183.0;49355.0;2672.0;30-49
+2023-08;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-04;Masculino;divorciado;Assentados do PNRA;75800.0;45062.0;4332.0;30-49
+2018-12;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-02;Feminino;separado;Quilombolas;76332.0;44243.0;2550.0;50-64
+2018-01;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-02;Masculino;divorciado;Outras Comunidades;99575.0;40048.0;4955.0;30-49
+2019-12;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-07;Feminino;viúvo;Quilombolas;53216.0;43404.0;1892.0;30-49
+2024-03;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-01;Masculino;solteiro;Pescadores artesanais;61753.0;41459.0;3580.0;30-49
+2017-01;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-02;Masculino;divorciado;Quilombolas;50641.0;44850.0;4769.0;50-64
+2019-08;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-03;Masculino;divorciado;Quilombolas;74531.0;46531.0;2731.0;30-49
+2024-11;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-02;Feminino;viúvo;Extravista;66760.0;45541.0;2991.0;30-49
+2017-12;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-04;Masculino;solteiro;Indigena;50978.0;40537.0;4092.0;30-49
+2024-07;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-09;Feminino;divorciado;Outras Comunidades;86153.0;45862.0;4170.0;50-64
+2022-05;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-06;Masculino;casado;Extravista;98704.0;40645.0;1646.0;30-49
+2022-02;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-12;Feminino;solteiro;Extravista;56233.0;49066.0;3377.0;30-49
+2018-03;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-04;Feminino;divorciado;Quilombolas;65582.0;45769.0;3590.0;50-64
+2018-08;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-11;Masculino;solteiro;Assentados do PNRA;66452.0;40259.0;4073.0;30-49
+2017-09;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-01;Feminino;casado;Pescadores artesanais;80583.0;44906.0;2796.0;50-64
+2020-05;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-02;Feminino;divorciado;Indigena;97464.0;45789.0;2850.0;50-64
+2023-08;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2025-01;Masculino;separado;Não aplicável;69999.0;49539.0;2525.0;50-64
+2022-02;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-11;Masculino;solteiro;Não aplicável;91517.0;44571.0;2986.0;30-49
+2019-03;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-11;Feminino;viúvo;Assentados do PNRA;63946.0;48908.0;4799.0;30-49
+2019-02;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-04;Feminino;separado;Extravista;55051.0;42775.0;2982.0;30-49
+2022-07;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-05;Masculino;viúvo;Pescadores artesanais;70623.0;42002.0;2087.0;30-49
+2019-05;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-12;Masculino;casado;Extravista;55659.0;45209.0;4817.0;30-49
+2021-06;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-03;Feminino;separado;Assentados do PNRA;72791.0;42448.0;4412.0;30-49
+2022-11;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-03;Feminino;viúvo;Outras Comunidades;63191.0;44176.0;4524.0;50-64
+2018-07;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-06;Feminino;divorciado;Pescadores artesanais;87283.0;49370.0;2613.0;30-49
+2024-06;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-02;Feminino;separado;Não aplicável;74424.0;48275.0;4104.0;30-49
+2022-02;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-01;Feminino;separado;Assentados do PNRA;67638.0;49589.0;2253.0;50-64
+2024-05;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-03;Feminino;casado;Quilombolas;82316.0;40758.0;1680.0;30-49
+2019-12;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-02;Feminino;solteiro;Não aplicável;94458.0;44337.0;3543.0;30-49
+2024-02;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-12;Masculino;viúvo;Pescadores artesanais;64822.0;41400.0;3786.0;30-49
+2019-12;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-07;Feminino;divorciado;Assentados do PNRA;73530.0;49989.0;3004.0;30-49
+2023-02;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-06;Masculino;viúvo;Quilombolas;78743.0;49295.0;1460.0;50-64
+2019-02;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-12;Feminino;separado;Pescadores artesanais;91448.0;46909.0;4514.0;30-49
+2017-09;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-02;Feminino;separado;Outras Comunidades;76144.0;43204.0;3283.0;30-49
+2022-11;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-11;Feminino;divorciado;Não aplicável;89341.0;45886.0;2995.0;50-64
+2019-06;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-08;Masculino;viúvo;Indigena;64507.0;44136.0;2718.0;50-64
+2018-12;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-11;Masculino;divorciado;Indigena;51273.0;46427.0;2619.0;30-49
+2021-10;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-01;Feminino;casado;Outras Comunidades;70288.0;45536.0;4059.0;30-49
+2024-02;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-05;Masculino;solteiro;Assentados do PNRA;57836.0;48951.0;2579.0;30-49
+2021-02;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-07;Masculino;casado;Não aplicável;90814.0;45421.0;2439.0;50-64
+2020-01;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-05;Masculino;divorciado;Assentados do PNRA;68930.0;46941.0;3955.0;30-49
+2017-09;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-09;Masculino;divorciado;Extravista;72195.0;41192.0;3754.0;50-64
+2022-06;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-04;Masculino;viúvo;Indigena;65792.0;48725.0;1722.0;30-49
+2018-02;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-08;Masculino;solteiro;Outras Comunidades;77376.0;46092.0;1968.0;30-49
+2021-02;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-02;Feminino;solteiro;Não aplicável;54113.0;46246.0;3709.0;50-64
+2021-09;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-05;Masculino;viúvo;Não aplicável;94305.0;49136.0;4641.0;30-49
+2017-09;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-05;Feminino;separado;Assentados do PNRA;51842.0;49784.0;1637.0;30-49
+2017-08;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-09;Feminino;casado;Não aplicável;95418.0;47622.0;1741.0;30-49
+2017-11;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-01;Masculino;viúvo;Pescadores artesanais;52817.0;47798.0;1521.0;50-64
+2021-07;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-06;Feminino;solteiro;Indigena;77197.0;46055.0;4758.0;30-49
+2023-03;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-08;Feminino;casado;Outras Comunidades;63167.0;45028.0;2469.0;30-49
+2023-08;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-08;Feminino;casado;Indigena;68966.0;49280.0;4705.0;50-64
+2021-11;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-07;Feminino;separado;Extravista;99347.0;45140.0;1529.0;50-64
+2023-12;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-01;Masculino;viúvo;Pescadores artesanais;74414.0;43223.0;4126.0;30-49
+2019-09;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-12;Feminino;solteiro;Outras Comunidades;97098.0;49886.0;2204.0;50-64
+2017-07;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2025-04;Masculino;divorciado;Não aplicável;92289.0;40284.0;4025.0;50-64
+2021-05;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-08;Masculino;solteiro;Não aplicável;94137.0;40458.0;1591.0;30-49
+2022-02;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-05;Feminino;solteiro;Outras Comunidades;88278.0;45630.0;2720.0;30-49
+2023-01;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-01;Masculino;separado;Não aplicável;58141.0;42263.0;4566.0;30-49
+2017-10;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-10;Feminino;viúvo;Pescadores artesanais;69769.0;40199.0;4274.0;50-64
+2023-07;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-11;Feminino;separado;Assentados do PNRA;84121.0;46320.0;1909.0;30-49
+2020-11;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-03;Masculino;divorciado;Extravista;92396.0;48634.0;3529.0;30-49
+2023-05;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-11;Masculino;solteiro;Não aplicável;80706.0;44772.0;2737.0;50-64
+2021-12;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-04;Masculino;divorciado;Quilombolas;91491.0;41854.0;4962.0;50-64
+2019-12;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-10;Masculino;casado;Assentados do PNRA;87581.0;48177.0;4039.0;50-64
+2018-05;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-03;Feminino;casado;Extravista;62252.0;48166.0;3816.0;30-49
+2024-01;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-03;Feminino;separado;Pescadores artesanais;88951.0;46256.0;2877.0;50-64
+2021-08;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-12;Masculino;solteiro;Assentados do PNRA;93510.0;48553.0;3489.0;50-64
+2023-05;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-03;Masculino;separado;Não aplicável;75497.0;43398.0;3979.0;30-49
+2021-06;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-08;Feminino;divorciado;Extravista;96748.0;45654.0;4806.0;30-49
+2024-12;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-11;Feminino;separado;Extravista;60444.0;47334.0;1837.0;30-49
+2020-11;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-02;Masculino;divorciado;Não aplicável;51767.0;48611.0;4890.0;30-49
+2018-09;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-08;Masculino;viúvo;Outras Comunidades;53524.0;43088.0;2261.0;30-49
+2018-05;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-07;Feminino;divorciado;Indigena;54419.0;49164.0;4715.0;50-64
+2019-08;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-07;Feminino;divorciado;Outras Comunidades;62914.0;46548.0;4440.0;30-49
+2023-04;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-07;Feminino;solteiro;Indigena;61861.0;47672.0;1786.0;50-64
+2020-07;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-02;Feminino;casado;Outras Comunidades;66646.0;45082.0;2274.0;30-49
+2023-02;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-03;Feminino;divorciado;Quilombolas;95459.0;42762.0;4677.0;30-49
+2023-10;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-10;Feminino;separado;Não aplicável;69305.0;46270.0;2082.0;50-64
+2023-04;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-06;Masculino;casado;Assentados do PNRA;68879.0;46254.0;2957.0;50-64
+2020-09;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-01;Masculino;separado;Indigena;52966.0;45148.0;3305.0;30-49
+2017-06;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2024-09;Masculino;separado;Extravista;79495.0;48571.0;1621.0;30-49
+2023-08;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-10;Masculino;viúvo;Extravista;52662.0;48409.0;2287.0;30-49
+2017-10;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-12;Masculino;casado;Extravista;99188.0;44709.0;1942.0;30-49
+2022-07;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-05;Feminino;casado;Quilombolas;83751.0;41893.0;2030.0;30-49
+2023-05;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-06;Masculino;casado;Pescadores artesanais;87345.0;42298.0;2601.0;30-49
+2017-10;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-10;Feminino;divorciado;Não aplicável;85399.0;46506.0;4471.0;30-49
+2021-12;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-03;Masculino;separado;Pescadores artesanais;82298.0;47927.0;2671.0;30-49
+2023-07;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-09;Masculino;separado;Outras Comunidades;94501.0;44406.0;2586.0;30-49
+2017-11;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-06;Feminino;solteiro;Pescadores artesanais;58010.0;46276.0;3447.0;50-64
+2022-06;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-11;Feminino;separado;Indigena;70042.0;41197.0;2827.0;50-64
+2021-03;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-12;Feminino;divorciado;Outras Comunidades;68526.0;43126.0;2207.0;30-49
+2019-06;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-05;Feminino;divorciado;Não aplicável;77995.0;45871.0;4995.0;30-49
+2018-08;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-02;Masculino;solteiro;Extravista;63604.0;43029.0;1438.0;30-49
+2023-08;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-04;Feminino;divorciado;Pescadores artesanais;99138.0;49342.0;1635.0;30-49
+2023-07;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-12;Masculino;divorciado;Pescadores artesanais;63868.0;47773.0;3366.0;30-49
+2019-12;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-01;Feminino;casado;Pescadores artesanais;91961.0;48540.0;3703.0;30-49
+2019-03;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-04;Masculino;divorciado;Extravista;50085.0;41412.0;2247.0;30-49
+2023-04;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-09;Masculino;divorciado;Assentados do PNRA;75996.0;45941.0;2419.0;30-49
+2018-09;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-06;Masculino;solteiro;Pescadores artesanais;63913.0;40194.0;4538.0;50-64
+2018-10;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-11;Masculino;solteiro;Assentados do PNRA;60866.0;41304.0;3687.0;30-49
+2020-08;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-04;Masculino;divorciado;Assentados do PNRA;95954.0;42636.0;3414.0;30-49
+2024-12;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-07;Feminino;separado;Indigena;66571.0;47952.0;4290.0;30-49
+2018-09;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-03;Feminino;casado;Extravista;88378.0;42236.0;3501.0;50-64
+2024-12;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-10;Feminino;divorciado;Assentados do PNRA;70162.0;46935.0;1722.0;50-64
+2018-01;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-01;Masculino;divorciado;Indigena;75883.0;41375.0;3653.0;30-49
+2020-05;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-02;Feminino;separado;Outras Comunidades;77222.0;42042.0;3952.0;50-64
+2019-03;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2025-03;Masculino;divorciado;Outras Comunidades;81028.0;43723.0;4125.0;30-49
+2019-10;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-10;Masculino;separado;Não aplicável;53629.0;41618.0;2957.0;50-64
+2018-10;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-03;Feminino;casado;Pescadores artesanais;66922.0;47373.0;3309.0;30-49
+2024-05;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-06;Masculino;solteiro;Extravista;55182.0;44778.0;4144.0;30-49
+2017-05;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-12;Feminino;divorciado;Extravista;54580.0;41383.0;4339.0;50-64
+2020-12;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-11;Feminino;casado;Outras Comunidades;51641.0;45865.0;4751.0;30-49
+2020-05;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-07;Masculino;viúvo;Assentados do PNRA;65245.0;47582.0;4272.0;30-49
+2018-12;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-04;Feminino;solteiro;Outras Comunidades;62949.0;44581.0;2755.0;50-64
+2019-09;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-12;Feminino;divorciado;Indigena;58538.0;46241.0;1755.0;30-49
+2018-07;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-03;Masculino;divorciado;Assentados do PNRA;65525.0;49654.0;1528.0;30-49
+2024-11;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-08;Feminino;casado;Pescadores artesanais;65753.0;43926.0;3972.0;30-49
+2020-04;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-01;Feminino;solteiro;Pescadores artesanais;76714.0;46797.0;4620.0;30-49
+2023-07;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-07;Masculino;casado;Outras Comunidades;67910.0;43835.0;3314.0;30-49
+2021-08;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-09;Masculino;separado;Quilombolas;97721.0;42910.0;2678.0;30-49
+2020-11;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-02;Masculino;viúvo;Não aplicável;94726.0;47784.0;2710.0;30-49
+2020-11;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-01;Masculino;viúvo;Quilombolas;70052.0;45846.0;4877.0;30-49
+2020-07;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-05;Masculino;casado;Indigena;92102.0;42498.0;3539.0;30-49
+2017-09;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-05;Feminino;divorciado;Não aplicável;87202.0;47976.0;1911.0;50-64
+2017-04;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-07;Feminino;divorciado;Assentados do PNRA;60918.0;41610.0;3655.0;30-49
+2022-03;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-12;Masculino;divorciado;Não aplicável;69657.0;41803.0;3810.0;30-49
+2022-03;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-03;Feminino;casado;Assentados do PNRA;91581.0;43300.0;2223.0;30-49
+2017-09;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-04;Feminino;solteiro;Extravista;70125.0;47580.0;4944.0;50-64
+2017-10;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-10;Feminino;solteiro;Outras Comunidades;94028.0;48857.0;4245.0;30-49
+2024-07;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-01;Feminino;solteiro;Outras Comunidades;75883.0;44774.0;4357.0;50-64
+2021-07;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-08;Feminino;viúvo;Pescadores artesanais;91832.0;46010.0;2061.0;30-49
+2022-08;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-11;Masculino;viúvo;Quilombolas;98783.0;40278.0;2157.0;30-49
+2019-02;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-06;Feminino;viúvo;Extravista;66320.0;46203.0;3903.0;30-49
+2017-03;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2025-01;Feminino;casado;Outras Comunidades;65712.0;47461.0;2592.0;50-64
+2018-06;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-05;Masculino;casado;Não aplicável;57246.0;43794.0;1661.0;30-49
+2017-05;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-02;Masculino;divorciado;Quilombolas;66125.0;44490.0;3475.0;30-49
+2022-07;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-05;Masculino;separado;Não aplicável;60624.0;40522.0;2072.0;50-64
+2018-10;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-04;Masculino;viúvo;Não aplicável;80242.0;45990.0;2298.0;50-64
+2024-05;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-02;Masculino;casado;Não aplicável;51999.0;40850.0;1862.0;30-49
+2017-04;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-10;Masculino;separado;Outras Comunidades;78593.0;45597.0;4540.0;30-49
+2019-04;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-06;Feminino;viúvo;Quilombolas;50575.0;40684.0;2793.0;30-49
+2018-11;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2025-05;Feminino;divorciado;Extravista;60308.0;47203.0;4041.0;30-49
+2017-12;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-11;Feminino;casado;Pescadores artesanais;87064.0;40003.0;2499.0;30-49
+2022-08;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-06;Feminino;viúvo;Extravista;60694.0;48964.0;3795.0;30-49
+2018-03;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-10;Feminino;separado;Assentados do PNRA;60989.0;47465.0;1611.0;30-49
+2019-08;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2024-02;Masculino;divorciado;Pescadores artesanais;99151.0;46303.0;4541.0;30-49
+2017-02;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-06;Feminino;divorciado;Indigena;69932.0;47750.0;3945.0;50-64
+2019-01;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-09;Masculino;divorciado;Quilombolas;87569.0;44983.0;3130.0;30-49
+2018-04;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-02;Masculino;casado;Indigena;84311.0;45333.0;3487.0;30-49
+2020-10;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-02;Feminino;solteiro;Indigena;95936.0;44905.0;1372.0;30-49
+2022-05;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-09;Masculino;viúvo;Pescadores artesanais;54727.0;43669.0;3918.0;50-64
+2019-11;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-06;Feminino;solteiro;Extravista;85850.0;42712.0;4675.0;30-49
+2023-05;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-03;Masculino;separado;Assentados do PNRA;66432.0;46295.0;2352.0;50-64
+2022-09;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2023-04;Masculino;divorciado;Não aplicável;60426.0;48269.0;3188.0;30-49
+2022-06;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-03;Feminino;divorciado;Extravista;97859.0;48148.0;3004.0;30-49
+2020-07;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-10;Feminino;solteiro;Assentados do PNRA;69696.0;44280.0;4424.0;30-49
+2018-02;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-03;Feminino;casado;Pescadores artesanais;63710.0;47344.0;3250.0;30-49
+2019-02;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-12;Feminino;divorciado;Quilombolas;71303.0;49958.0;1668.0;50-64
+2019-11;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2023-07;Masculino;casado;Outras Comunidades;99841.0;43084.0;3166.0;30-49
+2024-07;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-04;Feminino;viúvo;Outras Comunidades;58859.0;43270.0;1320.0;30-49
+2024-11;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-09;Feminino;divorciado;Outras Comunidades;77752.0;43377.0;1942.0;50-64
+2019-02;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-01;Masculino;viúvo;Não aplicável;60388.0;45761.0;3614.0;30-49
+2021-04;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-04;Masculino;solteiro;Quilombolas;75268.0;45311.0;4752.0;30-49
+2017-05;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2025-03;Masculino;separado;Não aplicável;92724.0;44422.0;3657.0;50-64
+2020-12;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-07;Feminino;viúvo;Pescadores artesanais;58300.0;40006.0;3430.0;50-64
+2019-02;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-06;Feminino;casado;Pescadores artesanais;66263.0;42525.0;3554.0;30-49
+2024-03;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-11;Feminino;divorciado;Outras Comunidades;89525.0;47929.0;3270.0;30-49
+2019-07;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-07;Feminino;casado;Outras Comunidades;96283.0;43077.0;4136.0;30-49
+2022-07;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-10;Feminino;divorciado;Quilombolas;83230.0;44199.0;2227.0;30-49
+2024-06;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-10;Masculino;separado;Assentados do PNRA;53953.0;48377.0;4772.0;30-49
+2023-03;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-07;Feminino;separado;Indigena;57006.0;40395.0;4331.0;50-64
+2022-09;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2025-02;Feminino;viúvo;Quilombolas;63839.0;45070.0;2057.0;30-49
+2024-01;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2025-04;Feminino;casado;Pescadores artesanais;80779.0;47463.0;3226.0;30-49
+2018-08;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-08;Feminino;divorciado;Outras Comunidades;97209.0;46865.0;4296.0;30-49
+2024-04;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-02;Feminino;separado;Indigena;75703.0;45217.0;2968.0;30-49
+2018-01;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2024-09;Feminino;solteiro;Assentados do PNRA;58778.0;48693.0;3859.0;30-49
+2023-06;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2024-10;Masculino;casado;Não aplicável;61254.0;40131.0;2851.0;30-49
+2024-10;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2024-10;Masculino;divorciado;Pescadores artesanais;50295.0;40993.0;2952.0;30-49
+2019-12;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-05;Masculino;divorciado;Indigena;52765.0;49608.0;1395.0;50-64
+2019-07;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-08;Masculino;casado;Não aplicável;70472.0;47588.0;4035.0;50-64
+2019-05;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2025-01;Masculino;solteiro;Outras Comunidades;53814.0;43937.0;1791.0;50-64
+2023-10;Salvador;BA;Nordeste;Banco do Brasil;MCMV-FAR;2024-07;Masculino;solteiro;Pescadores artesanais;74150.0;41217.0;4264.0;50-64
+2024-05;Salvador;BA;Nordeste;Caixa Econômica Federal;MCMV-FAR;2023-08;Masculino;casado;Outras Comunidades;76032.0;47427.0;4488.0;30-49
+2019-09;São Paulo;SP;Sudeste;Caixa Econômica Federal;MCMV-FAR;2023-03;Masculino;divorciado;Extravista;68306.0;49551.0;2048.0;30-49
+2023-03;São Paulo;SP;Sudeste;Banco do Brasil;MCMV-FAR;2023-05;Feminino;solteiro;Pescadores artesanais;66333.0;44070.0;3972.0;30-49
+2024-02;São Paulo;SP;Sudeste;Banco do Nordeste;MCMV-FAR;2025-04;Feminino;casado;Indigena;68890.0;42119.0;2973.0;50-64
+2023-04;Salvador;BA;Nordeste;Banco do Nordeste;MCMV-FAR;2023-06;Masculino;viúvo;Pescadores artesanais;54607.0;41207.0;2247.0;30-49
+2018-06;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2025-06;Masculino;separado;Indigena;73722.0;48428.0;2037.0;30-49
+2022-04;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-12;Masculino;viúvo;Assentados do PNRA;52911.0;48649.0;4958.0;50-64
+2017-07;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-10;Masculino;viúvo;Outras Comunidades;72759.0;46186.0;2076.0;30-49
+2019-01;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-08;Masculino;viúvo;Extravista;73313.0;47040.0;4011.0;50-64
+2024-10;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-01;Masculino;viúvo;Pescadores artesanais;66490.0;46810.0;1395.0;50-64
+2023-03;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-09;Masculino;separado;Assentados do PNRA;77307.0;44374.0;4514.0;30-49
+2022-11;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-02;Masculino;divorciado;Pescadores artesanais;75669.0;47832.0;2820.0;30-49
+2021-06;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-06;Masculino;casado;Não aplicável;52243.0;41166.0;3314.0;30-49
+2020-07;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-12;Masculino;solteiro;Indigena;80687.0;43257.0;2942.0;50-64
+2018-05;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-11;Masculino;solteiro;Assentados do PNRA;83307.0;49848.0;4551.0;50-64
+2018-09;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-06;Masculino;viúvo;Pescadores artesanais;55299.0;44571.0;4529.0;50-64
+2021-06;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-05;Feminino;viúvo;Extravista;93622.0;45680.0;3821.0;30-49
+2022-07;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-03;Feminino;casado;Outras Comunidades;68238.0;42287.0;3769.0;30-49
+2020-05;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-02;Feminino;casado;Não aplicável;75265.0;46726.0;3929.0;30-49
+2021-06;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-07;Feminino;casado;Quilombolas;98070.0;45661.0;2581.0;50-64
+2019-05;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-05;Feminino;solteiro;Quilombolas;53532.0;41176.0;1317.0;50-64
+2020-06;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-01;Feminino;solteiro;Quilombolas;59388.0;48893.0;1378.0;30-49
+2021-03;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-01;Feminino;divorciado;Outras Comunidades;50394.0;44771.0;3463.0;30-49
+2017-10;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-09;Masculino;solteiro;Extravista;80286.0;46764.0;4836.0;30-49
+2024-12;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-08;Masculino;casado;Extravista;87201.0;49572.0;3169.0;30-49
+2019-11;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-07;Masculino;separado;Indigena;51229.0;44245.0;3438.0;30-49
+2020-09;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-01;Feminino;solteiro;Quilombolas;84279.0;48471.0;4551.0;50-64
+2022-04;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-07;Masculino;separado;Assentados do PNRA;60619.0;44219.0;1449.0;50-64
+2018-03;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-09;Masculino;solteiro;Pescadores artesanais;84934.0;46629.0;3553.0;50-64
+2018-12;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-08;Feminino;divorciado;Assentados do PNRA;88759.0;40562.0;1723.0;50-64
+2019-05;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-02;Feminino;casado;Pescadores artesanais;53458.0;42607.0;4220.0;50-64
+2022-09;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-10;Feminino;divorciado;Assentados do PNRA;85997.0;44304.0;3707.0;30-49
+2019-08;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-02;Feminino;casado;Indigena;57757.0;40805.0;2102.0;30-49
+2019-01;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-04;Feminino;separado;Outras Comunidades;61676.0;41820.0;3737.0;30-49
+2024-12;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-04;Feminino;separado;Não aplicável;96715.0;43549.0;2207.0;30-49
+2018-10;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-10;Feminino;separado;Quilombolas;72696.0;49535.0;2511.0;30-49
+2023-06;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-10;Masculino;casado;Indigena;67366.0;41795.0;2958.0;50-64
+2022-09;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-03;Feminino;casado;Não aplicável;52713.0;46447.0;3452.0;30-49
+2017-07;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-10;Masculino;separado;Outras Comunidades;85756.0;49530.0;2327.0;30-49
+2019-03;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2025-04;Masculino;solteiro;Assentados do PNRA;71935.0;49781.0;3150.0;50-64
+2023-02;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-12;Masculino;divorciado;Assentados do PNRA;61356.0;47034.0;2623.0;50-64
+2017-10;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-10;Masculino;viúvo;Indigena;75325.0;47073.0;4227.0;50-64
+2022-01;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2025-01;Feminino;viúvo;Assentados do PNRA;92916.0;46734.0;2044.0;30-49
+2022-06;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-02;Masculino;viúvo;Outras Comunidades;96295.0;47845.0;3571.0;30-49
+2018-12;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-09;Feminino;viúvo;Assentados do PNRA;98866.0;45741.0;2793.0;30-49
+2024-05;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-12;Masculino;viúvo;Pescadores artesanais;75995.0;40163.0;4756.0;30-49
+2019-08;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-11;Feminino;viúvo;Assentados do PNRA;68653.0;49868.0;3575.0;30-49
+2022-01;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-07;Masculino;solteiro;Assentados do PNRA;87548.0;43780.0;4619.0;50-64
+2023-08;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-03;Masculino;divorciado;Extravista;81427.0;45766.0;3866.0;30-49
+2021-09;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-12;Masculino;casado;Assentados do PNRA;66790.0;45054.0;3632.0;30-49
+2017-01;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-10;Masculino;divorciado;Assentados do PNRA;50235.0;41286.0;2417.0;30-49
+2019-06;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2025-03;Feminino;separado;Não aplicável;81371.0;41705.0;4490.0;50-64
+2018-10;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-06;Masculino;solteiro;Não aplicável;59160.0;42014.0;2684.0;30-49
+2021-08;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-11;Feminino;divorciado;Quilombolas;60795.0;46849.0;3277.0;30-49
+2019-03;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-05;Masculino;casado;Assentados do PNRA;66810.0;48452.0;4993.0;50-64
+2021-06;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-12;Masculino;viúvo;Indigena;74357.0;42430.0;3640.0;50-64
+2017-02;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-08;Masculino;viúvo;Indigena;94073.0;43984.0;3155.0;50-64
+2022-04;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-11;Feminino;solteiro;Não aplicável;53754.0;42716.0;3079.0;30-49
+2023-04;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-12;Masculino;separado;Pescadores artesanais;63858.0;40550.0;4094.0;30-49
+2018-11;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-12;Feminino;divorciado;Assentados do PNRA;60608.0;44790.0;3999.0;30-49
+2024-02;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-12;Masculino;casado;Extravista;66871.0;49879.0;1754.0;30-49
+2021-12;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2025-02;Feminino;divorciado;Indigena;67289.0;43379.0;2188.0;30-49
+2018-06;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-02;Masculino;separado;Outras Comunidades;91910.0;47813.0;2106.0;30-49
+2022-06;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-02;Masculino;solteiro;Quilombolas;88724.0;42933.0;3296.0;30-49
+2019-04;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2025-05;Feminino;solteiro;Outras Comunidades;83784.0;42075.0;4834.0;30-49
+2021-11;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-02;Feminino;solteiro;Indigena;71130.0;40346.0;4905.0;50-64
+2017-03;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-03;Feminino;casado;Extravista;79871.0;41071.0;3236.0;50-64
+2023-04;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-09;Masculino;casado;Outras Comunidades;78819.0;43285.0;4915.0;30-49
+2024-11;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-02;Feminino;viúvo;Outras Comunidades;56829.0;41016.0;4682.0;30-49
+2022-11;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-05;Masculino;divorciado;Pescadores artesanais;87060.0;40322.0;2872.0;50-64
+2023-12;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-04;Masculino;viúvo;Pescadores artesanais;58576.0;42044.0;4300.0;30-49
+2022-08;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-07;Masculino;viúvo;Não aplicável;90532.0;44976.0;1798.0;30-49
+2023-11;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-10;Masculino;separado;Indigena;97881.0;44542.0;2096.0;50-64
+2018-12;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-04;Masculino;separado;Não aplicável;72466.0;49135.0;4926.0;30-49
+2017-08;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-08;Feminino;casado;Assentados do PNRA;68374.0;49004.0;3655.0;30-49
+2022-04;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-02;Masculino;separado;Pescadores artesanais;81260.0;40979.0;1429.0;30-49
+2022-10;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-09;Masculino;casado;Não aplicável;61035.0;48967.0;2031.0;30-49
+2024-07;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-07;Masculino;divorciado;Pescadores artesanais;63279.0;44655.0;1577.0;30-49
+2021-10;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-02;Masculino;separado;Extravista;64074.0;40390.0;1874.0;30-49
+2022-05;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-05;Masculino;divorciado;Pescadores artesanais;52348.0;46379.0;2988.0;30-49
+2020-01;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-05;Feminino;separado;Quilombolas;96968.0;42526.0;2161.0;30-49
+2023-08;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-04;Masculino;casado;Indigena;67337.0;46662.0;1320.0;30-49
+2021-03;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2025-03;Feminino;solteiro;Outras Comunidades;93128.0;48356.0;3753.0;30-49
+2023-08;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-03;Masculino;divorciado;Indigena;97466.0;48954.0;1744.0;30-49
+2023-07;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-08;Feminino;separado;Extravista;86922.0;42609.0;3756.0;30-49
+2017-12;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2025-06;Masculino;viúvo;Extravista;52396.0;46834.0;2043.0;30-49
+2022-07;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2025-06;Feminino;solteiro;Outras Comunidades;56594.0;47929.0;4361.0;50-64
+2023-04;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-06;Feminino;separado;Extravista;71082.0;48407.0;3594.0;30-49
+2020-10;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-02;Feminino;viúvo;Indigena;63246.0;48346.0;2050.0;30-49
+2019-11;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-11;Masculino;solteiro;Assentados do PNRA;92303.0;40556.0;2975.0;30-49
+2017-01;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-02;Feminino;divorciado;Pescadores artesanais;99149.0;43054.0;1930.0;30-49
+2017-11;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-04;Masculino;solteiro;Extravista;64252.0;42617.0;3253.0;50-64
+2023-10;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-02;Masculino;solteiro;Assentados do PNRA;67356.0;43242.0;3519.0;30-49
+2018-04;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-09;Feminino;solteiro;Extravista;74902.0;46157.0;2526.0;30-49
+2021-10;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2025-02;Masculino;separado;Indigena;58575.0;42478.0;3383.0;50-64
+2019-08;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-02;Masculino;viúvo;Outras Comunidades;52901.0;45359.0;3445.0;30-49
+2024-07;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2025-02;Feminino;casado;Quilombolas;67668.0;45389.0;2162.0;30-49
+2022-06;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-10;Feminino;divorciado;Não aplicável;69621.0;45979.0;4784.0;50-64
+2017-09;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-01;Masculino;solteiro;Assentados do PNRA;79367.0;44395.0;4907.0;30-49
+2022-09;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-03;Feminino;separado;Quilombolas;98876.0;44131.0;3925.0;30-49
+2024-07;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-01;Masculino;divorciado;Outras Comunidades;60399.0;46235.0;4897.0;30-49
+2020-06;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-05;Feminino;solteiro;Assentados do PNRA;93027.0;42366.0;3854.0;30-49
+2018-06;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-04;Feminino;solteiro;Assentados do PNRA;65397.0;49118.0;3380.0;50-64
+2018-08;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-01;Masculino;viúvo;Quilombolas;84649.0;41046.0;4904.0;30-49
+2024-06;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-02;Feminino;separado;Assentados do PNRA;95384.0;42995.0;1919.0;30-49
+2018-09;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-09;Feminino;viúvo;Assentados do PNRA;71445.0;49652.0;5000.0;50-64
+2020-10;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-07;Feminino;divorciado;Outras Comunidades;88660.0;49476.0;2140.0;30-49
+2022-06;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-04;Feminino;divorciado;Não aplicável;87080.0;44542.0;1992.0;50-64
+2018-09;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-02;Masculino;divorciado;Outras Comunidades;59158.0;40828.0;4791.0;50-64
+2019-01;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-06;Masculino;divorciado;Pescadores artesanais;70050.0;41588.0;2152.0;30-49
+2021-02;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-05;Masculino;divorciado;Quilombolas;58598.0;45560.0;3338.0;50-64
+2021-08;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-06;Feminino;separado;Pescadores artesanais;93702.0;40051.0;3403.0;50-64
+2024-12;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-05;Feminino;viúvo;Outras Comunidades;80975.0;44951.0;1579.0;30-49
+2019-07;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-06;Feminino;casado;Extravista;86592.0;49939.0;1774.0;30-49
+2017-06;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-02;Feminino;solteiro;Pescadores artesanais;53728.0;42030.0;4993.0;30-49
+2023-11;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-12;Masculino;solteiro;Quilombolas;70664.0;40212.0;2519.0;30-49
+2020-12;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-05;Feminino;viúvo;Outras Comunidades;84186.0;41563.0;3502.0;30-49
+2020-10;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-07;Feminino;solteiro;Não aplicável;50866.0;46566.0;3696.0;30-49
+2020-04;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-10;Feminino;separado;Extravista;82507.0;41592.0;3475.0;30-49
+2019-03;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-03;Feminino;casado;Assentados do PNRA;92080.0;46785.0;3775.0;30-49
+2020-02;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-11;Masculino;separado;Outras Comunidades;67449.0;49903.0;3393.0;30-49
+2022-02;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-04;Masculino;divorciado;Quilombolas;67320.0;49610.0;1701.0;30-49
+2024-03;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-06;Masculino;solteiro;Não aplicável;74146.0;40098.0;1970.0;30-49
+2017-06;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-08;Feminino;solteiro;Extravista;60698.0;42684.0;3751.0;50-64
+2017-02;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-06;Masculino;divorciado;Indigena;71259.0;45116.0;1856.0;30-49
+2023-01;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2025-05;Feminino;divorciado;Assentados do PNRA;64908.0;43539.0;4398.0;30-49
+2023-07;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-06;Feminino;divorciado;Não aplicável;87050.0;44579.0;1380.0;30-49
+2021-11;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-07;Masculino;separado;Quilombolas;71712.0;48613.0;4749.0;30-49
+2022-03;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-01;Masculino;casado;Pescadores artesanais;58408.0;49914.0;2629.0;30-49
+2020-09;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-08;Feminino;solteiro;Outras Comunidades;67426.0;49181.0;2058.0;30-49
+2023-12;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-02;Masculino;viúvo;Quilombolas;68099.0;45742.0;2392.0;30-49
+2017-03;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-02;Masculino;viúvo;Assentados do PNRA;69846.0;48446.0;2943.0;50-64
+2019-11;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2025-02;Feminino;casado;Indigena;53606.0;48492.0;4376.0;30-49
+2021-02;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-12;Feminino;casado;Não aplicável;96936.0;48974.0;3634.0;30-49
+2023-10;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2025-03;Feminino;viúvo;Outras Comunidades;71363.0;42428.0;2262.0;30-49
+2023-09;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-03;Masculino;divorciado;Não aplicável;99378.0;43986.0;1676.0;30-49
+2018-04;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-09;Feminino;separado;Extravista;94614.0;48796.0;3847.0;30-49
+2021-07;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-10;Masculino;separado;Quilombolas;55634.0;40507.0;1813.0;30-49
+2020-10;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-10;Feminino;viúvo;Não aplicável;84864.0;40316.0;1700.0;30-49
+2023-05;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-07;Masculino;viúvo;Indigena;72401.0;42046.0;1593.0;30-49
+2020-01;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-03;Feminino;separado;Não aplicável;57222.0;42274.0;1315.0;50-64
+2019-12;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-06;Masculino;casado;Quilombolas;76669.0;42467.0;4975.0;30-49
+2018-08;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-06;Feminino;solteiro;Assentados do PNRA;86133.0;48847.0;1623.0;30-49
+2019-10;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-03;Feminino;casado;Indigena;91564.0;45250.0;4139.0;50-64
+2022-05;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-11;Masculino;casado;Indigena;86228.0;48805.0;3186.0;30-49
+2020-10;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-07;Masculino;solteiro;Quilombolas;52275.0;41362.0;1917.0;30-49
+2022-03;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2024-09;Masculino;solteiro;Não aplicável;67444.0;48318.0;3799.0;30-49
+2021-03;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-08;Feminino;solteiro;Pescadores artesanais;85122.0;45757.0;1888.0;30-49
+2019-07;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2025-06;Masculino;viúvo;Outras Comunidades;72159.0;41911.0;4117.0;50-64
+2023-11;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2025-05;Feminino;casado;Outras Comunidades;69320.0;40099.0;1685.0;50-64
+2020-12;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-06;Feminino;divorciado;Assentados do PNRA;74437.0;48618.0;3601.0;30-49
+2018-12;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2025-06;Feminino;casado;Pescadores artesanais;52235.0;41584.0;3917.0;50-64
+2017-12;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-02;Masculino;viúvo;Pescadores artesanais;74090.0;42610.0;2506.0;30-49
+2019-12;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-08;Masculino;separado;Indigena;95732.0;43319.0;4907.0;30-49
+2020-10;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2025-04;Masculino;viúvo;Indigena;94159.0;49423.0;3743.0;50-64
+2017-06;Curitiba;PR;Sul;Caixa Econômica Federal;MCMV-Oferta Pública;2023-09;Feminino;solteiro;Extravista;87473.0;47670.0;2426.0;50-64
+2017-07;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2024-09;Masculino;casado;Não aplicável;66113.0;45521.0;2042.0;30-49
+2020-07;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-03;Masculino;viúvo;Assentados do PNRA;95699.0;47577.0;1841.0;30-49
+2019-06;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2024-09;Feminino;casado;Pescadores artesanais;89877.0;44569.0;3906.0;30-49
+2020-12;Curitiba;PR;Sul;Banco do Brasil;MCMV-Oferta Pública;2023-12;Masculino;viúvo;Pescadores artesanais;61699.0;44888.0;4719.0;30-49
+2022-03;Curitiba;PR;Sul;Banco do Nordeste;MCMV-Oferta Pública;2023-11;Masculino;separado;Quilombolas;90264.0;49671.0;4286.0;30-49
