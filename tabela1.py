@@ -1,37 +1,60 @@
 import pandas as pd
-import numpy as np
 
-dados = pd.read_csv('dados ficticios.csv', sep=';', encoding='latin1')
+#Ler base
+dados = pd.read_csv("dados ficticios.csv", sep=";", encoding="latin1")
 
-dados = dados.drop(columns=['txt_nome_empreendimento', 'cod_ibge', 'cod_empreendimento'])
+#Remover colunas irrelevantes
+dados = dados.drop(columns=["txt_nome_empreendimento", "cod_ibge", "cod_empreendimento"], errors="ignore")
 
-# Converter datas para ano-mês (corrigido para dayfirst=True)
-dados['data_referencia'] = pd.to_datetime(dados['data_referencia'], dayfirst=True).dt.strftime('%Y-%m')
-dados['dt_assinatura_contrato'] = pd.to_datetime(dados['dt_assinatura_contrato'], dayfirst=True).dt.strftime('%Y-%m')
+#Converter datas para ano-mês
+dados["data_referencia"] = pd.to_datetime(dados["data_referencia"], dayfirst=True, errors="coerce").dt.to_period("M").astype(str)
+dados["dt_assinatura_contrato"] = pd.to_datetime(dados["dt_assinatura_contrato"], dayfirst=True, errors="coerce").dt.to_period("M").astype(str)
 
-# Criar faixa_etaria baseado no ano de nascimento
-anos = pd.to_datetime(dados['data_nascimento'], dayfirst=True).dt.year
-bins = [1900, 1980, 2000, 2010, 2025]
-labels = ['até 29', '30-49', '50-64', '65+']
-dados['faixa_etaria'] = pd.cut(anos, bins=bins, labels=labels, right=False)
+#Criar faixa etária
+dados["faixa_etaria"] = pd.to_datetime(dados["data_nascimento"], dayfirst=True, errors="coerce").dt.year
+dados["faixa_etaria"] = pd.cut(dados["faixa_etaria"], 
+                               bins=[1900, 1980, 2000, 2010, 2025], 
+                               labels=["até 29", "30-49", "50-64", "65+"], 
+                               right=False)
 
-# Remover data_nascimento
-dados = dados.drop(columns=['data_nascimento'])
+#Remover coluna original de nascimento
+dados = dados.drop(columns=["data_nascimento"], errors="ignore")
 
-# Renomear colunas para evitar espaços
+#Renomear colunas
 dados = dados.rename(columns={
-    'Estado Civil': 'estado_civil',
-    'Tipo de Beneficiário': 'tipo_beneficiario'
+    "Estado Civil": "estado_civil",
+    "Tipo de Beneficiário": "tipo_beneficiario"
 })
 
-# 3. Criar amostra fixa (seed)
-np.random.seed(123)
-amostra = dados.sample(n=500, random_state=123)
+#Converter colunas monetárias para float
+colunas_monetarias = ["vr_garantia_inicial", "vr_subsidio_concessao", "vr_renda_familiar_comprovada"]
+for col in colunas_monetarias:
+    if col in dados.columns:
+        dados[col] = dados[col].astype(str).replace({"R\$": "", "\.": "", ",": "."}, regex=True)
+        dados[col] = pd.to_numeric(dados[col], errors="coerce")
 
-# Salvar amostra
-amostra.to_csv('amostra_sdc.csv', index=False)
+#Amostragem estratificada por modalidade
+frac_por_grupo = 0.05  # 5% de cada modalidade
+amostra = dados.groupby("txt_modalidade", group_keys=False).apply(
+    lambda x: x.sample(frac=frac_por_grupo, random_state=123)
+)
 
-# 4. EDA básica
+#Salvar amostra para usar no sdcApp
+amostra.to_csv("amostra_sdc.csv", index=False, encoding="utf-8-sig")
+print("✅ Amostra estratificada salva como 'amostra_sdc.csv'")
+
+# EDA básica da amostra
+print("\nEstrutura da amostra:")
 print(amostra.info())
-print(amostra.describe(include='all'))
-print(amostra['txt_uf'].value_counts())
+
+print("\nResumo estatístico das variáveis numéricas:")
+print(amostra.describe(include="number"))
+
+print("\nResumo estatístico das variáveis categóricas:")
+print(amostra.describe(include="object"))
+
+print("\nContagem por UF:")
+print(amostra["txt_uf"].value_counts())
+
+print("\nContagem por modalidade:")
+print(amostra["txt_modalidade"].value_counts())
