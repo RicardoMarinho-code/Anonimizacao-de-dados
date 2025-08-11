@@ -1,60 +1,56 @@
 import pandas as pd
 
-#Ler base
-dados = pd.read_csv("dados ficticios.csv", sep=";", encoding="latin1")
+data = pd.read_csv("data ficticios.csv", sep=";", encoding="latin1")
 
-#Remover colunas irrelevantes
-dados = dados.drop(columns=["txt_nome_empreendimento", "cod_ibge", "cod_empreendimento"], errors="ignore")
+#tirar colunas com drop (pandas)
+data = data.drop(columns=["txt_nome_empreendimento", "cod_ibge", "cod_empreendimento"], errors="ignore")
 
-#Converter datas para ano-mês
-dados["data_referencia"] = pd.to_datetime(dados["data_referencia"], dayfirst=True, errors="coerce").dt.to_period("M").astype(str)
-dados["dt_assinatura_contrato"] = pd.to_datetime(dados["dt_assinatura_contrato"], dayfirst=True, errors="coerce").dt.to_period("M").astype(str)
+#Converter datas para ano/mês
+data["data_referencia"] = pd.to_datetime(data["data_referencia"], dayfirst=True, errors="coerce").dt.to_period("M").astype(str)
+data["dt_assinatura_contrato"] = pd.to_datetime(data["dt_assinatura_contrato"], dayfirst=True, errors="coerce").dt.to_period("M").astype(str)
 
-#Criar faixa etária
-dados["faixa_etaria"] = pd.to_datetime(dados["data_nascimento"], dayfirst=True, errors="coerce").dt.year
-dados["faixa_etaria"] = pd.cut(dados["faixa_etaria"], 
+data["faixa_etaria"] = pd.to_datetime(data["data_nascimento"], dayfirst=True, errors="coerce").dt.year
+data["faixa_etaria"] = pd.cut(data["faixa_etaria"], 
                                bins=[1900, 1980, 2000, 2010, 2025], 
                                labels=["até 29", "30-49", "50-64", "65+"], 
                                right=False)
 
-#Remover coluna original de nascimento
-dados = dados.drop(columns=["data_nascimento"], errors="ignore")
+data = data.drop(columns=["data_nascimento"], errors="ignore")
 
-#Renomear colunas
-dados = dados.rename(columns={
+#Renomear colunas com rename (pandas)
+data = data.rename(columns={
     "Estado Civil": "estado_civil",
     "Tipo de Beneficiário": "tipo_beneficiario"
 })
 
-#Converter colunas monetárias para float
-colunas_monetarias = ["vr_garantia_inicial", "vr_subsidio_concessao", "vr_renda_familiar_comprovada"]
-for col in colunas_monetarias:
-    if col in dados.columns:
-        dados[col] = dados[col].astype(str).replace({"R\$": "", "\.": "", ",": "."}, regex=True)
-        dados[col] = pd.to_numeric(dados[col], errors="coerce")
+#colunas monetárias para float
+monet_colums = ["vr_garantia_inicial", "vr_subsidio_concessao", "vr_renda_familiar_comprovada"]
+for col in monet_colums:
+    if col in data.columns:
+        data[col] = data[col].astype(str).replace({"R\$": "", "\.": "", ",": "."}, regex=True)
+        data[col] = pd.to_numeric(data[col], errors="coerce")
 
-#Amostragem estratificada por modalidade
-frac_por_grupo = 0.05  # 5% de cada modalidade
-amostra = dados.groupby("txt_modalidade", group_keys=False).apply(
-    lambda x: x.sample(frac=frac_por_grupo, random_state=123)
+#Amostragem estratificada
+fac_per_group = 0.05  # 5% por modalidade
+sample = data.groupby("txt_modalidade", group_keys=False).apply(
+    lambda x: x.sample(frac=fac_per_group, random_state=123)
 )
 
-#Salvar amostra para usar no sdcApp
-amostra.to_csv("amostra_sdc.csv", index=False, encoding="utf-8-sig")
-print("✅ Amostra estratificada salva como 'amostra_sdc.csv'")
+sample.to_csv("amostra_sdc.csv", index=False, encoding="utf-8-sig")
+print("✅ Amostra estratificada salva como 'sample_sdc.csv'")
 
-# EDA básica da amostra
+# EDA básica da sample
 print("\nEstrutura da amostra:")
-print(amostra.info())
+print(sample.info())
 
-print("\nResumo estatístico das variáveis numéricas:")
-print(amostra.describe(include="number"))
+print("\nResumo estatístico numéricas:")
+print(sample.describe(include="number"))
 
-print("\nResumo estatístico das variáveis categóricas:")
-print(amostra.describe(include="object"))
+print("\nResumo estatístico categóricas:")
+print(sample.describe(include="object"))
 
 print("\nContagem por UF:")
-print(amostra["txt_uf"].value_counts())
+print(sample["txt_uf"].value_counts())
 
 print("\nContagem por modalidade:")
-print(amostra["txt_modalidade"].value_counts())
+print(sample["txt_modalidade"].value_counts())
