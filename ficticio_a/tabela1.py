@@ -31,7 +31,7 @@ sample = data.groupby("txt_modalidade", group_keys=False).apply(
     lambda x: x.sample(frac=fac_per_group, random_state=123)
 )
 
-#amostra para sdcApp
+#amostra para SdcApp
 sample.to_csv("amostra_sdc.csv", index=False, encoding="utf-8-sig")
 print("✅ Amostra estratificada salva como 'amostra_sdc.csv'")
 
