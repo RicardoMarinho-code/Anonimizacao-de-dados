@@ -1,0 +1,22 @@
+﻿Info,Seção,index,vr_garantia_inicial,vr_subsidio_concessao,vr_renda_familiar_comprovada,data_referencia,txt_municipio,txt_uf,txt_regiao,txt_af,txt_modalidade,dt_assinatura_contrato,txt_sexo,estado_civil,tipo_beneficiario,UF,Contagem,Modalidade
+"613 linhas, 14 colunas",,,,,,,,,,,,,,,,,,
+"Tipos de dados: {'data_referencia': dtype('O'), 'txt_municipio': dtype('O'), 'txt_uf': dtype('O'), 'txt_regiao': dtype('O'), 'txt_af': dtype('O'), 'txt_modalidade': dtype('O'), 'dt_assinatura_contrato': dtype('O'), 'txt_sexo': dtype('O'), 'estado_civil': dtype('O'), 'tipo_beneficiario': dtype('O'), 'vr_garantia_inicial': dtype('float64'), 'vr_subsidio_concessao': dtype('float64'), 'vr_renda_familiar_comprovada': dtype('float64'), 'faixa_etaria': CategoricalDtype(categories=['até 29', '30-49', '50-64', '65+'], ordered=True, categories_dtype=object)}",,,,,,,,,,,,,,,,,,
+,Resumo numéricas,count,613.0,613.0,613.0,,,,,,,,,,,,,
+,Resumo numéricas,mean,74450.43719412724,44908.55954323002,3178.0766721044047,,,,,,,,,,,,,
+,Resumo numéricas,std,14478.330943060539,2967.9861724846232,1061.6429010456109,,,,,,,,,,,,,
+,Resumo numéricas,min,50085.0,40002.0,1315.0,,,,,,,,,,,,,
+,Resumo numéricas,25%,62785.0,42366.0,2195.0,,,,,,,,,,,,,
+,Resumo numéricas,50%,73222.0,44905.0,3270.0,,,,,,,,,,,,,
+,Resumo numéricas,75%,87050.0,47498.0,4057.0,,,,,,,,,,,,,
+,Resumo numéricas,max,99986.0,50000.0,5000.0,,,,,,,,,,,,,
+,Resumo categóricas,count,,,,613,613,613,613,613,613,613,613,613,613,,,
+,Resumo categóricas,unique,,,,96,4,4,3,3,3,30,2,5,7,,,
+,Resumo categóricas,top,,,,2020-10,Salvador,BA,Sudeste,Banco do Brasil,MCMV-FAR,2025-02,Masculino,divorciado,Pescadores artesanais,,,
+,Resumo categóricas,freq,,,,14,168,168,289,231,306,28,311,141,101,,,
+,Contagem por UF,,,,,,,,,,,,,,,BA,168.0,
+,Contagem por UF,,,,,,,,,,,,,,,PR,156.0,
+,Contagem por UF,,,,,,,,,,,,,,,RJ,151.0,
+,Contagem por UF,,,,,,,,,,,,,,,SP,138.0,
+,Contagem por modalidade,,,,,,,,,,,,,,,,306.0,MCMV-FAR
+,Contagem por modalidade,,,,,,,,,,,,,,,,156.0,MCMV-Oferta Pública
+,Contagem por modalidade,,,,,,,,,,,,,,,,151.0,MCMV-Entidades
