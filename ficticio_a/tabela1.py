@@ -1,4 +1,6 @@
 import pandas as pd
+import sweetviz as sv
+import os
 
 data = pd.read_csv("dados/dados ficticios.csv", sep=";", encoding="latin1")
 
@@ -23,7 +25,7 @@ data = data.rename(columns={
 monet_colums = ["vr_garantia_inicial", "vr_subsidio_concessao", "vr_renda_familiar_comprovada"]
 for col in monet_colums:
     if col in data.columns:
-        data[col] = data[col].astype(str).replace({"R\$": "", "\.": "", ",": "."}, regex=True)
+        data[col] = data[col].astype(str).replace({r"R\$": "", r"\.": "", ",": "."}, regex=True)
         data[col] = pd.to_numeric(data[col], errors="coerce")
 
 fac_per_group = 0.05  # 5% por modalidade
@@ -31,36 +33,14 @@ sample = data.groupby("txt_modalidade", group_keys=False).apply(
     lambda x: x.sample(frac=fac_per_group, random_state=123)
 )
 
-#amostra para SdcApp
 sample.to_csv("amostra_sdc.csv", index=False, encoding="utf-8-sig")
 print("✅ Amostra estratificada salva como 'amostra_sdc.csv'")
 
-#DF para EDA
-eda_parts = []
+dataset_name = "dados_ficticios"
+output_dir = "relatorios_sweetviz"
+os.makedirs(output_dir, exist_ok=True)
 
-eda_parts.append(pd.DataFrame({
-    "Info": [f"{sample.shape[0]} linhas, {sample.shape[1]} colunas", 
-             f"Tipos de dados: {dict(sample.dtypes)}"]
-}))
+profiling_html_path = os.path.join(output_dir, f"{dataset_name}.html")
 
-desc_num = sample.describe(include="number").reset_index()
-desc_num.insert(0, "Seção", "Resumo numéricas")
-eda_parts.append(desc_num)
-
-desc_cat = sample.describe(include="object").reset_index()
-desc_cat.insert(0, "Seção", "Resumo categóricas")
-eda_parts.append(desc_cat)
-
-uf_counts = sample["txt_uf"].value_counts().reset_index()
-uf_counts.columns = ["UF", "Contagem"]
-uf_counts.insert(0, "Seção", "Contagem por UF")
-eda_parts.append(uf_counts)
-
-mod_counts = sample["txt_modalidade"].value_counts().reset_index()
-mod_counts.columns = ["Modalidade", "Contagem"]
-mod_counts.insert(0, "Seção", "Contagem por modalidade")
-eda_parts.append(mod_counts)
-
-eda_final = pd.concat(eda_parts, ignore_index=True)
-eda_final.to_csv("eda_amostra.csv", index=False, encoding="utf-8-sig")
-
+profile_report = sv.analyze(sample, pairwise_analysis='on')
+profile_report.show_html(profiling_html_path)
